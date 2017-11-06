@@ -1,5 +1,5 @@
 # Organize a mob programming session
-![alt text](photos/Mob.png)
+![Mob programming](photos/Mob.png)
 > ## "Resolve complex problems in whole team"
 
 * Gather your team
