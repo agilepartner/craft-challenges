@@ -4,3 +4,7 @@
 * [Pair program during 30' at least](pair-programming.md)
 * [Mentor someone else](mentoring.md)
 * [Implement a kudo wall](kudo-wall.md)
+* [Share with your users or clients](share.md)
+* [Continuous build](continuous-build.md)
+* [Architecture retrospective](architecture-retrospective.md)
+* [Pull requests](pull-requests.md)
