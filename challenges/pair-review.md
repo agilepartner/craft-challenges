@@ -11,4 +11,4 @@ Review other team members code
 
 What we recommend is to add the pair review step into your process of delivery (inside your **Definition of Done** for example)
 
-![Good way to do it](photos/pair-review1.png)
+![Good way to do it](photos/pair-review2.png)
