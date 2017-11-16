@@ -6,9 +6,9 @@ Practicing `code review` in another team promotes collaboration, communication.
 
 ## What is a pair review ?
 Review other team members code
-
 ![Wrong way to think](photos/pair-review1.png)
+because this kind of things can happen...
 
 What we recommend is to add the pair review step into your process of delivery (inside your **Definition of Done** for example)
 
-![Good way to do it](photos/pair-review1.png)
+![Good way to do it](photos/pair-review2.png)
