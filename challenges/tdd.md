@@ -4,6 +4,7 @@
 * Start to work on a new functionality
 * Think about your tests first
 * Write your tests and your implementation through T.D.D
+* Share with your teammates about your experimentation
 
 ## What is Test Driven Development ?
 `Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle: Requirements are turned into very specific test cases, then the software is improved to pass the new tests, only.`
