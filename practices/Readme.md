@@ -8,3 +8,7 @@
 * [Continuous build](continuous-build.md)
 * [Architecture retrospective](architecture-retrospective.md)
 * [Pull requests](pull-requests.md)
+* [Organise a lean coffee](lean-coffee.md)
+* [Create my team's skills matrix](skills-matrix.md)
+* [Organize an exploratory testing session](exploratory-testing.md)
+* [Organize an internal Hackathon](hackhathon.md)
