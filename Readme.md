@@ -5,6 +5,8 @@ Those challenges are organized in 4 categories :
 ## [Challenges](challenges/Readme.md)
 ## [Dev](dev/Readme.md)  
 ## [Practices](practices/Readme.md)
-## [Culture](culture/Readme.md)
+## [Culture](culture/Readme.md)  
 
-![Agile partner](images/agilepartner.png)  
+<br/>
+<br/>
+<p style="text-align:center"><img src="images/agilepartner.png" /></p>
