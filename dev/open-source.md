@@ -1,4 +1,4 @@
 # Open source
-![Open source](photos/open-source.png)  
+![Open source](images/open-source.png)  
 
 Contribute to an open source project.

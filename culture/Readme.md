@@ -4,3 +4,4 @@
 * [Start the day with an ice breaker](ice-breaker.md)
 * [Attend to a conference (tech or not)](conference.md)
 * [Watch a video](watch-video.md)
+* [Read 1 chapter from a technical book](technical-book.md)

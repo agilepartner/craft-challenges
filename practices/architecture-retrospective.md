@@ -1,4 +1,4 @@
 # Architecture retrospective
-![Architecture retrospective](photos/architecture-retrospective.png)  
+![Architecture retrospective](images/architecture-retrospective.png)  
 
 Organize an architecture retrospective.

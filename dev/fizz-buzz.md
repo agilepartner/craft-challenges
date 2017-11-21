@@ -1,4 +1,4 @@
 # Fizzbuzz
-![Fizzbuzz](photos/fizz-buzz.png)  
+![Fizzbuzz](images/fizz-buzz.png)  
 
 Write a "Fizzbuzz" program in an unknown language.

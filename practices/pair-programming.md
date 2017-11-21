@@ -1,2 +1,2 @@
 # Pair program during 30' at least
-![Pair program](photos/pair-programming.png)
+![Pair program](images/pair-programming.png)

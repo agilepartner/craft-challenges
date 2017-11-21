@@ -1,2 +1,2 @@
 # Lead a product review
-![Lead a product review](photos/product-review.png)  
+![Lead a product review](images/product-review.png)  

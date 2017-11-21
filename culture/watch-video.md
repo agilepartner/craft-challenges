@@ -1,5 +1,5 @@
 # Watch a video
-![Watch video](photos/watch-video.png)  
+![Watch video](images/watch-video.png)  
 
 * Watch a video
 * Discuss about it with your team mates

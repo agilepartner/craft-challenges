@@ -1,5 +1,5 @@
 # Attend to a conference (tech or not)
-![Conference](photos/conference.png)  
+![Conference](images/conference.png)  
 
 * During the current iteration, find an conference to attend to.
 * The conference can be about anything.

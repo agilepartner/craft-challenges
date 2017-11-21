@@ -1,2 +1,2 @@
 # Create my team's skills matrix
-![Skills matrix](photos/skills-matrix.png)
+![Skills matrix](images/skills-matrix.png)

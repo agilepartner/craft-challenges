@@ -1,2 +1,2 @@
 # Facilitate a retrospective
-![Facilitate retrospective](photos/retrospective.png)  
+![Facilitate retrospective](images/retrospective.png)  

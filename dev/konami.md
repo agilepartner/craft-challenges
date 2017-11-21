@@ -1,4 +1,4 @@
 # Konami code
-![Konami code](photos/konami.png)  
+![Konami code](images/konami.png)  
 
 Implement a konami code in your application

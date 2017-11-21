@@ -1,4 +1,4 @@
 # Continuous build
-![Continuous build](photos/continuous-build.png)  
+![Continuous build](images/continuous-build.png)  
 
 Fix the continuous build of another team.

@@ -1,5 +1,5 @@
 # Write a functionality using Test Driven Development
-![TDD](photos/tdd.png)  
+![TDD](images/tdd.png)  
 
 * Start to work on a new functionality
 * Think about your tests first
@@ -17,4 +17,4 @@
 * Refactor code  
 * Repeat
 
-![TDD](photos/tdd1.png)  
+![TDD](images/tdd1.png)  

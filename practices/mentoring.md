@@ -1,2 +1,2 @@
 # Mentor someone else
-![Mentoring](photos/mentoring.png)
+![Mentoring](images/mentoring.png)

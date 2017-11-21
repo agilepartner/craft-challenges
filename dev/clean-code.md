@@ -1,5 +1,5 @@
 # Clean some "dead" or "crappy" code
-![Clean code](photos/clean_code.png)  
+![Clean code](images/clean_code.png)  
 * Identify a "code smell"
     * A "dead code"
     * A complex piece of code / "crappy" code

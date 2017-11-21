@@ -1,4 +1,4 @@
 # Cloud
-![Cloud](photos/cloud.png)  
+![Cloud](images/cloud.png)  
 
 Deploy an application in the cloud.

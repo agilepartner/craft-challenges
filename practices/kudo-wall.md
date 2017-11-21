@@ -1,5 +1,5 @@
 # Implement a kudo wall
-![Kudo wall](photos/kudo-wall.png)
+![Kudo wall](images/kudo-wall.png)
 
 > ## Kudo Cards are small gestures of gratitude.
 
@@ -9,4 +9,4 @@
 
 Those tokens are called kudo cards.
 
-![Kudo wall](photos/kudo-wall-sample.jpg)
+![Kudo wall](images/kudo-wall-sample.jpg)

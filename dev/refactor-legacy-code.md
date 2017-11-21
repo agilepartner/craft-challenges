@@ -1,2 +1,2 @@
 # Identify & refactor legacy code
-![Identify & refactor legacy code](photos/refactor-legacy-code.png)  
+![Identify & refactor legacy code](images/refactor-legacy-code.png)  

@@ -1,5 +1,5 @@
 # Organize a code kata session
-![Organize a code kata session](photos/code-kata.png)  
+![Organize a code kata session](images/code-kata.png)  
 
 A kata, or code kata, is defined as an exercise in programming which helps hone your skills through practice and repetition.  
 

@@ -1,2 +1,2 @@
 # Wear unusual clothes
-![Wear unusual clothes](photos/unusual-clothes.png)  
+![Wear unusual clothes](images/unusual-clothes.png)  

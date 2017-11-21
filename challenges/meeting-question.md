@@ -1,5 +1,5 @@
 # Ask a question during your next meeting (or conference)
-![Ask a question](photos/meeting-question.png)  
+![Ask a question](images/meeting-question.png)  
 
 As a developer you are not only someone who can translate business language to code.  
 You are more than that.  

@@ -1,2 +1,2 @@
 # Organize an exploratory testing session
-![Mentoring](photos/exploratory-testing.png)
+![Mentoring](images/exploratory-testing.png)
