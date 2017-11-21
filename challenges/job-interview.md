@@ -1,5 +1,16 @@
 # Participate to a job interview
 ![Job interview](images/job-interview.png)  
 
-Be part of the decisional process to hire someone for your team is very important.  
-So lead the next job interview.
+Because **software craftsmen want to work with other craftsmen** you must be involved in the hiring process.  
+You can use a lot of tools to do a job interview (Lego serious play, mind mapping, serious games, ...).  
+
+## OUR TIPS : 
+* Just be yourself
+* Connect with the interviewee
+* Share with him instead of having those weird usual interview conversations
+
+**DO THIS**  
+![Job interview](images/job-interview2.jpg)  
+
+**INSTEAD OF**  
+![Usual interview](images/job-interview1.jpg)    
