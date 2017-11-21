@@ -2,7 +2,7 @@
 ![Write article](images/write-article.png)  
 * Think about a topic you really care about
 * Create a post on it
-* Post it to a blog/twitter/IT website
+* Post it to a blog/twitter/IT website/internal network
 
 ## How to ?
 ### 8 steps
