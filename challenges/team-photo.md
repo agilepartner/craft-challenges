@@ -1,5 +1,5 @@
 # Team photo
-![Team photo](images/Team_Photo.png)  
+![Team photo](images/team-photo.png)  
 * Gather your team
 * Take a photo with your team
 * Publish it or stick it in your company
