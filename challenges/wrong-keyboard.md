@@ -5,3 +5,5 @@
 
 ## Why do we do that ?  
 Only because it's fun ;-)
+
+![Wrong keyboard makes me nut](images/wrong-keyboard1.png)
