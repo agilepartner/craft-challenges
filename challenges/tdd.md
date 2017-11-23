@@ -18,3 +18,8 @@
 * Repeat
 
 ![TDD](images/tdd1.png)  
+
+## Resources
+* https://www.agilealliance.org/glossary/tdd/
+* http://agiledata.org/essays/tdd.html
+* https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/
