@@ -1,12 +1,12 @@
 # Draw an architecture diagram on a A4 paper sheet
 ![Draw an architecture diagram](images/architecture-diagram.png)
 
-1) In solo
+**1) In solo**
 * Think about your current project
 * Think about the architecture
 * Draw a big picture diagram on a A4 paper sheet
 
-2) Team work
+**2) Team work**
 * Ask to everyone in your team to the same exercise
 * Compare your visions
 
