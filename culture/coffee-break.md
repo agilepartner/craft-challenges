@@ -5,4 +5,4 @@
 * Offer him a coffee
 * Chat with him
 
-![Coffee break](images/coffee_break1.png)  
+![Coffee break](images/coffee_break1.jpg)  
