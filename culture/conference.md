@@ -14,5 +14,6 @@ Propose to your team to give them a feedback in a 10-mins timebox.
 - [Craft-conf](https://craft-conf.com/)
 - [Devoxx](https://devoxx.com/)
 - [Voxxeddays](https://voxxeddays.com/)
+- ...
 
 ![Conference](images/conference1.png) 
