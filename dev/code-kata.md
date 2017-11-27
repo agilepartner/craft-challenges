@@ -32,4 +32,4 @@ A presenter shows how to solve the challenge from scratch (TDD, Baby steps).
 * [How to start a coding dojo ?](
 http://johannesbrodwall.com/2011/12/18/how-to-start-a-coding-dojo/)
     
-![Code kata](images/code-kata1.jpg)  
+![Code kata](images/code-kata1.gif)  
