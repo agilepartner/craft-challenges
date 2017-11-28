@@ -14,3 +14,6 @@ You can use a lot of tools to do a job interview (Lego serious play, mind mappin
 
 **INSTEAD OF**  
 ![Usual interview](images/job-interview1.jpg)    
+
+## Resources
+* [The 10 Questions Every Interviewer MUST Ask](https://www.scienceofpeople.com/10-questions-every-interviewer-must-ask/)

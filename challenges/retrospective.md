@@ -15,7 +15,7 @@ An Agile retrospective is a meeting that's held at the end of an iteration. Duri
   * Decide what to do : Deciding on specific, meaningful, agreed and realistic actions that will be done in the next Sprint
   * Close the retrospective
   
-`As software craftsmen we always want to improve, so it is very important to be able to facilitate this kind of meetings.`  
+> ### As software craftsmen we always want to improve, so it is very important to be able to facilitate this kind of meetings.
 To prepare it use [plans-for-retrospective](https://plans-for-retrospectives.com/en/).
   
 ## DO NOT USE ANTI-PATTERNS
@@ -29,9 +29,9 @@ To prepare it use [plans-for-retrospective](https://plans-for-retrospectives.com
 * No review of past action items
 
 ## Resources
-* https://plans-for-retrospectives.com/
-* http://retrospectivewiki.org/index.php?title=Retrospective_Plans
-* https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective
+* [Plans for retrospectives](https://plans-for-retrospectives.com/)
+* [Retrospective wiki](http://retrospectivewiki.org/index.php?title=Retrospective_Plans)
+* [Simple way to run a sprint retrospective](https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective)
 
 ![Retrospective](images/retrospective1.jpg)  
 ![Retrospective](images/retrospective2.jpg)  
