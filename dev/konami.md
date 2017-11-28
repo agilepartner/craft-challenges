@@ -8,6 +8,7 @@ A Konami Code (Japanese: コナミコマンド, Konami komando, "Konami command"
 The code is also present as an **Easter egg** on a number of websites.
 
 ## Example
-In 2017, the Bank of Canada placed an Easter egg on its website promoting its new $10 bill. Typing the Konami code on the website plays the national anthem and fills the screen with animated banknotes or fireworks.
+In 2017, the Bank of Canada placed an Easter egg on its website promoting its new $10 bill.  
+Typing the Konami code on the website plays the national anthem and fills the screen with animated banknotes or fireworks.
 
 ![Konami code](images/konami1.jpg)  
