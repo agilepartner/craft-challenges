@@ -11,3 +11,5 @@
 * See this [video](https://www.youtube.com/watch?v=dVqUcNKVbYg) to understand how to organize a mob session
 * [Mob programming role cards](https://github.com/willemlarsen/mobprogrammingrpg)
 * [Mob roles at Cucumber](https://cucumber.io/blog/2017/10/16/five-roles-in-a-healthy-mob)
+
+![Wrong spec](images/mob1.jpg)
