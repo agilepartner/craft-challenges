@@ -1,5 +1,6 @@
 # Write an article
 ![Write article](images/write-article.png)  
+
 * Think about a topic you really care about
 * Create a post on it
 * Post it to a blog/twitter/IT website/internal network
@@ -14,3 +15,5 @@
 **Step 6:** Ask feedbacks to your team mates.  
 **Step 7:** Revise your article.  
 **Step 8:** Publish it.  
+
+![Write article](images/write-article1.jpg)  
