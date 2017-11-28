@@ -18,7 +18,9 @@ BDD augments TDD and ATDD with the following tactics:
 Use Gherkin syntax to do so.
 
 ## Resources
-* https://www.departmentofproduct.com/blog/writing-bdd-test-scenarios/
-* https://blog.hiptest.net/2016/04/28/getting-started-with-bdd-part-1/
-* https://martinfowler.com/bliki/SpecificationByExample.html
-* https://blog.red-badger.com/blog/2012/07/31/what-is-specification-by-example
+* [Writing BDD test scenarios](https://www.departmentofproduct.com/blog/writing-bdd-test-scenarios/)
+* [Getting started with BDD](https://blog.hiptest.net/2016/04/28/getting-started-with-bdd-part-1/)
+* [What is Specification by example](https://blog.red-badger.com/blog/2012/07/31/what-is-specification-by-example)
+* [Specification by example explained by Martin Fowler](https://martinfowler.com/bliki/SpecificationByExample.html)
+
+![Wrong spec](images/write-3-BDD-scenarios2.jpg) 
