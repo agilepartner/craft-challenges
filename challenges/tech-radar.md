@@ -7,12 +7,15 @@
   * Tools
   * Platforms
   * Techniques  
+
 ![List tech](images/tech-radar1.png)  
+
 * Sort them :
   * Adopt
   * Trial
   * Assess
-  * Hold  
+  * Hold
+ 
 ![Sort tech](images/tech-radar2.png)  
 
 At the end of this workshop you can build your online tech radar by going on the thoughtworks website [here](https://info.thoughtworks.com/visualize-your-tech-strategy-guide.html).  
