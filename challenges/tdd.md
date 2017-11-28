@@ -7,7 +7,7 @@
 * Share with your teammates about your experimentation
 
 ## What is Test Driven Development ?
-`Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle: Requirements are turned into very specific test cases, then the software is improved to pass the new tests, only.`
+> ### Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle: Requirements are turned into very specific test cases, then the software is improved to pass the new tests, only.
 
 ### TDD steps  
 * Add a test  
@@ -20,6 +20,8 @@
 ![TDD](images/tdd1.png)  
 
 ## Resources
-* https://www.agilealliance.org/glossary/tdd/
-* http://agiledata.org/essays/tdd.html
-* https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/
+* [TDD definition](https://www.agilealliance.org/glossary/tdd/)
+* [What is TDD](http://agiledata.org/essays/tdd.html)
+* [TDD example](https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/)
+
+![TDD](images/tdd2.jpg)  
