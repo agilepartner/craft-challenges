@@ -17,13 +17,11 @@ You can use the cards as described below :
 * Take some time to deep dive into the topic
 * Do the challenge in the given time bound (at the top left of the card)
 
-OR you can use it as you want :
+#### OR use it as you want :
 * Topics for retrospectives
 * Topics for lean coffees
 * Deep dive in brown bag lunches
 * ...
-
-If you want to share your experiences do not hesitate to add 
 
 > ### If you want to understand what is a **software craftsman** we recommend you to read *["The software craftsman"](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)* by Sandro Mancuso.
 
