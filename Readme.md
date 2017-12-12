@@ -23,7 +23,14 @@ You can use the cards as described below :
 * Deep dive in brown bag lunches
 * ...
 
-> ### If you want to understand what is a **software craftsman** we recommend you to read *["The software craftsman"](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)* by Sandro Mancuso.
+#### Instructions card :
+![Instructions recto](images/instructions-recto.png)
+![Instructions recto](images/instructions-verso.png)
+
+> ### You can print all the cards from this [folder](/cards)
+
+## Software craftsman
+> ### If you want to truly understand what is a **software craftsman** we recommend you to read *["The software craftsman"](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)* by Sandro Mancuso.
 
 Here is our abstract of the book.
 
