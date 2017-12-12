@@ -14,5 +14,5 @@
 [![King of code](images/king-of-code.png)](king-of-code.md)
 
 # Print the cards
-## [Recto](../cards/challenge-recto.pdf)  
-## [Verso](../cards/challenge-verso.pdf)
+* [Recto](../cards/challenge-recto.pdf)  
+* [Verso](../cards/challenge-verso.pdf)
