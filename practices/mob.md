@@ -1,5 +1,5 @@
 # Organize a mob programming session
-![Mob programming](images/Mob.png)
+![Mob programming](images/mob.png)
 > ## "Resolve complex problems in whole team"
 
 * Gather your team
@@ -12,4 +12,4 @@
 * [Mob programming role cards](https://github.com/willemlarsen/mobprogrammingrpg)
 * [Mob roles at Cucumber](https://cucumber.io/blog/2017/10/16/five-roles-in-a-healthy-mob)
 
-![The mob](images/Mob1.jpg)
+![The mob](images/mob1.jpg)
