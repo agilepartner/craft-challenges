@@ -1,5 +1,7 @@
 # Craft challenges
 
+![craft challenges](images/diapo.png)
+
 Welcome to this software craftsmanship challenge !!!
 
 This repository contains cards and instructions in order to organize craft challenges in your companies.  
