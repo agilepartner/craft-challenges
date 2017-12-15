@@ -29,7 +29,7 @@ Participants try to **theorize** their experience.
 * What did you learn ?
 * What did you become aware of during this game ?
 * What would you have changed to reach a better result ?
-4) CONTEXTUALIZATION 
+4) CONTEXTUALIZATION  
 Participants must try to **transpose it to their cur professional context**.
 * What parallel could you do with your professional context ?
 * Have you had a sense of "déjà vu" ?
