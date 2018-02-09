@@ -12,6 +12,8 @@ Those challenges are organized in 4 categories :
 ## [Practices](practices/Readme.md)
 ## [Culture](culture/Readme.md)  
 
+If you have any questions or if you need further informations do not hesitate to <a href="mailto:ythirion@agilepartner.net?Subject=Craft%20challenges">contact us</a>
+
 ### How to play ?
 You can use the cards as described below :  
 * Each team member takes 1 card (randomly)
