@@ -1,10 +1,13 @@
-# Test a serious game
+# Experiment a serious game
 ![Serious game](images/serious-game.png)
 
+## What ?
 Serious games are interesting tools to acquire knowledge, both for their motivational effect and the pedagogical principles they include such as a user-centred approach, interactivity, repetition, and continuous feedback.
 
+## Why ?
 > Serious game = **Learning by doing**
 
+## How ?
 * Find a topic you want to push inside your company (testing, communication issues, lean startup,continuous improvement, ...)
 * Find a serious game related to the topic
 * Organize a session with your colleagues
@@ -13,7 +16,7 @@ Serious games are interesting tools to acquire knowledge, both for their motivat
 * Debrief the game with all the participants
 * Provide feedbacks to the creators of the game
 
-## Steps to debrief a game
+### Steps to debrief a game
 As a facilitator you need to follow those 5 steps in order to make the debrief efficient.
 1) FEELING  
 **Let the participants talk**
@@ -49,3 +52,5 @@ Participants must try to **transpose it to their cur professional context**.
 
 
 ![Serious game](images/serious-game1.jpg)
+
+![Share](../images/twitter.png)[I AM DONE](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Serious%20game%20%23craft-challenges%20from%20%40agilepartner)
