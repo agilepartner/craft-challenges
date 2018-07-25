@@ -6,10 +6,10 @@
 [![Automate an actual manual task](images/automate-task.png)](automate-task.md)
 [![Konami code](images/konami.png)](konami.md)
 [![Do an exercise on the coding game web site](images/condingame.png)](condingame.md)
-[![Pair-op](images/pair-op.png)](pair-op.md)
+[![hello world](images/hello-world.png)](hello-world.md)
 [![Identify & refactor legacy code](images/refactor-legacy-code.png)](refactor-legacy-code.md)
 [![Agile swarming](images/swarming.png)](swarming.md)
-[![Open source](images/open-source.png)](open-source.md)
+[![Root me](images/root-me.png)](root-me.md)
 [![Cloud](images/cloud.png)](cloud.md)
 [![Fizzbuzz](images/fizz-buzz.png)](fizz-buzz.md)
 
