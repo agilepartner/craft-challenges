@@ -5,13 +5,13 @@
 [![Code retreat](images/code-retreat.png)](code-retreat.md)
 [![Ask a question during your next meeting](images/meeting-question.png)](meeting-question.md)
 [![Write an article](images/write-article.png)](write-article.md)
-[![Wrong keyboard](images/wrong-keyboard.png)](wrong-keyboard.md)
+[![Create a new card](images/create-a-new-card.png)](create-a-new-card.md)
 [![Participate to a job interview](images/job-interview.png)](job-interview.md)
 [![Technology radar](images/tech-radar.png)](tech-radar.md)
 [![Facilitate a retrospective](images/retrospective.png)](retrospective.md)
 [![Lead a product review](images/product-review.png)](product-review.md)
 [![Wear unusual clothes](images/unusual-clothes.png)](unusual-clothes.md)
-[![King of code](images/king-of-code.png)](king-of-code.md)
+[![Foreign language](images/foreign-language.png)](foreign-language.md)
 
 # Print the cards
 * [Recto](../cards/challenge-recto.pdf)  
