@@ -1,4 +1,4 @@
-# Create my team's skills matrix
+# Skills matrix
 ![Skills matrix](images/skills-matrix.png)
 
 * Schedule a skills matrix meeting
