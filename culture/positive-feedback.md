@@ -1,4 +1,4 @@
-# Give positive feedback to a team mate
+# Positive feedback
 ![Positive feedback](images/positive-feedback.png)
 
 Feedback is a powerful tool to support behavioral change or reinforce positive behavior in the workplace.
