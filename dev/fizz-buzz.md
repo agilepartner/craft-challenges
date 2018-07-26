@@ -1,5 +1,5 @@
 # Fizzbuzz
-![Fizzbuzz](images/fizz-buzz.png)  
+![Fizzbuzz](images/fizzbuzz.png)  
 
 * Select a programming language you do not know
 * Write a "Fizzbuzz" game program in this **unknown language**
