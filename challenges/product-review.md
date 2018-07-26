@@ -1,4 +1,4 @@
-# Lead a product review
+# Product review
 ![Lead a product review](images/product-review.png)  
 
 In order to reduce product feedback loops we need to frequently (at the end of each iteration) organize a product review.  
