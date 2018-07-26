@@ -1,5 +1,5 @@
-# Ask a question during your next meeting (or conference)
-![Ask a question](images/meeting-question.png)  
+# Meeting
+![Ask a question](images/meeting.png)  
 
 * Go to a meeting
 * Find a moment to ask a question
