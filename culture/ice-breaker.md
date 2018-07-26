@@ -1,4 +1,4 @@
-# Start the day with an ice breaker
+# Ice breaker
 ![Ice breaker](images/ice-breaker.png)  
 
 * Take a moment to explore ice-breaker repositories
