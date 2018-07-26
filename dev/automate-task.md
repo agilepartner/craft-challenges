@@ -1,5 +1,5 @@
-# Automate an actual manual task
-![Automate an actual manual task](images/automate-task.png) 
+# Automate
+![Automate an actual manual task](images/automate.png) 
 * Identify a repeated manual task inside your team
     * Think about your current process
     * Materialize it with a kanban board
