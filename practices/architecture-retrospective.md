@@ -1,5 +1,5 @@
-# Architecture retrospective / Technical retrospective
-![Architecture retrospective](images/architecture-retrospective.png)  
+# Tech retro
+![Architecture retrospective](images/tech-retro.png)  
 
 > ### If you think good architecture is expensive, try bad architecture. ~ Brian foote and Joseph Yoder in *"Big ball of mud"*
 
