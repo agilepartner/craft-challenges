@@ -1,5 +1,5 @@
-# Write 5 unit tests
-![Write 5 unit tests](images/write-5-unit-tests.png)  
+# Unit tests
+![Write 5 unit tests](images/unit-tests.png)  
 
 * Go to your seat
 * Add 5 more unit tests in your code base
