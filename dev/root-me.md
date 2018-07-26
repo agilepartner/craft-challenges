@@ -1,6 +1,6 @@
 # Complete a challenge on the Root-Me platform
 
-![Root-Me](images/root-me.jpg)
+![Root-Me](images/root-me.png)
 
 ## What ?
 Root-Me is a non-profit organization which goal is to promote the spread of knowledge related to hacking and information security.<br>
