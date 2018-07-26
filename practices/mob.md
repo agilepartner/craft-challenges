@@ -1,4 +1,4 @@
-# Organize a mob programming session
+# Mob
 ![Mob programming](images/mob.png)
 > ## "Resolve complex problems in whole team"
 
