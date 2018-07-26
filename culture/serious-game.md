@@ -1,4 +1,4 @@
-# Experiment a serious game
+# Serious game
 ![Serious game](images/serious-game.png)
 
 ## What ?
