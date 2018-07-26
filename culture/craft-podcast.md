@@ -1,5 +1,5 @@
-# Listen a craft podcast
-![Craft podcasts](images/craft-podcast.png)  
+# Podcast
+![Craft podcasts](images/podcast.png)  
 
 * Subscribe to a podcast (maybe one listed below...).
 * Listen the last one.
