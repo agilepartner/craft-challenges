@@ -1,5 +1,5 @@
-# Write 3 BDD scenarios
-![Write 3 BDD scenarios](images/write-3-BDD-scenarios.png) 
+# BDD
+![Write 3 BDD scenarios](images/bdd.png) 
 
 * Go to your seat
 * Add 3 more BDD scenarios to your code base
