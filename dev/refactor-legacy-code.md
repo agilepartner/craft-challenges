@@ -1,4 +1,4 @@
-# Identify & refactor legacy code
+# Legacy code
 ![Identify & refactor legacy code](images/legacy-code.png)  
 
 * Define what is your legacy code with your team mates
