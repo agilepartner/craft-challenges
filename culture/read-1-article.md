@@ -1,5 +1,5 @@
-# Read 1 technical article
-![Read article](images/read-1-article.png)
+# Read an article
+![Read article](images/read-an-article.png)
 
 * Find a tech/craft article
 * Read it
