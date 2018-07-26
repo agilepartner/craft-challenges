@@ -1,5 +1,5 @@
-# Organize an internal Hackathon
-![Hackhathon](images/hackhathon.png)
+# Hackathon
+![Hackhathon](images/hackathon.png)
 
 * Find sponsors to organize the event
 * Schedule an internal hackhathon
