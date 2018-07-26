@@ -1,5 +1,5 @@
-# Draw an architecture diagram on a A4 paper sheet
-![Draw an architecture diagram](images/architecture-diagram.png)
+# Archi. diagram
+![Draw an architecture diagram](images/archi-diagram.png)
 
 **1) In solo**
 * Think about your current project
