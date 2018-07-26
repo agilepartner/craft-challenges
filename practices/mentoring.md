@@ -1,4 +1,4 @@
-# Mentor someone else
+# Mentoring
 ![Mentoring](images/mentoring.png)
 
 * Find someone to mentor in your company
