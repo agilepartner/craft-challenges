@@ -1,5 +1,5 @@
-# Discover a new agile topic
-![Agile topics](images/agile-topics.png)
+# Agile topic
+![Agile topics](images/agile-topic.png)
 
 * Go to http://blog.crisp.se/2015/10/08/jimmyjanlen/agile-topics-card-deck
 * Print cards
