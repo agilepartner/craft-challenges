@@ -1,5 +1,5 @@
 # Identify & refactor legacy code
-![Identify & refactor legacy code](images/refactor-legacy-code.png)  
+![Identify & refactor legacy code](images/legacy-code.png)  
 
 * Define what is your legacy code with your team mates
 * Identify legacy code in your current project
