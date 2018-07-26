@@ -1,4 +1,4 @@
-# Technology radar
+# Tech radar
 ![Technology radar](images/tech-radar.png)
 
 * Organize a workshop about structuring your technology watch
