@@ -1,5 +1,5 @@
-# Use a whiteboard and sketchnote during a meeting
-![Sketchnote during meeting](images/sketchnote-meeting.png)
+# Sketchnote
+![Sketchnote during meeting](images/sketchnote.png)
 
 > Instead of taking classic notes (only textual) during a meeting sketchnote.
 
