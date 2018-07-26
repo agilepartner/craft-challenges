@@ -1,4 +1,4 @@
-# Complete a challenge on the Root-Me platform
+# Root-Me
 
 ![Root-Me](images/root-me.png)
 
