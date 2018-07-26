@@ -1,4 +1,4 @@
-# Organize a code kata session
+# Code kata
 ![Organize a code kata session](images/code-kata.png)  
 
 Create a coding dojo in your company (a place where people can come and practice their skills) :
