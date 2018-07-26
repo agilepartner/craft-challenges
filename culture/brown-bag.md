@@ -1,4 +1,4 @@
-# Organize a Brown bag lunch
+# OBrown bag
 ![Brown bag](images/brown-bag.png)
 
 A brown bag lunch is an open session that is organized during the lunch time.
