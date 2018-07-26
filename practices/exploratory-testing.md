@@ -1,4 +1,4 @@
-# Organize an exploratory testing session
+# Exploratory testing
 ![Exploratory testing](images/exploratory-testing.png)
 
 Organize regularly exploratory testing sessions. (1 by sprint for example)
