@@ -1,5 +1,5 @@
 # Write an article
-![Write article](images/write-article.png)  
+![Write article](images/write-an-article.png)  
 
 * Think about a topic you really care about
 * Create a post on it
