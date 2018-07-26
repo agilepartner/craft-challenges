@@ -1,4 +1,4 @@
-# Organise a lean coffee session
+# Lean coffee
 ![Lean coffee](images/lean-coffee.png)
 
 * Schedule a session
