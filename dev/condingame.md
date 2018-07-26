@@ -1,5 +1,5 @@
-# Do an exercise on the coding game web site
-![Coding game](images/condingame.png)
+# Codingame
+![Coding game](images/codingame.png)
 
 * Go to [codingame.com](https://www.codingame.com)
 * [Create an account] if necessary
