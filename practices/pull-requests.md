@@ -1,5 +1,5 @@
-# Pull requests
-![Pull requests](images/pull-requests.png)  
+# Source control
+![Pull requests](images/source-control.png)  
 
 * Make at least 1 pull request / day 
 * Do it during the next 4 days at least
