@@ -1,4 +1,4 @@
-# Pair program during 30' at least
+# Pair programming
 ![Pair program](images/pair-programming.png)
 
 * Find someone in your team to pair program
