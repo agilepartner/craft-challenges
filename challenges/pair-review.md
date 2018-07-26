@@ -1,5 +1,5 @@
-# Do a code review in an other team
-![Code review](images/pair-review.png)
+# Peer review
+![Code review](images/peer-review.png)
 
 * Go to another team
 * Ask them to review a user story or a pull request
