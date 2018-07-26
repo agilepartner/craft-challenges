@@ -1,4 +1,4 @@
-# Implement a kudo wall
+# Kudo wall
 ![Kudo wall](images/kudo-wall.png)
 
 > ## Kudo Cards are small gestures of gratitude.
