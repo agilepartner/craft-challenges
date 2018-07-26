@@ -1,5 +1,5 @@
 # Agile swarming
-![Agile swarming](images/swarming.png)  
+![Agile swarming](images/agile-swarming.png)  
 
 Start a user story development in an "agile swarming" way.
 
