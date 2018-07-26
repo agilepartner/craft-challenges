@@ -1,5 +1,5 @@
-# Watch a video
-![Watch video](images/watch-video.png)  
+# Video
+![Watch video](images/video.png)  
 
 * Choose a video with your colleagues
 * Watch it in group
