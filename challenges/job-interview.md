@@ -1,4 +1,4 @@
-# Participate to a job interview
+# Job interview
 ![Job interview](images/job-interview.png)  
 
 Because **software craftsmen want to work with other craftsmen** you must be involved in the hiring process.  
