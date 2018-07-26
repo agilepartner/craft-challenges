@@ -1,5 +1,5 @@
 # Code retreat
-![Code retreat](images/code-retreat.png)  
+![Code retreat](images/code retreat.png)  
 
 Turn off your notifications for the next 4 hours :
 * No emails
