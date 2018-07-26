@@ -1,5 +1,5 @@
 # Konami code
-![Konami code](images/konami.png)  
+![Konami code](images/konami-code.png)  
 
 Implement a konami code in your current project.
 
