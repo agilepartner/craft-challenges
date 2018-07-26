@@ -1,4 +1,4 @@
-# Wear unusual clothes
+# Unusual clothes
 ![Wear unusual clothes](images/unusual-clothes.png)  
 
 During 1 day, wear weird clothes.
