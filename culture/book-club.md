@@ -1,4 +1,4 @@
-# Create a book club
+# Book club
 ![Book club](images/book-club.png)
 
 The goal of a book club is to discuss/share about a given book so :
