@@ -1,4 +1,4 @@
-# Facilitate a retrospective
+# Retrospective
 ![Facilitate retrospective](images/retrospective.png)  
 
 An Agile retrospective is a meeting that's held at the end of an iteration. During the retrospective, the team reflects on what happened in the iteration and identifies actions for improvement going forward.
