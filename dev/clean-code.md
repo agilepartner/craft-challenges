@@ -1,4 +1,4 @@
-# Clean some "dead" or "crappy" code
+# Clean code
 ![Clean code](images/clean-code.png)  
 * Identify a "code smell"
     * A "dead code"
