@@ -1,4 +1,4 @@
-# Write a functionality using Test Driven Development
+# TDD
 ![TDD](images/tdd.png)  
 
 * Start to work on a new functionality
