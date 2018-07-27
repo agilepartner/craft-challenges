@@ -58,4 +58,4 @@ You can find all the informations about this cube [here](http://kilearning.net/T
 ![Serious game](images/serious-game1.jpg)
 
 ## Share
-![Share](../images/twitter.png)[ I have just completed it](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Serious%20game%20%23craft-challenges%20from%20%40agilepartner)
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Serious%20game%20%23craft-challenges%20from%20%40agilepartner)
