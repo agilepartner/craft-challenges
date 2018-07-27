@@ -16,8 +16,7 @@ It is part of our sofwtare craftsman activity to challenge things **even if it i
 * Deep dive into it
 
 ## Resources
-* [7p's framework for efficient meetings]
-(http://gamestorming.com/7ps-framework/)  
+* [7p's framework for efficient meetings](http://gamestorming.com/7ps-framework/)  
 
 ![Ask a question](images/meeting-question1.jpg)    
 
