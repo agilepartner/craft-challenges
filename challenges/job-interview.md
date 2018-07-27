@@ -1,19 +1,35 @@
 # Job interview
 ![Job interview](images/job-interview.png)  
 
-Because **software craftsmen want to work with other craftsmen** you must be involved in the hiring process.  
-You can use a lot of tools to do a job interview (Lego serious play, mind mapping, serious games, ...).  
+## What ?
+Involve yourself in the hiring process if it is not already the case.
 
-## OUR TIPS : 
-* Just be yourself
-* Connect with the interviewee
+## Why ?
+Because **software craftsmen want to work with other craftsmen**, so you must be involved in the hiring process.  
+You can use a lot of tools to do a job interview :
+* Lego serious play
+* Mind mapping
+* Serious games
+* Those cards  
+* ...
+
+## How ?
+* Lead the next job interview
+    * Just be yourself
+    * Connect with the interviewee
 * Share with him instead of having those weird usual interview conversations
+* Ask for feedback from the interviewee at the end about
+    * The company
+    * You
 
-**DO THIS**  
+### Our tips
+**Try to have equal to equal conversations**  
 ![Job interview](images/job-interview2.jpg)  
-
-**INSTEAD OF**  
-![Usual interview](images/job-interview1.jpg)    
+**instead of**  
+![Usual interview](images/job-interview1.jpg) 
 
 ## Resources
 * [The 10 Questions Every Interviewer MUST Ask](https://www.scienceofpeople.com/10-questions-every-interviewer-must-ask/)
+
+## Share
+![Share](../images/twitter.png)[ Share your card](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Job%20interview%20%23craft-challenges%20from%20%40agilepartner)
