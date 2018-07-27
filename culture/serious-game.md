@@ -16,7 +16,7 @@ Serious games are interesting tools to acquire knowledge, both for their motivat
 * Debrief the game with all the participants
 * Provide feedbacks to the creators of the game
 
-### Steps to debrief a game
+## Steps to debrief a game
 As a facilitator you need to follow those 5 steps in order to make the debrief efficient.
 1) FEELING  
 **Let the participants talk**
@@ -43,6 +43,10 @@ Participants must try to **transpose it to their cur professional context**.
 
 > At the end, demonstrate that the game is a formidable weapon!!!
 
+## Debriefing Cube
+To debrief a game you can also use a tool called "Debriefing cube".  
+You can find all the informations about this cube [here](http://kilearning.net/TheDebriefingCube%20CC-BY-SA_v10).
+
 ## Resources
 * [#play14](http://play14.org/games/)
 * [Agilesparks](https://www.agilesparks.com/resources/topicsubject-reading-lists/agile-games-and-exercises-list/)
@@ -53,4 +57,5 @@ Participants must try to **transpose it to their cur professional context**.
 
 ![Serious game](images/serious-game1.jpg)
 
-![Share](../images/twitter.png)[I AM DONE](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Serious%20game%20%23craft-challenges%20from%20%40agilepartner)
+## Share
+![Share](../images/twitter.png)[ I have just completed it](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Serious%20game%20%23craft-challenges%20from%20%40agilepartner)
