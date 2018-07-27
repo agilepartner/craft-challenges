@@ -19,7 +19,7 @@ Do a code retreat is a very good way to stay focused and improve our performance
 
 > ### Turning off notifications enables focus on what you prioritize.
 
-![Human cognitive resources](images/code-retreat1.png)  
+![Human cognitive resources](images/code-retreat1.jpg)  
 
 ## Resources (to stay focus)
 * [Pomodoro technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)
