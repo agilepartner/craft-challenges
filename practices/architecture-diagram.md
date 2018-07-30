@@ -1,5 +1,5 @@
-# Archi. diagram
-![Draw an architecture diagram](images/archi-diagraml.png)
+# Architecture
+![Draw an architecture diagram](images/architecrture.png)
 
 **1) In solo**
 * Think about your current project
