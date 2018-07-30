@@ -1,6 +1,6 @@
 # Practices  
 [![Organize a mob programming session with your Product Owner](images/mob.png)](mob.md)
-[![Draw an architecture diagram on an A4 paper sheet](images/archi-diagraml.png)](architecture-diagram.md)
+[![Draw an architecture diagram on an A4 paper sheet](images/architecture.png)](architecture-diagram.md)
 [![Pair program during 30' at least](images/pair-programming.png)](pair-programming.md)
 [![Mentor someone else](images/mentoring.png)](mentoring.md)
 [![Implement a kudo wall](images/kudo-wall.png)](kudo-wall.md)
