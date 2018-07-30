@@ -10,7 +10,7 @@
 [![Test a serious game](images/serious-game.png)](serious-game.md)
 [![Use a whiteboard during a meeting](images/sketchnote.png)](sketchnote-meeting.md)
 [![Give positive feedback to a team mate](images/positive-feedback.png)](positive-feedback.md)
-[![Discover a new agile topic](images/agile-topics.png)](agile-topics.md)
+[![Discover a new agile topic](images/Agile-topics.png)](agile-topics.md)
 [![Empathy map](images/empathy-map.png)](empathy-map.md)
 
 # Print the cards
