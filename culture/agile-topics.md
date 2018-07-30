@@ -1,4 +1,4 @@
-# Agile topic
+# Agile topics
 ![Agile topics](images/Agile-topics.png)
 
 * Go to http://blog.crisp.se/2015/10/08/jimmyjanlen/agile-topics-card-deck
