@@ -5,11 +5,14 @@
 ## What ?
 **Root-Me** is a non-profit organization which goal is to **promote the spread of knowledge related to hacking and information security**.  
 Hacking challenges are the heart of the project.  
-Several web environment allow users to test their skills legally.  
-Each challenge needs different knowledge and approaches.
+Several web environments allow users to test their skills legally.  
+Each challenge needs different knowledge and approaches.  
+> The key idea of the platform :
+`Discover information security principles in a **fun and interactive way**.`
 
 ## Why ?
-Discover information security principles in a **fun and interactive way**.
+
+
 
 ## How ?
 * Create an account on the [Root-Me platform](https://www.root-me.org/)

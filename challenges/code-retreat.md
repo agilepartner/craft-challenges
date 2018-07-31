@@ -3,12 +3,12 @@
 
 ## What ?
 A CodeRetreat is an intensive practice event, focusing on the fundamentals of software development and design. 
-It gives the opportunity to practice TDD, Clean Code, Refactoring, ... 
+It gives the opportunity to practice TDD, Clean Code, Refactoring ... 
 
 ## Why ?
 If we want to continuously learn, we need to dedicate time for it.
 Because we are not humanoids; our **cognitive resources are limited** so we are not able to multitask.
-Do a code retreat is a very good way to stay focused and improve our performance.
+Doing a code retreat is a very good way to stay focused and improve our performance.
 
 ## How ?
 - Turn off your notifications for the next 4 hours :
