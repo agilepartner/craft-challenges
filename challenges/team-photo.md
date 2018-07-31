@@ -26,4 +26,4 @@ This kind of practice will help you to create empathy between teammates.
 * [50 ideas for building team culture](https://code.likeagirl.io/50-ideas-for-building-team-culture-more-effectively-839469bf19a5)
 
 ## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Retrospective%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Team%20photo%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
