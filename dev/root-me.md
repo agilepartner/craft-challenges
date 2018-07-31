@@ -17,7 +17,7 @@ Discover information security principles in a **fun and interactive way**.
 * Challenges are sorted by their level of difficulty, start with the first one to discover the category and then experiment the others
 * For each challenge the goal is to find the key and score points
 
-![Share](./images/root-me.jpg)
+![root-me-logo](./images/root-me.jpg)
 
 ## Share
 ![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Root-Me%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
