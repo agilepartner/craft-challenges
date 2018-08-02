@@ -1,6 +1,6 @@
 # Craft challenges
 
-![craft challenges](images/diapo.png)
+![craft challenges](images/crafts-poster.png)
 
 Welcome to this software craftsmanship challenge !!!
 
