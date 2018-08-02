@@ -9,7 +9,8 @@ Technology and business move fast, so they release a new edition of the Radar ev
 Find details [here](https://info.thoughtworks.com/technology-radar-subscription.html).  
 
 ## Why ?
-> We love to learn a lot of things and we want to be up to date, but unfortunately our cognitive resources are not infinite. That's why we need to organize our technology watch. Create your own radar is a good way to do so.
+> We love to learn a lot of things and we want to be up to date, but unfortunately our cognitive resources are not infinite. That's why we need to organize our technology watch. 
+Creating your own radar is a good way to do so.
 
 You can use it for many purposes :
 * Organize your technology watch
