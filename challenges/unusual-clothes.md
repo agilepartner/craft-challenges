@@ -7,8 +7,7 @@ Wearing unusual clothes will `bring fun at your office` especially when nobody i
 ## Why ?
 The benefits of working as we have fun are clearly spotted as follows:
 * Positive motivation
-* Workplace ethics better understanding
-* Flowing communication
+* More flowing communication
 * Effective Leadership
 * Leadership development  
 
