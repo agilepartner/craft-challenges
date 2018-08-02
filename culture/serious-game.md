@@ -53,7 +53,7 @@ Participants must try to **transpose it to their own professional context**.
 
 ## Debriefing Cube
 To debrief a game you can also use a tool called "Debriefing cube".  
-You can find all the informations about this cube [here](http://kilearning.net/TheDebriefingCube%20CC-BY-SA_v10).
+You can find all the informations about this cube [here](http://www.kilearning.net/TheDebriefingCube_CC-BY_v13.pdf).
 
 ## Resources
 * [#play14](http://play14.org/games/)
