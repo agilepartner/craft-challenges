@@ -29,7 +29,6 @@ You can use the cards as described below :
 
 #### Instructions card :
 ![Instructions recto](images/instruction-recto.png)
-![Instructions recto](images/instructions-verso.png)
 
 > ### You can print all the cards from this [folder](/cards)
 
