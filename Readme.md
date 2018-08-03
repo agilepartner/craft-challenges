@@ -20,8 +20,11 @@ You can use the cards as described below :
 * He/she has to connect to the related page on github through the **QR code or the url**
 * Take some time to deep dive into the topic
 * Do the challenge in the given time box (at the top left of the card)
+
+(Optional):
 * Print a score board and hang it on the wall in your office
 * Add the points you earned by doing this card (on the top right of the card)
+* Buy something nice for the winner of the challenge! 
 
 #### OR use it as you want :
 * Topics for retrospectives
