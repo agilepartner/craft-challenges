@@ -1,23 +1,43 @@
-# OBrown bag
+# Brown bag
 ![Brown bag](images/brown-bag.png)
 
-A brown bag lunch is an open session that is organized during the lunch time.
+## What ?
+A brown bag lunch is an open session that is organized during the lunch time.  
 It can have various formats :
 * Conference
 * Open discussion about any topics
 * Video watching
 * Twitter reading
+* ...
 
-## Why is it called brown bag lunch ?
-Each attendee comes with his/her lunch (in a brown bag) it's that simple ;-)
+## Why ?
+This kind of event has at least 3 goals:
+* Enhance employees’ skills and knowledge by sharing ideas, new projects, or insights
+* Build team work
+* Spread a positive and **ongoing learning culture**
 
-## Our tips
-* Everyone can give short presentations
-* No formalism
-* Create the buzz : Communicate about the sessions
+## How ?
+* Find a topic you want to share
+    * Your current project
+    * A new framework
+    * A discovery
+    * ...
+* Lock a date (during lunch time)
+* Invite a large audience
+* Present your topic
 
-![Create the buzz](images/brown-bag2.png)
+### Our tips
+* Don’t limit the audience
+* Don’t limit yourself to content that is directly aligned with your current work
+* Provide lunch -> find sponsorhip
+* Make sure everyone takes something away
+* Always leave plenty of time for discussion / sharing
 
-## How to
+![brown bag](images/brown-bag1.jpg)
+
+## Resources
 * [Organize a brown bag session](https://proessler.wordpress.com/2014/09/07/how-to-set-off-a-brown-bag-session-in-your-company-in-60-minutes/)
 * [Share/Learn/Socialize](https://dius.com.au/2016/05/27/dius-brown-bags/)
+
+## Share
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Brown%20bag%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
