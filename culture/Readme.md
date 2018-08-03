@@ -11,7 +11,7 @@
 [![Use a whiteboard during a meeting](images/sketchnote.png)](sketchnote-meeting.md)
 [![Give positive feedback to a team mate](images/positive-feedback.png)](positive-feedback.md)
 [![Discover a new agile topic](images/Agile-topics.png)](agile-topics.md)
-[![Personal map](images/personal-map.png)](personal-map.md)
+[![Personal map](images/personal-map.png)](prsonal-map.md)
 
 # Print the cards
 * [Recto](../cards/culture-recto.pdf)  
