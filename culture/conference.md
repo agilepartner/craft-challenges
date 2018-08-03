@@ -29,7 +29,10 @@ You can find local community with platforms such as [meetup.com](https://www.mee
 
 ![Conference](images/conference1.jpg)  
 
-## Resources (Great conferences)
+## Resources
+* [12 Reasons You Should Attend Conferences](https://www.takeflyte.com/reasons-to-attend-conferences)
+
+### Great conferences
 - [Devternity](https://devternity.com/)
 - [NCrafts](https://ncrafts.io/)
 - [BuildStuff](http://buildstuff.lt/)
