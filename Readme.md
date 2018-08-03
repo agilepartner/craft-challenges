@@ -16,10 +16,15 @@ If you have any questions or if you need further informations don't hesitate to 
 
 ### How to play ?
 You can use the cards as described below :  
-* Each team member takes 1 card (randomly)
+* Each team member takes 1 card
 * He/she has to connect to the related page on github through the **QR code or the url**
 * Take some time to deep dive into the topic
-* Do the challenge in the given time bound (at the top left of the card)
+* Do the challenge in the given time box (at the top left of the card)
+
+(Optional):
+* Print a score board and hang it on the wall in your office
+* Add the points you earned by doing this card (on the top right of the card)
+* Buy something nice for the winner of the challenge! 
 
 #### OR use it as you want :
 * Topics for retrospectives
@@ -29,7 +34,6 @@ You can use the cards as described below :
 
 #### Instructions card :
 ![Instructions recto](images/instruction-recto.png)
-![Instructions recto](images/instructions-verso.png)
 
 > ### You can print all the cards from this [folder](/cards)
 
