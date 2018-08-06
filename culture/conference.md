@@ -5,27 +5,26 @@
 A conference is generally understood as a meeting of several people to discuss a particular topic. 
 
 ## Why ?
-Now there are so many great ways to learn and sharpen your skills these days: 
-* You can read blogs
+There are so many great ways to learn and sharpen your skills these days, you can :
+* Read blogs
 * Listen to podcasts
 * Watch how-to videos on YouTube
 * Attend webinars
 
-> But live events—conferences, workshops, lunch & learns–provide unique learning and career building opportunities that you just can’t find anywhere else. 
+>  But live events - conferences, workshops, lunch & learns–provide unique learning and career building opportunities that you just can’t find anywhere else. 
  
-There are plenty of reasons why attend conference is really important to expand your learning :
-* Educational opportunities :
-    * No matter how experienced you are, everyone can learn
+There are plenty of reasons why attending conferences is really important to expand your learning :
+* Educational opportunities : no matter how experienced you are, everyone can learn
 * Networking with peers
 * Position yourself as an expert
 * Have fun
 
 ## How ?
-* During the current iteration, find an conference you want to attend to
+* During the current iteration, find a conference you want to attend
 * The conference can be about anything
 * Book a ticket for the found event
 
-You can find local community with platforms such as [meetup.com](https://www.meetup.com).
+You can find local communities with platforms such as [meetup.com](https://www.meetup.com).
 
 ![Conference](images/conference1.jpg)  
 
