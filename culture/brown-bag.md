@@ -29,7 +29,7 @@ This kind of event has at least 3 goals:
 ### Our tips
 * Don’t limit the audience
 * Don’t limit yourself to content that is directly aligned with your current work
-* Provide lunch -> find sponsorhip
+* Provide lunch -> find sponsorship
 * Make sure everyone takes something away
 * Always leave plenty of time for discussion / sharing
 
