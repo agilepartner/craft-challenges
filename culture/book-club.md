@@ -17,7 +17,6 @@ Most book clubs meet monthly in order to give members time to read the next book
 * It will help you diversify your reading list
 * You will have the chance to share about books with other passionate guys
 * It's a place to debate about something other than politics
-* 
 
 ## How ? 
 * Create a book club in your company (if needed)
@@ -25,9 +24,9 @@ Most book clubs meet monthly in order to give members time to read the next book
 * Choose a book
     * The one you really want to read
     * Introduce the book during the next session
-    * Each participant can introduce its book during each session
+    * Each participant can introduce his/her book during each session
     * Vote for the more interesting one
-* Share about the book during the session after
+* Share about the book during the nest session
 
 ![Book club](images/book-club-2.jpg)
 
