@@ -4,7 +4,6 @@
 ## What ?
 A podcast or generically netcast, is **an episodic series of digital audio or video files which a user can download and listen to**.  
 It is often available for subscription, so that new episodes are automatically downloaded via web syndication to the user's own local computer, mobile application, or portable media player.  
-The files distributed are in audio format, but may sometimes include other file formats such as PDF or EPUB. Videos which are shared following a podcast model are sometimes called video podcasts or vodcasts.
 
 ## Why ?
 > Because we don't know what we don't know.  
