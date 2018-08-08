@@ -5,10 +5,10 @@
 A video session is a group session where attendees watch videos all together.
 
 ## Why ?
-It helps to share news about everything.  
+It helps to share and discuss about any subject.  
 Everyone can share his/her passion/discoveries.
 
-> Don't limit yourself with tech videos -> Be open mind
+> Don't limit yourself to tech videos, **be open minded**.
 
 Watching videos in group will help you to create a culture of learning in your company.
 
@@ -17,7 +17,7 @@ Watching videos in group will help you to create a culture of learning in your c
 * Each attendee proposes a video to others
 * All attendees vote for the video he/she really wants to watch
 * Watch the first video based on the result of the vote
-* Share what you have heard / seen / learned during this video
+* Share what you have heard/seen/learned during this video
 * Repeat and watch as many videos as you want
 
 ## Resources
