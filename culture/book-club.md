@@ -26,7 +26,7 @@ Most book clubs meet monthly in order to give members time to read the next book
     * Introduce the book during the next session
     * Each participant can introduce his/her book during each session
     * Vote for the more interesting one
-* Share about the book during the nest session
+* Share about the book during the next session
 
 ![Book club](images/book-club-2.jpg)
 
