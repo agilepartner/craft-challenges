@@ -22,9 +22,9 @@ There are plenty of reasons why attending conferences is really important to exp
 ## How ?
 * During the current iteration, find a conference you want to attend
 * The conference can be about anything
-* Book a ticket for the found event
+* Book a ticket for the event
 
-You can find local communities with platforms such as [meetup.com](https://www.meetup.com).
+Tip: You can find local communities with platforms such as [meetup.com](https://www.meetup.com).
 
 ![Conference](images/conference1.jpg)  
 

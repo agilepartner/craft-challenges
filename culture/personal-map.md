@@ -15,12 +15,12 @@ They can do this by :
 
 Decreasing the distance of yourself to others helps to increase communication and creativity. 
 
-> A great exercise for a better understanding of people is to capture what you know about them in personal maps.
+> *A great exercise for a better understanding of people is to capture what you know about them in personal maps.*
 
 ## How ?
 > *By creating a personal map of a colleague, you make an effort to better understand that person.*
 
-In your team, explain the exercise as follows :
+In your team, explain the exercise as follows:
 * Explain the purpose and how to create a personal map
 * Use a template - like defined below
 * Allow a time-slot - 10 minutes for example
@@ -35,8 +35,8 @@ Keep in mind that these personal maps are **not a one-time exercise**, these evo
 ![Personal map](images/personal-map1.jpg)
 
 ## Resources
-* [Management 3.0 Practice : Personal Maps Build Closeness in Modern Teams](https://www.youtube.com/watch?v=T9d8w-OG-Fk)
-* [Personal maps : team workshop](https://www.linkedin.com/pulse/personal-maps-management-30-frederik-vannieuwenhuyse/)
+* [Management 3.0 Practice: Personal Maps Build Closeness in Modern Teams](https://www.youtube.com/watch?v=T9d8w-OG-Fk)
+* [Personal maps: do you know your colleagues?](https://www.linkedin.com/pulse/personal-maps-management-30-frederik-vannieuwenhuyse/)
 * [Decreasing mental distance with Personal Maps](https://medium.com/@tadeumarinho/decreasing-mental-distance-with-personal-maps-11cc69d15af3)
 
 ## Share

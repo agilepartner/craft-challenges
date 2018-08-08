@@ -2,7 +2,7 @@
 ![Technology radar](images/tech-radar.png)
 
 ## What ?
-The tech radar has been created by Thoughtworks Technology Advisory Board, a diverse group of senior technology leaders from all over the ThoughtWorks’ world.  
+The tech radar is an online publication created by Thoughtworks Technology Advisory Board, a diverse group of senior technology leaders from all over the ThoughtWorks’ world.  
 They meet regularly to discuss the technology strategy for ThoughtWorks and the **technology trends that impact our industry**. 
 Technology and business move fast, so they release a new edition of the Radar every six months.
 
