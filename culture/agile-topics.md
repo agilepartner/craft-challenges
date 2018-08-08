@@ -8,20 +8,21 @@ Each card represents an agile practice, a conversation topic or an abstract theo
 ## Why ?
 > Because we don't know what we don't know.  
 
-This deck can really help us to discover new concepts, practices around agile.
+This deck can really help us to discover new concepts and practices around agility.
 
 ## How ?
 * Go to this [website](http://blog.crisp.se/2015/10/08/jimmyjanlen/agile-topics-card-deck)
-* Print cards
-* Take one card and deep dive into the subject
+* Print the cards
+* Take one card and dive deep into the subject
 * Share your discovery with your team mates
 * Take actions
 
 Those cards can be used as :
-* Topics for lean coffee
-* 1:1 Conversation starters
-* Organizational Review
-* Agile brown bag  
+* Topics for : 
+    * Lean coffees
+    * Organizational reviews
+    * Agile brown bags
+* 1:1 conversation starters
 
 ![Agile topics](images/agile-topics1.png)
 

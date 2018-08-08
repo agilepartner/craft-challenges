@@ -1,12 +1,23 @@
 # Podcast
 ![Craft podcasts](images/podcast.png)  
 
+## What ?
+A podcast or generically netcast, is **an episodic series of digital audio or video files which a user can download and listen to**.  
+It is often available for subscription, so that new episodes are automatically downloaded via web syndication to the user's own local computer, mobile application, or portable media player.  
+
+## Why ?
+> Because we don't know what we don't know.  
+
+Podcast is a good way to learn new stuff during boring activities such as driving or gym. 
+
+## How ?
 * Subscribe to a podcast (maybe one listed below...).
-* Listen the last one.
+* Listen the latest one.
 * Debrief with your colleagues about what you learned.
 
-## Podcasts
+## Resources
 * [infoQ](https://www.infoq.com/Software_Craftsmanship/podcasts/)
+* https://player.fm/featured/tech
 * [This week in tech](https://twit.tv/shows/this-week-in-tech)
 * [HanselMinutes](https://www.hanselminutes.com/)
 * [Les castcodeurs](https://lescastcodeurs.com/)
@@ -14,3 +25,6 @@
 * [Agile uprising](http://podcast.agileuprising.com/)
 
 ![Craft podcasts](images/craft-podcast1.jpg)  
+
+## Share
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Podcast%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
