@@ -1,4 +1,4 @@
-# Root-Me
+;# Root-Me
 
 ![Root-Me](images/root-me.png)
 
@@ -14,8 +14,8 @@ Hacking exist since the early days of computers. Its more and more important tod
 
 ## How ?
 * Create an account on the [Root-Me platform](https://www.root-me.org/)
-* Choose a topic you would like to discover : _Cracking, Cryptanalysis, Forensic, Network, Programming, Steganography, Web_
-* Challenges are sorted by their level of difficulty, start with the first one to discover the category and then experiment the others
+* Choose a topic you would like to discover: _Cracking, Cryptanalysis, Forensic, Network, Programming, Steganography, Web_
+* Challenges are sorted by their level of difficulty; start with the first one to discover the category and then experiment the others
 * For each challenge the goal is to find the key and score points
 
 ![root-me-logo](./images/root-me.jpg)
