@@ -14,7 +14,7 @@ The benefits of working as we have fun are clearly spotted as follows:
 That's why i'ts really important to have fun in your daily work.
 
 ## How ?
-During 1 day :
+During 1 day:
 * Wear unusual / weird clothes
 
 ![Unusual clothes](images/unusual-clothes1.jpg)

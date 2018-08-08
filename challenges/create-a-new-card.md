@@ -2,11 +2,13 @@
 ![Create a new card](images/create-a-new-card.png)  
 
 ## What ?
-Because each context is different we didn't necessarily get to put everything on our cards.  
-So, **if you really care about a topic, don't hesitate to create new cards**.
+Because each context is different we didn't necessarily get to put everything on our cards.
+You may feel that something that we have not covered is important in your context, or maybe you want to share something you like.
+
+In this challenge you have to create a new card.
 
 ## Why ?
-Spreading your priority topic in your company is really important and symbolizes the importance you bring to your job/passion and sharing.
+Share and communicate about your topics of interest inside your company is really important and symbolizes the importance you bring to your job.
 
 ## How ?
 - Brainstorm in order to find topics that are not covered by our cards
