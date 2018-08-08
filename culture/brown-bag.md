@@ -6,13 +6,13 @@ A brown bag lunch is an open session that is organized during the lunch time.
 It can have various formats :
 * Conference
 * Open discussion about any topics
-* Video watching
-* Twitter reading
+* Watching and debriefing of a video
+* Review of twitter subscriptions / news reading
 * ...
 
 ## Why ?
 This kind of event has at least 3 goals:
-* Enhance employees’ skills and knowledge by sharing ideas, new projects, or insights
+* Enhance employees skills and knowledge by sharing ideas, new projects or insights
 * Build team work
 * Spread a positive and **ongoing learning culture**
 
