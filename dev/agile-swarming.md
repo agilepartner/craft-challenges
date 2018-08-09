@@ -1,31 +1,39 @@
 # Agile swarming
 ![Agile swarming](images/agile-swarming.png)  
 
-Start a user story development in an "agile swarming" way.
-
-## What is agile swarming
+## What ?
 Every team member works on the same user story/product backlog item/feature at the same time.
+
+## Why ?
+Starting to implement a new feature with this approach helps to align everyone on how to deliver it.  
+It can dramatically improve :
+* Your architecture
+* The naming in your code
+
+> Basically it can save you a lot of time.
+
+## How ?
+Start a user story development in an "agile swarming" way.
 * Start with a design session
     * Talk about the story
     * Split it
-    * Reach an agreement on how to implement it
+    * Reach an agreement on how to
+        * Implement it
+        * Name things
 * Put TODOs in your code
+* Distribute the TODOs in the team
 
-## Benefits
-> Everyone is aligned on the story to deliver
-* Architecture
-* Implementation
-* Business  
-It will save you a lot of time.
-
-## Puzzle Driven Development
+### Puzzle Driven Development
 PDD, or Puzzle Driven Development, is a method used to break down programming tasks into smaller ones and enable their implementation in parallel.  
 Basically in group :
 * Create skeleton of the implementation
 * Put TODOs in the code
 
+![Agile swarming](images/swarming1.jpg)  
+
 ## Resources
 * [Seven strategies for team swarming](http://tobeagile.com/2012/12/11/seven-strategies-for-team-swarming/)
 * [Puzzle Driven Development explained](http://www.yegor256.com/2009/03/04/pdd.html)
 
-![Agile swarming](images/swarming1.jpg)  
+## Share
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Agile%20swarming%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
