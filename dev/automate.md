@@ -25,5 +25,5 @@ To improve team's efficiency.
 * [7 principles of Lean Software Development](https://agilevelocity.com/lean/7-principles-of-lean-software-development/)
 
 ## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Agile%20swarming%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Automate%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
 
