@@ -1,5 +1,5 @@
 # Automate
-![Automate an actual manual task](images/automate.png)
+![Automate an current manual task](images/automate.png)
 
 ## What ?
 Basic idea lean is to eliminate anything and everything that does not add value from the perspective of your customer.  
@@ -19,7 +19,7 @@ To improve team's efficiency.
 * Automate it
 * **Eliminate the waste**
 
-![Automate an actual manual task](images/automate-task1.jpg)  
+![Automate a current manual task](images/automate-task1.jpg)  
 ## Resources
 * [7 wastes - Lean Software Development](https://dzone.com/articles/seven-wastes-software)
 * [7 principles of Lean Software Development](https://agilevelocity.com/lean/7-principles-of-lean-software-development/)
