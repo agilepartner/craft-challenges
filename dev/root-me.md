@@ -1,4 +1,4 @@
-;# Root-Me
+# Root-Me
 
 ![Root-Me](images/root-me.png)
 
