@@ -30,7 +30,7 @@ Once you have answers to those questions you can :
 
 ## Resources
 * [Facilitator's guide](https://medium.com/practicalscrum/market-of-skills-634a6ebf3363)
-* [Team LiftOff with Market of Skills and Competence Matrix](https://blog.crisp.se/2012/11/06/anderslaestadius/team-liftoff-with-market-of-skills-and-competence-matrix)
+* [Team Lift Off with Market of Skills and Competence Matrix](https://blog.crisp.se/2012/11/06/anderslaestadius/team-liftoff-with-market-of-skills-and-competence-matrix)
 
 ![Skills matrix](images/skills-matrix2.jpg)
 
