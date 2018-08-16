@@ -38,4 +38,4 @@ Code refactoring is the process of restructuring existing computer code — **ch
 * [Working effectively with legacy code book - Michael Feathers](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 
 ## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Legacy%20code%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Legacy%20code%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

@@ -37,4 +37,4 @@ Initiate the organization of an internal hackathon :
 * [6 key tips to organize a hackhathon](https://www.techrepublic.com/article/how-to-organize-a-hackathon-6-key-tips/)
 
 ## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Hackathon%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Hackathon%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

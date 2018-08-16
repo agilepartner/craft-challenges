@@ -40,4 +40,4 @@ Keep in mind that these personal maps are **not a one-time exercise**, these evo
 * [Decreasing mental distance with Personal Maps](https://medium.com/@tadeumarinho/decreasing-mental-distance-with-personal-maps-11cc69d15af3)
 
 ## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Personal%20map%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Personal%20map%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

@@ -39,4 +39,4 @@ This living documentation of the system is understandable by everyone (from deve
 * [Specification by example explained by Martin Fowler](https://martinfowler.com/bliki/SpecificationByExample.html)
 
 ## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20B.D.D%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20B.D.D%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

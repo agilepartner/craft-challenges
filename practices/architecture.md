@@ -36,4 +36,4 @@ It will also create a safe place to talk about the current architecture and mayb
 * [Visualize, Document, and Explore Your Software Architecture](https://academy.realm.io/posts/gotocph-simon-brown-visualize-document-explore-your-software-architecture/)
 
 ## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Architecture%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Architecture%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

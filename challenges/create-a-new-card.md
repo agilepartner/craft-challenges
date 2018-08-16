@@ -19,4 +19,4 @@ Share and communicate about your topics of interest inside your company is reall
 * [Download card templates](../card-templates.pdf)
 
 ## Share
-![Share](../images/twitter.png)[ Share your card](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Create%20a%20new%20card%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
+![Share](../images/twitter.png)[ Share your card](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Create%20a%20new%20card%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

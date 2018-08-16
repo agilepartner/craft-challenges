@@ -48,4 +48,4 @@ These changes are proposed in a branch, which ensures that the master branch onl
 * [Deployment by pull requests](https://www.madetech.com/blog/deployment-by-pull-requests)
 
 ## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Source%20control%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Source%20control%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

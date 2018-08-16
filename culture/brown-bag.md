@@ -40,4 +40,4 @@ This kind of event has at least 3 goals:
 * [Share/Learn/Socialize](https://dius.com.au/2016/05/27/dius-brown-bags/)
 
 ## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Brown%20bag%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Brown%20bag%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

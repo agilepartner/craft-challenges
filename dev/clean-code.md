@@ -68,4 +68,4 @@ Because clean code is our purpose as software craftsmen.
 * "Clean Code: A Handbook of Agile Software Craftsmanship" - *Robert C. Martin* ([here](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1509989642&sr=8-1&keywords=clean+code) on amazon)
 
 ## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Clean%20code%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Clean%20code%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)
