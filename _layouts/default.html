@@ -12,13 +12,20 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/breadcrumb.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/footer.css" />
     <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logo.png" />
+    <script src="{{ site.baseurl }}/scripts/particles.js"></script>
 
     <title> {{ page.title }} </title>
   </head>
 
+  <script type="text/javascript">
+    particlesJS.load('particles-js', 'assets/particles.json', function() {
+      console.log('callback - particles.js config loaded');
+    });
+  </script>
+  
   <body>
     <header>
-      <div class="inner">
+      <div id="particles-js" class="inner"></div>
         <h1><a href="{{ site.baseurl }}" style="color:white">{{ site.name }}</a></h1>
       </div>
     </header>
