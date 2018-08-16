@@ -7,10 +7,10 @@ Welcome to this software craftsmanship challenge !!!
 This repository contains cards and instructions in order to organize craft challenges in your companies.  
 Those challenges are organized in 4 categories :
 
-## [Challenges](challenges/Readme.md)
-## [Dev](dev/Readme.md)  
-## [Practices](practices/Readme.md)
-## [Culture](culture/Readme.md)  
+## [Challenges](challenges/)
+## [Dev](dev/)  
+## [Practices](practices/)
+## [Culture](culture/)  
 
 If you have any questions or if you need further informations don't hesitate to <a href="mailto:ythirion@agilepartner.net?Subject=Craft%20challenges">contact us</a>
 
