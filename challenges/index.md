@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: challenges
 breadcrumb: Challenges
 ---
