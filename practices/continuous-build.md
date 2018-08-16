@@ -1,5 +1,3 @@
-<link href="../css/markdown.css" rel="stylesheet"></link>
-
 # Continuous build
 ![Continuous build](images/continuous-build.png)  
 
