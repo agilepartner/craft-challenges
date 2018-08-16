@@ -1,5 +1,5 @@
 <div class="container">
-    <ul class="breadcrumb">
+  <ul class="breadcrumb">
         {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
         <li><a href="{{ site.baseurl }}/">Home</a></li>
         {% for crumb in crumbs offset: 1 %}

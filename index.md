@@ -1,3 +1,7 @@
+---
+
+---
+
 # Craft challenges
 
 ![craft challenges](images/crafts-poster.png)
