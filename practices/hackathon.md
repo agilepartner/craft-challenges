@@ -1,20 +1,33 @@
 # Hackathon
 ![Hackhathon](images/hackathon.png)
 
-* Find sponsors to organize the event
-* Schedule an internal hackhathon
-* Gather your colleagues
-* Make some noise about it (create the buzz)
-
-## What is it ?
+## What ?
 > ### “A hackathon, a hacker neologism, is an event when programmers meet to do collaborative computer programming.”
-Hackathons provide a venue for self-expression and creativity through technology. People with technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution from scratch — these generally take shape in the form of websites, mobile apps, and robots. 
+Hackathons provide a venue for **self-expression and creativity through technology**.  
+People with technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution from scratch — these generally take shape in the form of websites, mobile apps, and robots. 
 
-## Benefits
+![Hackhathon](images/hackathon1.jpg)
+
+## Why ?
+Hackathon is a really good tool to stimulate the creative and problem-solving juices of developers.  
+The time limit in a hackathon forces participants to distil their visionary concepts down to actionable solutions.
+
+Outsiders can bring a fresh perspective to business challenges, as well as give an outside-in view of products and organization. 
+
+The main benefits for you are :
 * Learn new technical skills
 * Create a sense of accomplishment
 * Innovate
 * Develop solving problems skills
+
+## How ?
+Initiate the organization of an internal hackathon :
+* Find sponsors to organize the event
+* Gather your colleagues
+* Schedule it
+* Make some noise about it (create the buzz)
+
+![Hackhathon](images/hackathon2.png)
 
 ## Resources
 * [The design sprint](http://www.gv.com/sprint/) : How to solve big problems and test new ideas in just five days
@@ -23,4 +36,5 @@ Hackathons provide a venue for self-expression and creativity through technology
 * [Hachathon planning](https://techcrunch.com/2012/03/31/hackathon-planning/)
 * [6 key tips to organize a hackhathon](https://www.techrepublic.com/article/how-to-organize-a-hackathon-6-key-tips/)
 
-![Hackhathon](images/hackhathon1.jpg)
+## Share
+![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Hackathon%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/p7v5vy)
