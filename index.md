@@ -12,7 +12,9 @@ Those challenges are organized in 4 categories :
 ## [Practices](practices/)
 ## [Culture](culture/)  
 
-If you have any questions or if you need further informations don't hesitate to <a href="mailto:ythirion@agilepartner.net?Subject=Craft%20challenges">contact us</a>
+### Aim of the game
+Share the practices and the mindset associated to software craftsmanship.  
+Take some time to [read this page](software craftsman/) before to start.
 
 ### How to play ?
 You can use the cards as described below :  
@@ -35,11 +37,4 @@ You can use the cards as described below :
 #### Instructions card :
 ![Instructions recto](images/instruction-recto.png)
 
-> ### You can print all the cards from this [folder](/cards)
-
-## Software craftsman
-> ### If you want to truly understand what is a **software craftsman** we recommend you to read *["The software craftsman"](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)* by Sandro Mancuso.
-
-Here is our abstract of the book.
-
-![The software craftsman](images/the-software-craftsman.png)
+> ### You can print all the cards [here](craft-challences-cards.pdf)
