@@ -10,7 +10,7 @@ breadcrumb: Challenges
 [![Write a functionality using TDD](images/tdd.png)](tdd)
 [![Code retreat](images/code-retreat.png)](code-retreat)
 [![Ask a question during your next meeting](images/meeting.png)](meeting)
-[![Write an article](images/write-an-article.png)](write-an-article)
+[![Write an article](images/Write-an-article.png)](write-an-article)
 [![Create a new card](images/create-a-new-card.png)](create-a-new-card)
 [![Participate to a job interview](images/job-interview.png)](job-interview)
 [![Technology radar](images/tech-radar.png)](tech-radar)
