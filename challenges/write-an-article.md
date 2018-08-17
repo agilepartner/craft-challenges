@@ -1,5 +1,5 @@
 # Write an article
-![Write article](images/write-an-article.png)  
+![Write article](images/Write-an-article.png)  
 
 ## What ?
 Write an article about something your really care about.
