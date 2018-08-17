@@ -6,7 +6,7 @@ An Agile retrospective is a meeting that's held at the end of an iteration.
 During the retrospective, **the team reflects on what happened in the iteration and identifies actions for improvement** going forward.
 
 ## Why ?
-> ### As software craftsmen we always want to improve, so it is very important to be able to facilitate this kind of meetings.
+> As software craftsmen we always want to improve, so it is very important to be able to facilitate this kind of meetings.
 
 ## How ?
 * Gather your team
@@ -25,6 +25,7 @@ During the retrospective, **the team reflects on what happened in the iteration 
   * **Decide what to do**
       * Deciding on specific, meaningful, agreed and realistic actions that will be done in the next Sprint
   * **Close the retrospective**
+
 
 > To prepare a retrospective you can use [plans-for-retrospective](https://plans-for-retrospectives.com/en/).
 
