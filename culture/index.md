@@ -11,4 +11,4 @@
 [![Use a whiteboard during a meeting](images/sketchnote.png)](sketchnote)
 [![Give positive feedback to a team mate](images/positive-feedback.png)](positive-feedback)
 [![Discover a new agile topic](images/agile-topics.png)](agile-topics)
-[![Personal map](images/personal-map.png)](personal-map)
+[![Personal map](images/personal.png)](personal-map)
