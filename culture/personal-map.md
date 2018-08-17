@@ -1,5 +1,5 @@
 # Personal map
-![Personal map](images/prsonal.png)
+![Personal map](images/personal.png)
 
 ## What ?
 When you communicate with many people, it can be difficult to remember every little detail. A way to deal with this amount of information is to build mind maps about personal facts to remember details quickly.  
