@@ -34,7 +34,7 @@ These are the main benefits :
     * Add a dependency to a Unit Test framework (Xunit for example)
     * Write the first tests
 
-> ### No matter the languages you are using you can write unit tests.
+> No matter the languages you are using you can write unit tests.
 
 ![Write 5 unit tests](images/unit-tests3.jpg)  
 

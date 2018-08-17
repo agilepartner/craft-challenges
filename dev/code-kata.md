@@ -5,6 +5,7 @@
 A kata, or code kata, is defined as an exercise in programming which helps hone your skills through practice and repetition.
 
 ### Many kind of katas
+
 #### Randori
 The challenge is solved by coding pairs (driver and copilot)
 * Everyone can help
@@ -13,6 +14,7 @@ The challenge is solved by coding pairs (driver and copilot)
     * Driver goes back to the audience
     * Copilot becomes driver 
     * One of the audience step up to be copilot
+
 #### Katas
 A presenter shows how to solve the challenge from scratch (TDD, Baby steps).
 * Each step must make sense to everyone
@@ -35,9 +37,9 @@ In a coding dojo you can organize what is called **coding katas**.
 ## Resources
 * [What is a code kata ?](http://codekata.com/)
 * Katas websites
-    * https://www.codewars.com/
-    * https://github.com/gamontalvo/awesome-katas
-    * https://www.codingame.com/start
+    * [https://www.codewars.com/](https://www.codewars.com/)
+    * [https://github.com/gamontalvo/awesome-katas](https://github.com/gamontalvo/awesome-katas)
+    * [https://www.codingame.com/start](https://www.codingame.com/start)
 * [How to start a coding dojo ?](
 http://johannesbrodwall.com/2011/12/18/how-to-start-a-coding-dojo/)
 

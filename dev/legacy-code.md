@@ -20,7 +20,7 @@ What we need to do is to get legacy code under control otherwise our technical d
 
 ![Identify & refactor legacy code](images/legacy-code2.jpg)
  
- ### What is refactoring ?
+### What is refactoring ?
 Code refactoring is the process of restructuring existing computer code — **changing the factoring — without changing its external behavior**.
 
 ## How ?
