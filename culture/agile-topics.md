@@ -1,5 +1,5 @@
 # Agile topics
-![Agile topics](images/Agile-topics.png)
+![Agile topics](images/agile-topics.png)
 
 ## What ?
 "Agile topics" is a deck of cards created by [*Jimmy Janlén*](https://www.linkedin.com/in/jimmyjanlen/) from Crisp.  
