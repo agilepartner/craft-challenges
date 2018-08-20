@@ -35,6 +35,3 @@ During the retrospective, **the team reflects on what happened in the iteration 
 * [Plans for retrospectives](https://plans-for-retrospectives.com/)
 * [Retrospective wiki](http://retrospectivewiki.org/index.php?title=Retrospective_Plans)
 * [Simple way to run a sprint retrospective](https://www.mountaingoatsoftware.com/blog/a-simple-way-to-run-a-sprint-retrospective)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Retrospective%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

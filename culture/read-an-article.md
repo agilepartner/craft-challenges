@@ -27,6 +27,3 @@ Sharing your discoveries allow you to organize your technology watch and create 
 * [Techradar](http://www.techradar.com/)
 
 ![Read article](images/read-1-article1.jpg)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Read%20an%20article%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

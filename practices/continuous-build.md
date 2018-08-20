@@ -42,6 +42,3 @@ If no CI configured :
 * [9 benefits of Continuous Integration](https://dzone.com/articles/9-bene-ts-of-continuous-integration)
 * [Continuous Integration for Amazon](https://aws.amazon.com/devops/continuous-integration/)
 * [Continuous Integration for Microsoft](https://www.visualstudio.com/learn/what-is-continuous-integration/)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Continuous%20integration%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

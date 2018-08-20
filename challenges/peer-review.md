@@ -30,6 +30,3 @@ Practicing `code review` in another team promotes :
 * [Why code reviews matter ?](https://www.atlassian.com/agile/code-reviews)
 * [Code review definition](https://en.wikipedia.org/wiki/Code_review)
 * [Best practices](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Peer%20review%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

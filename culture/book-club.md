@@ -70,6 +70,3 @@ Most book clubs meet monthly in order to give members time to read the next book
 * Tim Brown. *Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation, 2009*
 * Jake Knapp. *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days, 2016*
 * Jeff Gothelf. *Lean UX: Designing Great Products with Agile Teams, 2016*
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Book%20club%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

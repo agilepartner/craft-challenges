@@ -34,6 +34,3 @@ Both giver and receiver benefit by getting specific with feedback.
 * [How To Give Positive Feedback To Your Manager And Co-Workers](https://blog.impraise.com/360-feedback/how-to-give-positive-feedback-to-your-manager-and-co-workers-performance-review)
 
 ![Positive feedback](images/positive-feedback1.png)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Positive%20feedback%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

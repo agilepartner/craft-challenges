@@ -34,6 +34,3 @@ Basically in group :
 ## Resources
 * [Seven strategies for team swarming](http://tobeagile.com/2012/12/11/seven-strategies-for-team-swarming/)
 * [Puzzle Driven Development explained](http://www.yegor256.com/2009/03/04/pdd.html)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Agile%20swarming%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

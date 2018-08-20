@@ -30,6 +30,3 @@ You can use a lot of tools to do a job interview :
 
 ## Resources
 * [The 10 Questions Every Interviewer MUST Ask](https://www.scienceofpeople.com/10-questions-every-interviewer-must-ask/)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Job%20interview%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

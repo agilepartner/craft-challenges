@@ -20,6 +20,3 @@ Usually, you have 8 steps to follow in order to write an intense article :
 * Publish it on a blog/twitter/IT website or your internal network.
 
 ![Write article](images/write-article1.jpg)  
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Write%20an%20article%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

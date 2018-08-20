@@ -23,6 +23,3 @@ It's always a good thing to learn new things ;-)
 * [Fizzbuzz on github](https://github.com/search?utf8=%E2%9C%93&q=fizzbuzz&type=)
 
 ![Fizzbuzz](images/fizz-buzz1.jpg)  
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Fizzbuzz%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

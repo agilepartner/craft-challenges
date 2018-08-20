@@ -48,6 +48,3 @@ There are N/2 pairs to coordinate instead of N individual developers.
 * [Agile in practice: Pair programming](https://www.youtube.com/watch?v=ET3Q6zNK3Io)
 
 ![Pair program](images/pair-programming1.jpg)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20Pair%20programming%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

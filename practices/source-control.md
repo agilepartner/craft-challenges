@@ -46,6 +46,3 @@ These changes are proposed in a branch, which ensures that the master branch onl
 * [A Review of Software Version Control: Systems, Benefits, and Why it Matters](https://www.seguetech.com/a-review-of-software-version-control-systems-benefits-and-why-it-matters/)
 * [How to make a pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
 * [Deployment by pull requests](https://www.madetech.com/blog/deployment-by-pull-requests)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Source%20control%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

@@ -20,6 +20,3 @@ Practicing is at the heart of the software craftsman mindset that is why resolvi
 ## Resources
 * [codingame.com](https://www.codingame.com)
 * [10 programming challenges platforms](https://programmingzen.com/10-programming-challenges-sites/)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Codingame%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

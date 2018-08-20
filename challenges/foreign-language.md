@@ -16,6 +16,3 @@ Speaking other languages than our native language can:
 
 ## How ?
 - Spend the whole day speaking a foreign language with your team-mates
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Foreign%20language%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

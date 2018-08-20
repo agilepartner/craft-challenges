@@ -29,6 +29,3 @@ Watching videos in group will help you to create a culture of learning in your c
 * [Craft-conf videos](https://craft-conf.com/2018)
 
 ![Watch video](images/watch-video1.jpg) 
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Video%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

@@ -44,6 +44,3 @@ In a coding dojo you can organize what is called **coding katas**.
 http://johannesbrodwall.com/2011/12/18/how-to-start-a-coding-dojo/)
 
 ![Code kata](images/code-kata1.jpg)  
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Code%20kata%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

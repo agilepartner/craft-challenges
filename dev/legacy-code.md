@@ -36,6 +36,3 @@ Code refactoring is the process of restructuring existing computer code — **ch
 * [How to refactor legacy code](https://code.tutsplus.com/tutorials/refactoring-legacy-code-part-1-the-golden-master--cms-20331)
 * [How to rescue legacy code through refactoring](https://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring)
 * [Working effectively with legacy code book - Michael Feathers](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Legacy%20code%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

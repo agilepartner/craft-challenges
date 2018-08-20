@@ -58,8 +58,3 @@ Repeat above steps on each topics
 * [How to hack your meetings](http://www.neomobile.com/multimedia/lean-coffee-how-to-hack-your-meetings/)
 * [Facilitator's guide](https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9)
 * [leancoffee.org](http://leancoffee.org/)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20Lean%20coffee%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)
-
-

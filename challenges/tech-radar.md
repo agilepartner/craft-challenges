@@ -47,6 +47,3 @@ The ones they are `using at the moment and the ones they would like to use in th
 * [Github - Build your own tech radar](https://www.thoughtworks.com/radar/how-to-byor)
 * [Latest Thoughtworks technology radar](https://www.thoughtworks.com/radar)
 * [Atlassian tech radar plugin](https://marketplace.atlassian.com/plugins/de.iteconomics.confluence.techradar/server/overview)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Tech%20radar%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

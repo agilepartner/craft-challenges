@@ -31,6 +31,3 @@ This tool has a lot of benefits amongst them :
 * [Management 3.0 - Kudo cards](https://management30.com/product/kudo-cards/)
 * [Appreciation cards, Kudo wall And Kudo box](http://www.plays-in-business.com/appreciation-cards-kudo-wall-and-kudo-box/)
 * [Managing for happinness book](https://www.amazon.com/Managing-Happiness-Games-Practices-Motivate/dp/1119268680/ref=sr_1_1?ie=UTF8&qid=1534415261&sr=8-1&keywords=managing+for+happiness)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Kudo%20wall%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

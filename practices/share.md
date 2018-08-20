@@ -33,6 +33,3 @@ It you will create new knowledge as well.
 * [Ways of Sharing Knowledge On Agile Teams](https://www.frontrowagile.com/blog/posts/86-ways-of-sharing-knowledge-on-agile-teams)
 
 ![Share](images/share1.jpg)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Share%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

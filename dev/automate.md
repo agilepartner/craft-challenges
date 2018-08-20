@@ -23,7 +23,3 @@ To improve team's efficiency.
 ## Resources
 * [7 wastes - Lean Software Development](https://dzone.com/articles/seven-wastes-software)
 * [7 principles of Lean Software Development](https://agilevelocity.com/lean/7-principles-of-lean-software-development/)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Automate%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)
-

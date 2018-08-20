@@ -36,6 +36,3 @@ By practicing T.D.D it will :
 * [TDD definition](https://www.agilealliance.org/glossary/tdd/)
 * [What is TDD](http://agiledata.org/essays/tdd.html)
 * [TDD example](https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20T.D.D%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

@@ -21,6 +21,3 @@ It is part of our sofwtare craftsman activity to challenge things **even if it i
 * [7p's framework for efficient meetings](http://gamestorming.com/7ps-framework/)  
 
 ![Ask a question](images/meeting-question1.jpg)    
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Meeting%20question%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

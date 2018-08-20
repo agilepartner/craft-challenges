@@ -19,6 +19,3 @@ Those feedback can dramatically influence what will be worked on in subsequent w
 * [Sprint review : Much more than just a Demo](https://www.scrum.org/resources/blog/sprint-review-much-more-just-demo)
 * [An agenda for the sprint review](https://www.mountaingoatsoftware.com/blog/an-agenda-for-the-sprint-review)
 * [How to run a successful sprint review](https://backlog.com/blog/successful-sprint-review-meeting/)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20Product%20review%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

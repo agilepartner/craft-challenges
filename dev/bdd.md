@@ -37,6 +37,3 @@ This living documentation of the system is understandable by everyone (from deve
 * [How to start with Cucumber](https://www.cuelogic.com/blog/how-to-start-with-cucumber-automation/)
 * [What is Specification by example](https://blog.red-badger.com/blog/2012/07/31/what-is-specification-by-example)
 * [Specification by example explained by Martin Fowler](https://martinfowler.com/bliki/SpecificationByExample.html)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20B.D.D%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)

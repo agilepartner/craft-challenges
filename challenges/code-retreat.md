@@ -24,6 +24,3 @@ Doing a code retreat is a very good way to stay focused and improve our performa
 ## Resources (to stay focus)
 * [Pomodoro technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)
 * [The pomodoro technique in 40 seconds](https://www.focusboosterapp.com/the-pomodoro-technique)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Code%20retreat%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)
