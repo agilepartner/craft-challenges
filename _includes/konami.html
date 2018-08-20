@@ -1,4 +1,5 @@
-<div class="konami"><img src="https://media.giphy.com/media/xohHbwcnOhqbS/giphy.gif" style="display:none" alt""/>
+<div>
+    <img id="konami" class="konami" src="../images/konami.gif"/>
     <script>
         var allowedKeys = {
             37: 'left',
@@ -10,30 +11,47 @@
         };
 
         var konamiCode = ['up', 'up', 'down', 'down', 'left', 'right', 'left', 'right', 'b', 'a'];
-        var position = 0;
+        var keyPosition = 0;
+        var activated = false;
         
         document.addEventListener('keydown', function(e) {
             var key = allowedKeys[e.keyCode];
-            var requiredKey = konamiCode[position];
+            var requiredKey = konamiCode[keyPosition];
 
             if (key == requiredKey) {
-                position++;
+                keyPosition++;
 
-                if (position == konamiCode.length) {
+                if (keyPosition == konamiCode.length) {
                     activateEgg();
-                    resetPosition();
+                    resetKeyPosition();
                 }
             } else {
-                resetPosition();
+                resetKeyPosition();
             }
         });
 
-        function resetPosition() {
+        function resetKeyPosition() {
             position = 0;
         }
 
         function activateEgg() {
-            alert('Egg found');
+            if(!activated) {
+                activated = true;
+                var konamiDiv = document.getElementById("konami"); 
+                    konami.style.display = 'inherit';
+                    var currentPosition = 0;
+
+                    var id = setInterval(() => {
+                        if (currentPosition == document.body.offsetWidth) {
+                            clearInterval(id);
+                            konami.style.display = 'none';
+                            activated = false;
+                        } else {
+                            currentPosition++; 
+                            konami.style.left = currentPosition + 'px'; 
+                        }
+                }, 10);            
+            }
         }
     </script>
 </div>

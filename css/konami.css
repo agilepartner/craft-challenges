@@ -1,9 +1,8 @@
 .konami { 
-    content:url('https://media.giphy.com/media/xohHbwcnOhqbS/giphy.gif'); 
     position:fixed; 
-    min-height: 300px; 
-    left:50%; 
+    height: 300px; 
     bottom:30px; 
     background-position:0px -178px; 
-    z-index:1000; 
+    z-index:1000;
+    display: none;
 }
