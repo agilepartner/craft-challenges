@@ -1,7 +1,5 @@
-# Welcome to this software craftsmanship challenge !!!
-
 ![craft challenges](images/crafts-poster.png)
-
+Welcome to this software craftsmanship challenge !!!  
 This repository contains cards and instructions in order to organize craft challenges in your companies.  
 Those challenges are organized in 4 categories :
 
@@ -35,4 +33,4 @@ You can use the cards as described below :
 #### Instructions card :
 ![Instructions recto](images/instructions.png)
 
-> You can print all the cards [here](/craft-challenges-cards.pdf)
+You can print all the cards [here](/craft-challenges-cards.pdf)
