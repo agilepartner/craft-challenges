@@ -45,7 +45,8 @@ body.rtl {
 .btn:active,
 .btn:focus,
 .btn:hover {
-	background-color: #0c7abf
+	background-color: #4099FF;
+	color: white
 }
 
 .btn:active {
