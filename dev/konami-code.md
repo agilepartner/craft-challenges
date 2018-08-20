@@ -28,6 +28,7 @@ Because it is another way to practice and it's really fun.
 > You can use the one on this page for example ;-)
 
 ## Resources
+* [konami-js](https://github.com/snaptortoise/konami-js)
 * [How to add a konami code to your website](https://www.instructables.com/id/How-to-Add-Konami-Code-to-Your-Website/)
 * [How to add konami code in a website based on html?](https://stackoverflow.com/questions/31626852/how-to-add-konami-code-in-a-website-based-on-html)
 * [What is a konami code](https://en.wikipedia.org/wiki/Konami_Code)
