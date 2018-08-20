@@ -6,7 +6,7 @@
  *    user zoom.
  */
 
-html {
+ html {
   font-family: sans-serif; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
   -ms-text-size-adjust: 100%; /* 2 */
@@ -441,19 +441,19 @@ p {
 }
 
 a {
-  color: #2879d0;
+  color: #28a2dc;
 }
 a:hover {
-  color: #2268b2;
+  color: #2489bd;
 }
 
 header {
   padding-top: 40px;
   padding-bottom: 40px;
   padding-left: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: #28a2dc url(../images/header-bg.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #28a2dc;
 }
 
 header h1 {
@@ -474,7 +474,7 @@ header h2 {
   font-size: 26px;
   font-weight: normal;
   line-height: 1.3;
-  color: #9ddcff;
+  color: #28a2dc;
   letter-spacing: 0;
 }
 
@@ -522,7 +522,7 @@ a.button {
   height: 58px;
   padding-top: 22px;
   padding-left: 68px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 23px;
   line-height: 1.2;
   color: #fff;
@@ -615,7 +615,7 @@ form {
 #main-content h1 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 2.8em;
   font-weight: normal;
   color: #474747;
@@ -632,7 +632,7 @@ form {
 
 #main-content h2 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
   color: #474747;
@@ -648,7 +648,7 @@ form {
 #main-content h3 {
   margin-top: 24px;
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
   color: #474747;
@@ -664,7 +664,7 @@ form {
 
 #main-content h4 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
   font-weight: bold;
   color: #474747;
@@ -680,7 +680,7 @@ h4:before {
 
 #main-content h5 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 14px;
   color: #474747;
   text-indent: 3px;
@@ -694,7 +694,7 @@ h5:before {
 
 #main-content h6 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: .8em;
   color: #474747;
   text-indent: 3px;
