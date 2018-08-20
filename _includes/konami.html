@@ -13,7 +13,7 @@
         var konamiCode = ['up', 'up', 'down', 'down', 'left', 'right', 'left', 'right', 'b', 'a'];
         var keyPosition = 0;
         var activated = false;
-        var originalShareLink = document.getElementById("shareLink").href;
+        var originalShareLink;
 
         document.addEventListener('keydown', function(e) {
             var key = allowedKeys[e.keyCode];
@@ -37,9 +37,7 @@
 
         function activateEgg() {
             if(!activated) {
-                newShareLink = originalShareLink + ' and discover a true #konami_code';
-                document.getElementById("shareLink").href = newShareLink;
-
+                document.getElementById("shareLink").href = "https://twitter.com/home?status=I%20have%20just%20discovered%20a%20%40konami_code%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/aqf7wy";
                 activated = true;
                 var konamiDiv = document.getElementById("konami");
                     konami.style.display = 'inherit';
