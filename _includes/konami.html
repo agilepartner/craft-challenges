@@ -31,7 +31,7 @@
         });
 
         function resetKeyPosition() {
-            position = 0;
+            keyPosition = 0;
         }
 
         function activateEgg() {
@@ -46,6 +46,7 @@
                             clearInterval(id);
                             konami.style.display = 'none';
                             activated = false;
+                            resetKeyPosition();
                         } else {
                             currentPosition++; 
                             konami.style.left = currentPosition + 'px'; 
