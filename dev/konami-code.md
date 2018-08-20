@@ -1,3 +1,7 @@
+---
+layout: konami
+---
+
 # Konami code
 ![Konami code](images/konami-code.png)  
 
