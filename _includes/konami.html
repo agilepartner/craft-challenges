@@ -13,7 +13,8 @@
         var konamiCode = ['up', 'up', 'down', 'down', 'left', 'right', 'left', 'right', 'b', 'a'];
         var keyPosition = 0;
         var activated = false;
-        
+        var originalShareLink = document.getElementById("shareLink").href;
+
         document.addEventListener('keydown', function(e) {
             var key = allowedKeys[e.keyCode];
             var requiredKey = konamiCode[keyPosition];
@@ -36,11 +37,14 @@
 
         function activateEgg() {
             if(!activated) {
+                newShareLink = originalShareLink + ' and discover a true #konami_code';
+                document.getElementById("shareLink").href = newShareLink;
+
                 activated = true;
-                var konamiDiv = document.getElementById("konami"); 
+                var konamiDiv = document.getElementById("konami");
                     konami.style.display = 'inherit';
                     var currentPosition = 0;
-
+                    
                     var id = setInterval(() => {
                         if (currentPosition == document.body.offsetWidth) {
                             clearInterval(id);
