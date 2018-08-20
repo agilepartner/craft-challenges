@@ -37,4 +37,4 @@ You can use the cards as described below :
 #### Instructions card :
 ![Instructions recto](images/instructions.png)
 
-> You can print all the cards [here](craft-challences-cards.pdf)
+> You can print all the cards [here](craft-challenges-cards.pdf)
