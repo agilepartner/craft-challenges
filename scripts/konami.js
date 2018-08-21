@@ -74,7 +74,7 @@ class Konami {
             konami.onTouchEnd(e, onTouch);
         }, false)
 
-        touchsurface.addEventListener('touchmove', function(e){
+        document.addEventListener('touchmove', function(e){
             e.preventDefault();
         }, false)
       
