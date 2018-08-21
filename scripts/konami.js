@@ -44,7 +44,12 @@ class Konami {
 
     activateEgg(onSuccess) {
         if(!this.isActivated) {
+            this.activated = true;
+            
             onSuccess();
+
+            this.resetKeyPosition();
+            this.activated = false;
         }
     }
 };
