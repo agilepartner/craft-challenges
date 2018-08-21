@@ -34,7 +34,6 @@ class Konami {
     }
 
     validateKey(key){
-        console.log(key);
         var requiredKey = this.konamiCode[this.keyPosition];
 
         if (key == requiredKey || 
