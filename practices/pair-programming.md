@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Pair programming
 ![Pair program](images/pair-programming.png)
 

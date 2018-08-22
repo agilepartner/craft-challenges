@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Continuous build
 ![Continuous build](images/continuous-build.png)  
 

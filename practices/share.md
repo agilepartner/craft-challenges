@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Share
 ![Share](images/share.png)  
 

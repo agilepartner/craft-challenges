@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Source control
 ![Pull requests](images/source-control.png)  
 

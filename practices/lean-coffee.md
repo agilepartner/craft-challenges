@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Lean coffee
 ![Lean coffee](images/lean-coffee.png)
 

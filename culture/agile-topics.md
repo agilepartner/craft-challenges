@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Agile topics
 ![Agile topics](images/agile-topics.png)
 

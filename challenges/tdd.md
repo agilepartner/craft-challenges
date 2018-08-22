@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # TDD
 ![TDD](images/tdd.png)  
 

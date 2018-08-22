@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Coffee break
 ![Coffee break](images/coffee-break.png)  
 

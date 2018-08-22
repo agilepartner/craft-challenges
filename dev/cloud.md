@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Cloud
 ![Cloud](images/cloud.png)
 

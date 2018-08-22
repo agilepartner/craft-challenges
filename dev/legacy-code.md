@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Legacy code
 ![Identify & refactor legacy code](images/legacy-code.png)  
 

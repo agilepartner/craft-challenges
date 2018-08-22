@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # BDD
 ![Write BDD scenarios](images/bdd.png) 
 

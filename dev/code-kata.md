@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Code kata
 ![Organize a code kata session](images/code-kata.png)  
 

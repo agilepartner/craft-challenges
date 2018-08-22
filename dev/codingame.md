@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Codingame
 ![Coding game](images/codingame.png)
 

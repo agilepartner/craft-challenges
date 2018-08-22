@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Podcast
 ![Craft podcasts](images/podcast.png)  
 

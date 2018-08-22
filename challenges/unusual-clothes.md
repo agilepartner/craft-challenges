@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Unusual clothes
 ![Wear unusual clothes](images/unusual-clothes.png)  
 

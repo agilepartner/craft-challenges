@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Retrospective
 ![Facilitate retrospective](images/retrospective.png)  
 

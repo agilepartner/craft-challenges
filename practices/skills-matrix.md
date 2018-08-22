@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Skills matrix
 ![Skills matrix](images/skills-matrix.png)
 

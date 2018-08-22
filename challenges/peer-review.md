@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Peer review
 ![Peer review](images/peer-review.png)
 

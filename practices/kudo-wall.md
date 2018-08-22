@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Kudo wall
 ![Kudo wall](images/kudo-wall.png)
 

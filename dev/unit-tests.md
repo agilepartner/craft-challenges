@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Unit tests
 ![Write 5 unit tests](images/unit-tests.png)  
 

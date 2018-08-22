@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Read an article
 ![Read article](images/read-an-article.png)
 

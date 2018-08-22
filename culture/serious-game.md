@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Serious game
 ![Serious game](images/serious-game.png)
 

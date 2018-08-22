@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Root-Me
 
 ![Root-Me](images/root-me.png)

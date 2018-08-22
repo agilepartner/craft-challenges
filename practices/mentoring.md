@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Mentoring
 ![Mentoring](images/mentoring.png)
 

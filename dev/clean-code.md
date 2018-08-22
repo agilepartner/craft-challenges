@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Clean code
 ![Clean code](images/clean-code.png)  
 

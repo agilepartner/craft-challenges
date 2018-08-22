@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Conference
 ![Conference](images/conference.png)  
 

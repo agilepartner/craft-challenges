@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Meeting
 ![Ask a question](images/meeting.png)  
 

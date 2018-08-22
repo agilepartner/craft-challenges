@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Agile swarming
 ![Agile swarming](images/agile-swarming.png)  
 

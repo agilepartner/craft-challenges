@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Foreign language
 ![Foreign language](images/foreign-language.png)  
 

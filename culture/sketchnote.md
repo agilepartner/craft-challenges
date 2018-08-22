@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Sketchnote
 ![Sketchnote during meeting](images/sketchnote.png)
 

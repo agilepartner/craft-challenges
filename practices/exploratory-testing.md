@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Exploratory testing
 ![Exploratory testing](images/exploratory-testing.png)
 

@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Tech radar
 ![Technology radar](images/tech-radar.png)
 

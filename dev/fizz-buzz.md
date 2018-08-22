@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Fizzbuzz
 ![Fizzbuzz](images/fizzbuzz.png)  
 

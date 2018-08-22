@@ -1,9 +1,3 @@
----
-layout: page
-title: challenges
-breadcrumb: Challenges
----
-
 # Challenges
 [![Take a photo with your team](images/team-photo.png)](team-photo)
 [![Do a pair review in an other team](images/peer-review.png)](peer-review)

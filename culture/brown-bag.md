@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Brown bag
 ![Brown bag](images/brown-bag.png)
 

@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Product review
 ![Lead a product review](images/product-review.png)  
 

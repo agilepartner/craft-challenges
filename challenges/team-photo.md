@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Team photo
 ![Team photo](images/team-photo.png)  
 

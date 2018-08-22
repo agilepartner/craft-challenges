@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Tech retro
 ![Architecture retrospective](images/tech-retro.png)  
 

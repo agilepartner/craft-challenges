@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Job interview
 ![Job interview](images/job-interview.png)  
 

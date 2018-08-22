@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Automate
 ![Automate an current manual task](images/automate.png)
 

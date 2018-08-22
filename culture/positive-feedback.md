@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Positive feedback
 ![Positive feedback](images/positive-feedback.png)
 

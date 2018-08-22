@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Video
 ![Watch video](images/video.png)  
 

@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Write an article
 ![Write article](images/Write-an-article.png)  
 

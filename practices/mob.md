@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Mob
 ![Mob programming](images/mob.png)
 

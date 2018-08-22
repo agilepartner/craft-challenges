@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Hackathon
 ![Hackhathon](images/hackathon.png)
 

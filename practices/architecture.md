@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Architecture
 ![Draw an architecture diagram](images/architecture.png)
 

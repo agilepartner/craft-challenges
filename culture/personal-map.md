@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Personal map
 ![Personal map](images/personal.png)
 

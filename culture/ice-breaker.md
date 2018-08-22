@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Ice breaker
 ![Ice breaker](images/ice-breaker.png)  
 

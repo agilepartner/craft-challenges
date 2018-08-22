@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Book club
 ![Book club](images/book-club.png)
 
