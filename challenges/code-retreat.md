@@ -1,3 +1,7 @@
+---
+layout: card
+---
+
 # Code retreat
 ![Code retreat](images/code-retreat.png)  
 
