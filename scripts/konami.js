@@ -39,7 +39,6 @@ class Konami {
 
             if (this.keyPosition == this.konamiCode.length) {
                 this.activateEgg(this.onSuccess);
-                this.resetKeyPosition();
             }
         } else {
             this.resetKeyPosition();
@@ -54,10 +53,11 @@ class Konami {
         if(!this.isActivated) {
             this.isActivated = true;
 
-            onSuccess();
-
-            this.resetKeyPosition();
-            this.isActivated = false;
+            onSuccess()
+                .then(() => {
+                    this.resetKeyPosition();
+                    this.isActivated = false;
+                });            
         }
     }
 };
