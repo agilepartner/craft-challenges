@@ -28,28 +28,28 @@ Serious games are interesting tools to acquire knowledge, both for their motivat
 As a facilitator you need to follow those 5 steps in order to make the debrief efficient :  
 
 **1) FEELING**  
-**Let the participants talk**
-    * How did you feel during the exercise ?
-    * What did you feel ?
+**Let the participants talk**  
+* How did you feel during the exercise ?
+* What did you feel ?
 
 **2) PROOFREADING**  
-After the feeling, **gather the facts**.
-    * What happened ?
-    * How did it go ?
-    * What difficulties have emerged ? When ?
+After the feeling, **gather the facts**.  
+* What happened ?
+* How did it go ?
+* What difficulties have emerged ? When ?
 
 **3) LEARNINGS**  
-Participants try to **theorize** their experience.
-    * What did you learn ?
-    * What did you become aware of during this game ?
-    * What would you have changed to reach a better result ?
+Participants try to **theorize** their experience.  
+* What did you learn ?
+* What did you become aware of during this game ?
+* What would you have changed to reach a better result ?
 
 **4) CONTEXTUALIZATION**  
-Participants must try to **transpose it to their own professional context**.
-    * What parallel could you do with your professional context ?
-    * Have you had a sense of "déjà vu" ?
-    * What is your interest in your work or your daily life ?
-    * Did it seem realistic / exaggerated, why ?
+Participants must try to **transpose it to their own professional context**.  
+* What parallel could you do with your professional context ?
+* Have you had a sense of "déjà vu" ?
+* What is your interest in your work or your daily life ?
+* Did it seem realistic / exaggerated, why ?
 
 **5) KNOWLEDGE TRANSFER**  
 **Deliver theoretical insight** and evoke all the lessons that can be learned from the game.
