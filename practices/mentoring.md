@@ -7,7 +7,7 @@ layout: card
 
 ## What ?
 Mentoring is a powerful personal and career development tool that can enable the mentee to **achieve or exceed their life's goals and aspirations**.  
-> ### *According to a lot of definition a mentor is **'a trusted counselor or guide'***. 
+> *According to a lot of definition a mentor is **'a trusted counselor or guide'***. 
 
 ### What does a mentor do? 
 Well it will always depend upon the mentee's needs a mentor:
@@ -70,6 +70,8 @@ If you want to succeed in a mentoring relationship we recommend to follow the pr
 | **T**rust | Build and maintain trust by : <br/>• Telling the truth<br/>• Staying connected | **Building trust takes time -> can be destroyed in an instant** | • Trust should deepen <br/>• Honesty and clear communication with your mentoring partner can deepen trust and take your relationship to the next level |
 | **O**pportunity | **Create opportunity for your mentoree or mentor to grow** | As partners you have access to personal and business opportunities | • Mentoring partnership is a two way street (Both have opportunities to bring)<br/>• Mentoring between generations (cross generational mentoring)<br/>-A powerful way to create opportunities by exchanging |
 | **R**eview and Renewal | **Schedule a regular time to**<br/>• Review progress<br/>• Renew your mentoring partnership | You'll never get where you want if you don't create a mission statement and you'll never know you've arrived if you don't do regular reviews. | • Scheduling a regular review keeps both mentor and mentee on track <br/>• Ensure that reviews take place by putting them into your calendar<br/>• If your review reveals that the mission has not been accomplished -> discuss new strategies to achieve the goal | 
+
+
 
 ![Mentoring](images/mentoring1.png)
 

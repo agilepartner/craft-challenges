@@ -10,7 +10,7 @@ Software development is done in teams.
 `Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control.`
 
 One rule needs to be followed when you continuously integrate :  
-> ### If anything fails, stop the line!
+> If anything fails, **stop the line**!
 
 ## Why ?
 Because you’re integrating frequently, there is significantly less back-tracking to discover where things went wrong, so you can spend more time building features.

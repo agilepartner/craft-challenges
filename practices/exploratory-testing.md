@@ -13,7 +13,7 @@ The quality of the testing is dependent on the tester's skill of inventing test 
 ![Exploratory testing](images/exploratory-testing1.jpg)
 
 ## Why ?
-> ### Because it **leverages human intelligence**, Exploratory Testing gives you a broader and deeper view than any automated test could.
+> Because it **leverages human intelligence**, Exploratory Testing gives you a broader and deeper view than any automated test could.
 
 Exploratory testing involves exploration without using a predefined sequence of steps.
 

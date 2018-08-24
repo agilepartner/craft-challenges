@@ -35,25 +35,25 @@ Lean coffee is a free-space workshop where people can :
 * Debrief at the end
 
 ### How to facilitate a session ?
-#### 1) Create a Kanban board
+**1) Create a Kanban board**
 Write the following words/phrases on three separate note cards or sticky notes: “To Do,” “Doing,” “Done” (or alternatively, “To Discuss,” “Discussing,” “Discussed”)
-#### 2) Brainstorm topics
+**2) Brainstorm topics**
 Everyone writes down topics they would like to discuss (usually one topic per sticky note) before placing them in the middle of the table or on a nearby wall. This should take only a few minutes.
-#### 3) Pitch topics
+**3) Pitch topics**
 Once the group and/or facilitator thinks there are enough topics on the table, each idea will have a one or two sentence introduction. The aim is to clarify the topic to the other people; not to discuss them at this stage.
-#### 4) Vote
+**4) Vote**
 Everyone votes on the topic(s) they would like to discuss by dot voting: each person gets two votes to choose which topic(s) they would like to discuss. People can put both dots on the same topic, or on different ones.
-#### 5) Prioritize topics
+**5) Prioritize topics**
 The dots on each topic are counted, and the topics are sorted into popularity order in the ‘To discuss’ column of the kanban board.
 #### 6) Discussion
 The most popular topic is then discussed for 8 minutes. As a discussion starts, the sticky note for that topic is moved into the ‘Doing‘/‘Discussing’ column.
-#### 7) Continue or not ?
-At the end of 8 minutes, the group votes whether to continue with the same topic or move onto the next.  
+**7) Continue or not ?**
+At the end of x minutes, the group votes whether to continue with the same topic or move onto the next.  
 Voting is usually conducted through a thumbs up versus thumbs down approach (**roman vote**).  
-If the topic continues, you continue for another 4 minutes, then re-vote.
-#### 8) Topic is finished
+If the topic continues, you continue for another y minutes, then re-vote.
+**8) Topic is finished**
 When the topic is finished, the sticky note for that topic is moved into the ‘Discussed’ column and you move onto the next most popular topic.
-#### 9) Repeat
+**9) Repeat**
 Repeat above steps on each topics
 
 ![Lean coffee](images/lean-coffee2.png)

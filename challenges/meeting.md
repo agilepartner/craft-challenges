@@ -6,7 +6,7 @@ layout: card
 ![Ask a question](images/meeting.png)  
 
 ## What ?
-> ### As a developer you are not only someone who can translate business language to code. **You are much more than that**.
+> As a developer you are not only someone who can translate business language to code. **You are much more than that**.
 
 That is why you need to challenge things when it is needed.
 

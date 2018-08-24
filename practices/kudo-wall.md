@@ -12,7 +12,7 @@ A kudo card is a written and public recognition of a colleague for something he/
 `A Kudo is not just given from the top down, but peer-to-peer and bottom-up.` Across departments and organizations, anyone can recognize someone else’s work.  
 **It’s a way to break down hierarchical limitations and to encourage everyone to offer instant positive feedback.**
 
-> ## Kudo Cards are small gestures of gratitude.
+> Kudo Cards are small gestures of gratitude.
 
 ## Why ?
 This tool has a lot of benefits amongst them :

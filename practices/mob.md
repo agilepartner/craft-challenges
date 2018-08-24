@@ -18,7 +18,7 @@ The team consists of everyone involved in creating the software, including custo
 
 The Mob Programming approach relies on concepts such as face-to-face and side-by-side communication, team alignment, collaboration, whole team involvement, continuous code review, and self-organizing teams in order to be effective.
 
-> ## "Resolve complex problems in whole team"
+> "Resolve complex problems in whole team"
 
 ![The mob](images/mob1.jpg)
 

@@ -19,7 +19,7 @@ It can occur between individuals, within teams and across the organization.
 By connecting and sharing with people you will increase trust in and outside the team.  
 It you will create new knowledge as well.  
 
-> ### In agile we strongly believe in *"Individuals and interactions over processes and tools"*.
+> In agile we strongly believe in *"Individuals and interactions over processes and tools"*.
 
 ![Share](images/share2.jpg)
 

@@ -21,7 +21,7 @@ Podcast is a good way to learn new stuff during boring activities such as drivin
 
 ## Resources
 * [infoQ](https://www.infoq.com/Software_Craftsmanship/podcasts/)
-* https://player.fm/featured/tech
+* [player.fm](https://player.fm/featured/tech)
 * [This week in tech](https://twit.tv/shows/this-week-in-tech)
 * [HanselMinutes](https://www.hanselminutes.com/)
 * [Les castcodeurs](https://lescastcodeurs.com/)

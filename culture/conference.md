@@ -15,7 +15,7 @@ There are so many great ways to learn and sharpen your skills these days, you ca
 * Watch how-to videos on YouTube
 * Attend webinars
 
->  But live events - conferences, workshops, lunch & learns–provide unique learning and career building opportunities that you just can’t find anywhere else. 
+>  But live events - conferences, workshops, lunch & learns–provide **unique learning and career building opportunities** that you just can’t find anywhere else. 
  
 There are plenty of reasons why attending conferences is really important to expand your learning :
 * Educational opportunities : no matter how experienced you are, everyone can learn

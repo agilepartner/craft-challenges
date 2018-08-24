@@ -17,7 +17,7 @@ In a technical retrospective, we are **focusing on the technical topics**.
 By introspecting regularly on your architecture, you will continuously improve at the technical level.  
 You will use the **collective intelligence** of your team to do so. 
 
-> ### If you think good architecture is expensive, try bad architecture. ~ Brian foote and Joseph Yoder in *"Big ball of mud"*
+> If you think good architecture is expensive, **try bad architecture**. ~ Brian foote and Joseph Yoder in *"Big ball of mud"*
 
 ## How ?
 * Gather your team

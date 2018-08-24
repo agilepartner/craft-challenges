@@ -6,8 +6,9 @@ layout: card
 ![Hackhathon](images/hackathon.png)
 
 ## What ?
-> ### “A hackathon, a hacker neologism, is an event when programmers meet to do collaborative computer programming.”
+> “A hackathon, is an event when programmers meet to do collaborative computer programming.”
 Hackathons provide a venue for **self-expression and creativity through technology**.  
+
 People with technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution from scratch — these generally take shape in the form of websites, mobile apps, and robots. 
 
 ![Hackhathon](images/hackathon1.jpg)

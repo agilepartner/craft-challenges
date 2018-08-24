@@ -12,14 +12,14 @@ Formal book clubs meet on a regular basis at a set location.
 Most book clubs meet monthly in order to give members time to read the next book.
 
 ## Why ?
-> Because you will learn a lot and it is not the only benefit :
-* You'll have the opportunity to read more books
+Because you will **learn a lot and it is not the only benefit** :
+* You'll have the opportunity to **read more books**
 * You can make new friends
-    * Create empathy between colleagues
+    * Create **empathy between colleagues**
     * Meet new people
 * You could set the tone of your own club
-* It will help you diversify your reading list
-* You will have the chance to share about books with other passionate guys
+* It will help you **diversify your reading list**
+* You will have the chance to **share** about books **with other passionate guys**
 * It's a place to debate about something other than politics
 
 ## How ? 

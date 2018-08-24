@@ -26,7 +26,7 @@ It is a must have in order to be able to work on the same code base with several
 * Make at least 1 pull request / day 
 * Do it during the next 4 days at least
 
-> ### Pull requests will allow you to do peer reviews in your team.
+> Pull requests will allow you to do peer reviews in your team.
 
 #### What is a pull request ?
 Pull requests let you tell others about changes you've pushed to a git repository.  

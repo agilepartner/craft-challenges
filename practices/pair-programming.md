@@ -17,7 +17,7 @@ The other is called the Navigator.
 He is involved in the programming task by focusing more on overall direction. While reviewing, the navigator also considers the "strategic" direction of the work, coming up with ideas for improvements and likely future problems to address.  
 This is intended to free the driver to focus all of their attention on the "tactical" aspects of completing the current task, using the observer as a safety net and guide.
 
-> ### “For an idea to go **from your head** to the computer it **must go through someone else’s hands**”
+> “For an idea to go **from your head** to the computer it **must go through someone else’s hands**”
 
 ![Pair program](images/pair-programming2.png)
 
