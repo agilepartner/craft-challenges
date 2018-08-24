@@ -508,7 +508,6 @@ tr:nth-child(odd) td { background: #FEFEFE; }
 }
 
 #content-wrapper {
-  padding-top: 30px;
   border-top: solid 1px #fff;
 }
 
