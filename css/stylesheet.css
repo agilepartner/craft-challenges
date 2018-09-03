@@ -516,6 +516,10 @@ tr:nth-child(odd) td { background: #FEFEFE; }
   width: auto;
 }
 
+#disqus_thread {
+  margin-top: 1em
+}
+
 #main-content img {
   max-width: 100%;
 }
