@@ -40,7 +40,7 @@ Because you will **learn a lot and it is not the only benefit** :
 * [Create a book club](http://www.penguin.com/read/book-clubs/create/)
 
 
-### Our recommended books(#our-recommended-books)
+### [Our recommended books](#our-recommended-books)
 
 #### Software craftsmanship
 * [Robert C. Martin. *Clean Code: A Handbook of Agile Software Craftsmanship, 2008*](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1490705150&sr=8-1&keywords=clean+code)
