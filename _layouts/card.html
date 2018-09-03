@@ -32,16 +32,17 @@
         <section id="main-content">
           
           {{ content }}
+          
+          {% include share.html %}
 
         </section>        
       </div>
+
+      {% include comments.html %}
+
     </div>
 
   </body>
-  
-  {% include share.html %}
-
-  {% include comments.html %}
 
   {% include footer.html %}
 </html>
