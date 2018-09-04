@@ -47,8 +47,3 @@ These are the main benefits :
 * [12 Unit Testing Best Practices](http://www.sw-engineering-candies.com/blog-1/unit-testing-best-practices)
 * [8 Principles of Better Unit Testing](https://esj.com/articles/2012/09/24/better-unit-testing.aspx)
 * [You Still Don’t Know How to Do Unit Testing (and Your Secret is Safe with Me)](https://stackify.com/unit-testing-basics-best-practices/)
-
-## Share
-![Share](../images/twitter.png)[ Share this challenge](https://twitter.com/home?status=I%20have%20just%20completed%20the%20Unit%20tests%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/bd40wy)
-
-
