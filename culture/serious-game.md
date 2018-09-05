@@ -60,7 +60,7 @@ Participants must try to **transpose it to their own professional context**.
 To debrief a game you can also use a tool called "Debriefing cube".  
 You can find all the informations about this cube [here](http://www.kilearning.net/TheDebriefingCube_CC-BY_v13.pdf).
 
-## Resources
+### [Resources](#resources)
 * [#play14](http://play14.org/games/)
 * [Agile games](http://coach-agile.com/serious-game-le-recueil/) (in french)
 * [Agilesparks](https://www.agilesparks.com/resources/topicsubject-reading-lists/agile-games-and-exercises-list/)
