@@ -62,6 +62,7 @@ You can find all the informations about this cube [here](http://www.kilearning.n
 
 ## Resources
 * [#play14](http://play14.org/games/)
+* [Agile games](http://coach-agile.com/serious-game-le-recueil/) (in french)
 * [Agilesparks](https://www.agilesparks.com/resources/topicsubject-reading-lists/agile-games-and-exercises-list/)
 * [Lean/agile games](http://www.leansimulations.org/p/huge-list-of-free-lean-games.html)
 * [Unit tests](https://catestdrale.github.io/) (in french)
