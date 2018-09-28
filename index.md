@@ -1,39 +1,38 @@
 # Welcome
 
-![craft challenges](images/crafts-poster.png)
-
 Welcome to this software craftsmanship challenge !!!  
-This repository contains cards and instructions in order to organize craft challenges in your companies.  
-Those challenges are organized in 4 categories :
-
-## [Challenges](challenges/)
-## [Dev](dev/)  
-## [Practices](practices/)
-## [Culture](culture/)  
+This site contains cards and instructions to organize and play craft challenges in your organizations.  
 
 ### Aim of the game
-Share the practices and the mindset associated to software craftsmanship.  
+Share the practices and the mindset associated to software craftsmanship and agile.  
 Take some time to [read this page](software craftsman/) before to start.
 
 ### How to play ?
-You can use the cards as described below :  
-* Each team member takes 1 card
-* He/she has to connect to the related page on github through the **QR code or the url**
-* Take some time to deep dive into the topic
-* Do the challenge in the given time box (at the top left of the card)
+#### 2 proposed game modes
+![competitive mode](images/competitive-mode.png)
 
-(Optional):
-* Print a score board and hang it on the wall in your office
-* Add the points you earned by doing this card (on the top right of the card)
-* Buy something nice for the winner of the challenge! 
+OR
 
-#### OR use it as you want :
+![mob mode](images/mob-mode.png)
+
+> Please share, for each card you can :
+> * Tweet the completed challenges
+> * Comment directly on the page
+
+#### Another mode = use this deck as you want
 * Topics for retrospectives
-* Topics for lean coffees
-* Deep dive in brown bag lunches
+* To wedge a table
 * ...
 
-#### Instructions card :
-![Instructions recto](images/instructions.png)
+We trust you you'll figure it out
+
+### 4 categories
+
+#### [Challenges](challenges/)
+#### [Dev](dev/)  
+#### [Practices](practices/)
+#### [Culture](culture/)  
+
+![craft challenges](images/crafts-poster.png)
 
 ### You can print all the cards [here](/craft-challenges-cards.pdf)
