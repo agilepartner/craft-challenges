@@ -33,6 +33,7 @@ We trust you you'll figure it out
 ## [Practices](practices/)
 ## [Culture](culture/)  
 
-# Print / Do It Yourself
-* [Print the game modes](/craft-challenges-modes.pdf)
-* [Print the cards](/craft-challenges-cards.pdf)
+# To print
+* [Print the game modes](files/craft-challenges-modes.pdf)
+* [Print the cards](files/craft-challenges-cards.pdf)
+* [Print the score boards](files/scoreboards.pdf)
