@@ -33,6 +33,6 @@ We trust you you'll figure it out
 #### [Practices](practices/)
 #### [Culture](culture/)  
 
-![craft challenges](images/crafts-poster.png)
-
-### You can print all the cards [here](/craft-challenges-cards.pdf)
+### Print / Do It Yourself
+* [Print the game modes](/craft-challenges-modes.pdf)
+* [Print the cards](/craft-challenges-cards.pdf)
