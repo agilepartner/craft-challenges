@@ -1,12 +1,13 @@
 ---
-layout: card
+layout: single-card
+title: Lean coffee
+image: assets/images/practices/lean-coffee.png
+category: practices
 ---
 
-# Lean coffee
-![Lean coffee](images/lean-coffee.png)
 
 ## What ?
-Lean Coffee is a gathering of a small number of people who want to discuss topics in an informal setting. 
+Lean Coffee is a gathering of a small number of people who want to discuss topics in an informal setting.
 Lean Coffee is a structured, but agenda-less meeting.  
 Participants :
 * Gather
@@ -56,7 +57,7 @@ When the topic is finished, the sticky note for that topic is moved into the ‘
 **9) Repeat**
 Repeat above steps on each topics
 
-![Lean coffee](images/lean-coffee2.png)
+![Lean coffee](assets/images/lean-coffee2.png)
 
 ## Resources
 * [How to hack your meetings](http://www.neomobile.com/multimedia/lean-coffee-how-to-hack-your-meetings/)

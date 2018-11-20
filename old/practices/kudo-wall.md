@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Kudo wall
+image: assets/images/practices/exploratory-testing.png
+category: practices
 ---
 
-# Kudo wall
-![Kudo wall](images/kudo-wall.png)
 
 ## What ?
 Some companies call them HERO awards, others Rippas or Hugs, in Management 3.0 it is called Kudos.  
@@ -29,7 +30,7 @@ This tool has a lot of benefits amongst them :
 * Name it Kudo wall
 * Invite people to offer each other tokens of appreciation by putting them on this wall
 
-![Kudo wall](images/kudo-wall-sample.jpg)
+![Kudo wall](assets/images/kudo-wall-sample.jpg)
 
 ## Resources
 * [Management 3.0 - Kudo cards](https://management30.com/product/kudo-cards/)

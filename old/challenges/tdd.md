@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: TDD
+image: assets/images/challenges/tdd.png
+category: challenges
 ---
 
-# TDD
-![TDD](images/tdd.png)  
 
 ## What ?
  Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle :
@@ -16,7 +17,7 @@ By practicing T.D.D it will :
 * **Improve the quality of your code** : you will read it like poetry
 * Force you to have a direction in mind before you start charging into the fray, and having a direction in mind leads to **better design**
 * **Focus you on the value** : 100% of testing the wrong things is not a goal…
-* Improve your **productivity** 
+* Improve your **productivity**
 
 ## How ?
 * Start to work on a new functionality
@@ -24,7 +25,7 @@ By practicing T.D.D it will :
 * Write your tests and your implementation through T.D.D
 * Share with your teammates about your experimentation
 
-![TDD](images/tdd1.png)  
+![TDD](assets/images/tdd1.png)  
 
 ### TDD cycle  
 1) Add a test  
@@ -34,7 +35,7 @@ By practicing T.D.D it will :
 5) Refactor code  
 6) Repeat
 
-![TDD](images/tdd2.jpg)  
+![TDD](assets/images/tdd2.jpg)  
 
 ## Resources
 * [TDD definition](https://www.agilealliance.org/glossary/tdd/)

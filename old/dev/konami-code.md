@@ -1,9 +1,11 @@
 ---
-layout: konami
+layout: single-card
+title: Konami
+image: assets/images/dev/konami-code.png
+category: dev
 ---
 
-# Konami code
-![Konami code](images/konami-code.png)  
+
 
 ## What ?
 A Konami Code (Japanese: コナミコマンド, Konami komando, "Konami command") is a **cheat code** that appears in many Konami video games.  The code is also present as an **Easter egg** on a number of websites.
@@ -12,7 +14,7 @@ A Konami Code (Japanese: コナミコマンド, Konami komando, "Konami command"
 In 2017, the Bank of Canada placed an Easter egg on its website promoting its new $10 bill.  
 Typing the Konami code on the website plays the national anthem and fills the screen with animated banknotes or fireworks.
 
-![Konami code](images/konami-code1.png)  
+![Konami code](assets/images/konami-code1.png)  
 
 ## Why ?
 Because it is another way to practice and it's really fun.
@@ -33,4 +35,4 @@ Because it is another way to practice and it's really fun.
 * [How to add konami code in a website based on html?](https://stackoverflow.com/questions/31626852/how-to-add-konami-code-in-a-website-based-on-html)
 * [What is a konami code](https://en.wikipedia.org/wiki/Konami_Code)
 
-![Konami code](images/konami-code2.jpg)  
+![Konami code](assets/images/konami-code2.jpg)  

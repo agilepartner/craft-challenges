@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Foreign language
+image: assets/images/challenges/foreign-language.png
+category: challenges
 ---
 
-# Foreign language
-![Foreign language](images/foreign-language.png)  
 
 ## What ?
 In order to master a foreign language we need to practice it.

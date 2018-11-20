@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Continuous build
+image: assets/images/practices/continuous-build.png
+category: practices
 ---
 
-# Continuous build
-![Continuous build](images/continuous-build.png)  
 
 ## What ?
 Software development is done in teams.  
@@ -21,14 +22,14 @@ This makes it exponentially more difficult to find and fix problems. Such integr
 
 Continuous Integration brings multiple benefits :
 * Say goodbye to long and tense integrations
-* Increase visibility enabling greater communication 
+* Increase visibility enabling greater communication
 * Catch issues early and nip them in the bud
 * Spend less time debugging and more time adding features
 * Build a solid foundation
 * Stop waiting to find out if your code’s going to work
 * Reduce integration problems allowing you to deliver software more rapidly
 
-![Continuous build](images/continuous-build1.png)  
+![Continuous build](assets/images/continuous-build1.png)  
 
 ## How ?
 In order to understand what is built by other teams in your company, **fix the next broken continuous build** of another team.  
@@ -39,7 +40,7 @@ Continuous build could have been broken by :
 If no CI configured :
 * Configure it with Jenkins, VSTS or whatever (you can find plenty of tools)
 
-![Continuous build](images/continuous-build2.jpg)  
+![Continuous build](assets/images/continuous-build2.jpg)  
 
 ## Resources
 * [Continuous integration by Thoughtworks](https://www.thoughtworks.com/continuous-integration)

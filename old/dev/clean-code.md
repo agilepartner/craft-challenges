@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Clean code
+image: assets/images/dev/clean-code.png
+category: dev
 ---
 
-# Clean code
-![Clean code](images/clean-code.png)  
 
 ## What ?
 Clean code is subjective and every developer has a personal take on it. There are some ideas that are considered best practices and what constitutes as clean code within the industry and community, but there is no definitive definition.
@@ -25,7 +26,7 @@ Clean code is subjective and every developer has a personal take on it. There ar
 * Classes and methods are small and only have single responsibility
 * Classes have clear and concise public APIs
 * Classes and methods are predictable and work as expected
-* The code is easily testable and has unit tests 
+* The code is easily testable and has unit tests
 * Tests are easy to understand and easy to change
 
 The words `Clean code` have been quoted by *Robert C. Martin* in his book **Clean Code: A Handbook of Agile Software Craftsmanship**.
@@ -51,7 +52,7 @@ Because clean code is our purpose as software craftsmen.
 
 > “Clean code is code that has been taken care of. Someone has taken the time to keep it simple and orderly. They have paid appropriate attention to details. They have cared.” - *Robert C. Martin*
 
-![I see dead code](images/clean-code1.jpg) 
+![I see dead code](assets/images/clean-code1.jpg)
 
 ## How ?
 * Identify a "code smell"
@@ -63,7 +64,7 @@ Because clean code is our purpose as software craftsmen.
     * If none write some
     * Then refactor
 
-![Code quality](images/clean-code2.png) 
+![Code quality](assets/images/clean-code2.png)
 
 ## Resources
 * [How to write clean code ?](https://www.butterfly.com.au/blog/website-development/clean-high-quality-code-a-guide-on-how-to-become-a-better-programmer)

@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Source control
+image: assets/images/practices/source-control.png
+category: practices
 ---
 
-# Source control
-![Pull requests](images/source-control.png)  
 
 ## What ?
 Version Control System (VCS), also known as Source Control Management (SCM), is a way to manage and document changes developers make to software code.  
@@ -18,12 +19,12 @@ Version control systems allow you to :
 
 It is a must have in order to be able to work on the same code base with several people.
 
-![Source control](images/source-control1.jpg)  
+![Source control](assets/images/source-control1.jpg)  
 
 ## How ?
 
-### If you can submit pull requests in your SCM : 
-* Make at least 1 pull request / day 
+### If you can submit pull requests in your SCM :
+* Make at least 1 pull request / day
 * Do it during the next 4 days at least
 
 > Pull requests will allow you to do peer reviews in your team.
@@ -34,7 +35,7 @@ Once a pull request is opened, you can **discuss and review the potential change
 Create a pull request to propose and collaborate on changes to a repository.  
 These changes are proposed in a branch, which ensures that the master branch only contains finished and approved work.
 
-![Source control](images/source-control2.jpg)  
+![Source control](assets/images/source-control2.jpg)  
 
 ### If you can not :
 * Read the documentation of your current SCM

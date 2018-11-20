@@ -1,12 +1,13 @@
 ---
-layout: card
+layout: single-card
+title: Conference
+image: assets/images/culture/conference.png
+category: culture
 ---
 
-# Conference
-![Conference](images/conference.png)  
 
 ## What ?
-A conference is generally understood as a meeting of several people to discuss a particular topic. 
+A conference is generally understood as a meeting of several people to discuss a particular topic.
 
 ## Why ?
 There are so many great ways to learn and sharpen your skills these days, you can :
@@ -15,8 +16,8 @@ There are so many great ways to learn and sharpen your skills these days, you ca
 * Watch how-to videos on YouTube
 * Attend webinars
 
->  But live events - conferences, workshops, lunch & learns–provide **unique learning and career building opportunities** that you just can’t find anywhere else. 
- 
+>  But live events - conferences, workshops, lunch & learns–provide **unique learning and career building opportunities** that you just can’t find anywhere else.
+
 There are plenty of reasons why attending conferences is really important to expand your learning :
 * Educational opportunities : no matter how experienced you are, everyone can learn
 * Networking with peers
@@ -30,7 +31,7 @@ There are plenty of reasons why attending conferences is really important to exp
 
 Tip: You can find local communities with platforms such as [meetup.com](https://www.meetup.com).
 
-![Conference](images/conference1.jpg)  
+![Conference](assets/images/conference1.jpg)  
 
 ## Resources
 * [12 Reasons You Should Attend Conferences](https://www.takeflyte.com/reasons-to-attend-conferences)

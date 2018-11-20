@@ -1,9 +1,9 @@
 ---
-layout: card
+layout: single-card
+title: Hello world
+image: assets/images/dev/hello-world.png
+category: dev
 ---
-
-# Hello world
-![Hello world](images/hello-world.png)  
 
 ## What ?
 
@@ -25,4 +25,4 @@ Search on the internet for a platform you would like discover or choose from one
 
 Setup you dev environement and emulator and build your first app to validate this challenge.
 
-![android-dev](./images/android_dev.png)
+![android-dev](assets/images/android_dev.png)

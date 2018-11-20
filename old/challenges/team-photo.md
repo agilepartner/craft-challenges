@@ -1,14 +1,14 @@
 ---
-layout: card
+layout: single-card
+title: Team photo
+image: assets/images/challenges/team-photo.png
+category: challenges
 ---
-
-# Team photo
-![Team photo](images/team-photo.png)  
 
 ## What ?
 Take a photo with your team mates.
 
-![Team photo](images/team-photo1.jpg)
+![Team photo](assets/images/team-photo1.jpg)
 
 ## Why ?
 Nothing is more rewarding than sharing the adventure of building something that truly matters with engaged teammates.
@@ -16,7 +16,7 @@ Teamwork is essential to deliver great software.
 
 > Great agile teams embody "we" rather than “I".
 
-This kind of practice will help you to create empathy between teammates. 
+This kind of practice will help you to create empathy between teammates.
 
 ## How ?
 * Gather your team

@@ -1,15 +1,16 @@
 ---
-layout: card
+layout: single-card
+title: Mentoring
+image: assets/images/practices/mentoring.png
+category: practices
 ---
 
-# Mentoring
-![Mentoring](images/mentoring.png)
 
 ## What ?
 Mentoring is a powerful personal and career development tool that can enable the mentee to **achieve or exceed their life's goals and aspirations**.  
-> *According to a lot of definition a mentor is **'a trusted counselor or guide'***. 
+> *According to a lot of definition a mentor is **'a trusted counselor or guide'***.
 
-### What does a mentor do? 
+### What does a mentor do?
 Well it will always depend upon the mentee's needs a mentor:
 * Shares knowledge and life experiences
 * Provides guidance and advice
@@ -59,7 +60,7 @@ Mentoring has plenty of benefits :
     * Discuss/let him introspect him/herself
     * Ask feedbacks about how to improve the session
 
-![Mentoring](images/mentoring1.png)
+![Mentoring](assets/images/mentoring1.png)
 
 ## The M.E.N.T.O.R model
 If you want to succeed in a mentoring relationship we recommend to follow the principles explained in the M.E.N.T.O.R model (explained in the book *"One minute mentoring"* by Ken Blanchard and Claire Diaz-Ortiz)
@@ -71,7 +72,7 @@ If you want to succeed in a mentoring relationship we recommend to follow the pr
 | **N**etworking | Expand your network with that of your mentor or mentee. | Cultivating productive relationships is a major key to success | • Networking is a **two-way street**<br/>- Your mentor can broaden your connections<br/>• Tread carefully on the network of your mentoring partner<br/>• Mentoring is also 1 to many connections (Social media for example) |
 | **T**rust | Build and maintain trust by : <br/>• Telling the truth<br/>• Staying connected | **Building trust takes time -> can be destroyed in an instant** | • Trust should deepen <br/>• Honesty and clear communication with your mentoring partner can deepen trust and take your relationship to the next level |
 | **O**pportunity | **Create opportunity for your mentoree or mentor to grow** | As partners you have access to personal and business opportunities | • Mentoring partnership is a two way street (Both have opportunities to bring)<br/>• Mentoring between generations (cross generational mentoring)<br/>-A powerful way to create opportunities by exchanging |
-| **R**eview and Renewal | **Schedule a regular time to**<br/>• Review progress<br/>• Renew your mentoring partnership | You'll never get where you want if you don't create a mission statement and you'll never know you've arrived if you don't do regular reviews. | • Scheduling a regular review keeps both mentor and mentee on track <br/>• Ensure that reviews take place by putting them into your calendar<br/>• If your review reveals that the mission has not been accomplished -> discuss new strategies to achieve the goal | 
+| **R**eview and Renewal | **Schedule a regular time to**<br/>• Review progress<br/>• Renew your mentoring partnership | You'll never get where you want if you don't create a mission statement and you'll never know you've arrived if you don't do regular reviews. | • Scheduling a regular review keeps both mentor and mentee on track <br/>• Ensure that reviews take place by putting them into your calendar<br/>• If your review reveals that the mission has not been accomplished -> discuss new strategies to achieve the goal |
 
 ## Resources
 * [Good mentor qualities](http://lrsuccess.com/qualities-good-mentor/)

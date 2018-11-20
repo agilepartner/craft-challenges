@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: BDD
+image: assets/images/dev/bdd.png
+category: dev
 ---
 
-# BDD
-![Write BDD scenarios](images/bdd.png) 
 
 
 ## What ?
@@ -12,7 +13,7 @@ BDD augments TDD and ATDD with the following tactics:
 * Implement only those behaviors which contribute most directly to these business outcomes, so as **to minimize waste**
 * **Describe behaviors in a single notation** which is directly **accessible to domain experts, testers and developers, so as to improve communication** (mostly Gherkin syntax)
 
-![Scenarios](images/write-3-BDD-scenarios1.png) 
+![Scenarios](assets/images/write-3-BDD-scenarios1.png)
 
 ## Why ?
 The whole idea behind the approach is to use examples to define requirements and business-oriented functional tests.  
@@ -24,7 +25,7 @@ This living documentation of the system is understandable by everyone (from deve
 
 > Examples are easier to understand and harder to misinterpret.
 
-![Wrong spec](images/write-3-BDD-scenarios2.jpg) 
+![Wrong spec](assets/images/write-3-BDD-scenarios2.jpg)
 
 ## How ?
 * Go to your computer

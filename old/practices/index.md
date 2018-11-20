@@ -1,14 +1,6 @@
-# Practices  
-[![Organize a mob programming session with your Product Owner](images/mob.png)](mob)
-[![Draw an architecture diagram on an A4 paper sheet](images/architecture.png)](architecture)
-[![Pair program during 30' at least](images/pair-programming.png)](pair-programming)
-[![Mentor someone else](images/mentoring.png)](mentoring)
-[![Implement a kudo wall](images/kudo-wall.png)](kudo-wall)
-[![Share with your users or clients](images/share.png)](share)
-[![Continuous build](images/continuous-build.png)](continuous-build)
-[![Tech retrospective](images/tech-retro.png)](tech-retro)
-[![Pull requests](images/source-control.png)](source-control)
-[![Organize a lean coffee](images/lean-coffee.png)](lean-coffee)
-[![Create my team's skills matrix](images/skills-matrix.png)](skills-matrix)
-[![Organize an exploratory testing session](images/exploratory-testing.png)](exploratory-testing)
-[![Organize an internal Hackathon](images/hackathon.png)](hackathon)
+---
+layout: cards-practices
+title: Practices
+---
+
+{{ content }}

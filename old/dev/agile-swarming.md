@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Agile swarming
+image: assets/images/dev/agile-swarming.png
+category: dev
 ---
 
-# Agile swarming
-![Agile swarming](images/agile-swarming.png)  
 
 ## What ?
 Every team member works on the same user story/product backlog item/feature at the same time.
@@ -33,7 +34,7 @@ Basically in group :
 * Create skeleton of the implementation
 * Put TODOs in the code
 
-![Agile swarming](images/swarming1.jpg)  
+![Agile swarming](assets/images/swarming1.jpg)  
 
 ## Resources
 * [Seven strategies for team swarming](http://tobeagile.com/2012/12/11/seven-strategies-for-team-swarming/)
