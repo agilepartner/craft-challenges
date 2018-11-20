@@ -44,4 +44,4 @@ Basically, it will help you to **provide high quality software**. Exactly what a
 * [Agile tests pyramid](https://martinfowler.com/bliki/TestPyramid.html)
 * [Agile testing quadrants](http://www.cigniti.com/blog/agile-test-automation-and-agile-quadrants/)
 
-![Exploratory testing](images/exploratory-testing2.jpg)
+![Exploratory testing]({{ site.baseurl }}/assets/images/exploratory-testing2.jpg)
