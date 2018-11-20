@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Root-Me
-image: /assets/images/dev/root-me.png
+image: assets/images/dev/root-me.png
 category: dev
 ---
 
@@ -22,4 +22,4 @@ Hacking exist since the early days of computers. Its more and more important tod
 * Challenges are sorted by their level of difficulty; start with the first one to discover the category and then experiment the others
 * For each challenge the goal is to find the key and score points
 
-![root-me-logo](/assets/images/root-me.jpg)
+![root-me-logo](assets/images/root-me.jpg)

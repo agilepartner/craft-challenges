@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Meeting
-image: /assets/images/challenges/meeting.png
+image: assets/images/challenges/meeting.png
 category: challenges
 ---
 
@@ -25,4 +25,4 @@ It is part of our sofwtare craftsman activity to challenge things **even if it i
 ## Resources
 * [7p's framework for efficient meetings](http://gamestorming.com/7ps-framework/)  
 
-![Ask a question](/assets/images/meeting-question1.jpg)    
+![Ask a question](assets/images/meeting-question1.jpg)    

@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Clean code
-image: /assets/images/dev/clean-code.png
+image: assets/images/dev/clean-code.png
 category: dev
 ---
 
@@ -52,7 +52,7 @@ Because clean code is our purpose as software craftsmen.
 
 > “Clean code is code that has been taken care of. Someone has taken the time to keep it simple and orderly. They have paid appropriate attention to details. They have cared.” - *Robert C. Martin*
 
-![I see dead code](/assets/images/clean-code1.jpg)
+![I see dead code](assets/images/clean-code1.jpg)
 
 ## How ?
 * Identify a "code smell"
@@ -64,7 +64,7 @@ Because clean code is our purpose as software craftsmen.
     * If none write some
     * Then refactor
 
-![Code quality](/assets/images/clean-code2.png)
+![Code quality](assets/images/clean-code2.png)
 
 ## Resources
 * [How to write clean code ?](https://www.butterfly.com.au/blog/website-development/clean-high-quality-code-a-guide-on-how-to-become-a-better-programmer)

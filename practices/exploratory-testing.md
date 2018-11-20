@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Exploratory testing
-image: /assets/images/practices/exploratory-testing.png
+image: assets/images/practices/exploratory-testing.png
 category: practices
 ---
 
@@ -11,7 +11,7 @@ Exploratory testing is an approach to software testing that is concisely describ
 Exploratory testing seeks to find out **how the software actually works**, and to ask questions about how it will **handle difficult and easy cases**.  
 The quality of the testing is dependent on the tester's skill of inventing test cases and finding defects. The more the tester knows about the product and different test methods, the better the testing will be.
 
-![Exploratory testing](/assets/images/exploratory-testing1.jpg)
+![Exploratory testing](assets/images/exploratory-testing1.jpg)
 
 ## Why ?
 > Because it **leverages human intelligence**, Exploratory Testing gives you a broader and deeper view than any automated test could.

@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Legacy code
-image: /assets/images/dev/legacy-code.png
+image: assets/images/dev/legacy-code.png
 category: dev
 ---
 
@@ -25,7 +25,7 @@ Working with this kind of code is a good way to learn and improve.
 
 What we need to do is to get legacy code under control otherwise our technical debts will increase. The only way to "save" this kind of code is by refactoring it.
 
-![Identify & refactor legacy code](/assets/images/legacy-code2.jpg)
+![Identify & refactor legacy code](assets/images/legacy-code2.jpg)
 
 ### What is refactoring ?
 Code refactoring is the process of restructuring existing computer code — **changing the factoring — without changing its external behavior**.
@@ -36,7 +36,7 @@ Code refactoring is the process of restructuring existing computer code — **ch
 * Make an agreement with your team on how to refactor it
 * Refactor the code
 
-![Identify & refactor legacy code](/assets/images/legacy-code1.png)
+![Identify & refactor legacy code](assets/images/legacy-code1.png)
 
 ## Resources
 * [Legacy Code: What It Is and 5 Tips for Handling It](https://dzone.com/articles/legacy-code-what-it-is-and-5-tips-for-handling-it)

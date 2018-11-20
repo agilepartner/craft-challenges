@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Hello world
-image: /assets/images/dev/hello-world.png
+image: assets/images/dev/hello-world.png
 category: dev
 ---
 
@@ -25,4 +25,4 @@ Search on the internet for a platform you would like discover or choose from one
 
 Setup you dev environement and emulator and build your first app to validate this challenge.
 
-![android-dev](/assets/images/android_dev.png)
+![android-dev](assets/images/android_dev.png)

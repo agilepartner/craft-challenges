@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Agile topics
-image: /assets/images/culture/agile-topics.png
+image: assets/images/culture/agile-topics.png
 category: culture
 ---
 
@@ -31,7 +31,7 @@ Those cards can be used as :
     * Agile brown bags
 * 1:1 conversation starters
 
-![Agile topics](/assets/images/agile-topics1.png)
+![Agile topics](assets/images/agile-topics1.png)
 
 ## Resources
 * [Agile topic cards](http://blog.crisp.se/2015/10/08/jimmyjanlen/agile-topics-card-deck)

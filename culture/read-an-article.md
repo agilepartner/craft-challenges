@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Read an article
-image: /assets/images/culture/read-an-article.png
+image: assets/images/culture/read-an-article.png
 category: culture
 ---
 
@@ -32,4 +32,4 @@ Sharing your discoveries allow you to organize your technology watch and create 
 * [Techcrunch](https://techcrunch.com/)
 * [Techradar](http://www.techradar.com/)
 
-![Read article](/assets/images/read-1-article1.jpg)
+![Read article](assets/images/read-1-article1.jpg)

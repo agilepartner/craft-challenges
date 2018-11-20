@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Conference
-image: /assets/images/culture/conference.png
+image: assets/images/culture/conference.png
 category: culture
 ---
 
@@ -31,7 +31,7 @@ There are plenty of reasons why attending conferences is really important to exp
 
 Tip: You can find local communities with platforms such as [meetup.com](https://www.meetup.com).
 
-![Conference](/assets/images/conference1.jpg)  
+![Conference](assets/images/conference1.jpg)  
 
 ## Resources
 * [12 Reasons You Should Attend Conferences](https://www.takeflyte.com/reasons-to-attend-conferences)

@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Tech retro
-image: /assets/images/practices/tech-retro.png
+image: assets/images/practices/tech-retro.png
 category: practices
 ---
 
@@ -12,7 +12,7 @@ It is dedicated on the work process.
 
 In a technical retrospective, we are **focusing on the technical topics**.
 
-![Architecture retrospective](/assets/images/architecture-retrospective1.png)  
+![Architecture retrospective](assets/images/architecture-retrospective1.png)  
 
 ## Why ?
 By introspecting regularly on your architecture, you will continuously improve at the technical level.  

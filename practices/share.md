@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Share
-image: /assets/images/practices/share.png
+image: assets/images/practices/share.png
 category: practices
 ---
 
@@ -22,7 +22,7 @@ It you will create new knowledge as well.
 
 > In agile we strongly believe in *"Individuals and interactions over processes and tools"*.
 
-![Share](/assets/images/share2.jpg)
+![Share](assets/images/share2.jpg)
 
 ## How ?
 * Take some time to share/discuss with people involved in your current project (users, business experts, team colleague)
@@ -37,4 +37,4 @@ It you will create new knowledge as well.
 * [Team Knowledge Sharing as a Competitive Advantage](https://www.sesp.northwestern.edu/masters-learning-and-organizational-change/knowledge-lens/stories/2012/knowledge-sharing-leveraging-trust-and-leadership-to-increase-team-performance.html)
 * [Ways of Sharing Knowledge On Agile Teams](https://www.frontrowagile.com/blog/posts/86-ways-of-sharing-knowledge-on-agile-teams)
 
-![Share](/assets/images/share1.jpg)
+![Share](assets/images/share1.jpg)

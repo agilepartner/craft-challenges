@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Unusual clothes
-image: /assets/images/challenges/unusual-clothes.png
+image: assets/images/challenges/unusual-clothes.png
 category: challenges
 ---
 
@@ -22,4 +22,4 @@ That's why i'ts really important to have fun in your daily work.
 During 1 day:
 * Wear unusual / weird clothes
 
-![Unusual clothes](/assets/images/unusual-clothes1.jpg)
+![Unusual clothes](assets/images/unusual-clothes1.jpg)

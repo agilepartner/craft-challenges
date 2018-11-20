@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Fizzbuzz
-image: /assets/images/dev/fizzbuzz.png
+image: assets/images/dev/fizzbuzz.png
 category: dev
 ---
 
@@ -12,7 +12,7 @@ Players take turns to count incrementally, replacing any number divisible by thr
 
 Fizz buzz (often spelled "FizzBuzz") has been used as an interview screening device for computer programmers.  Writing a program to output the first 100 FizzBuzz numbers is a trivial problem for any would-be computer programmer, so interviewers can easily sort out those with insufficient programming ability.
 
-![Fizzbuzz](/assets/images/fizz-buzz2.png)  
+![Fizzbuzz](assets/images/fizz-buzz2.png)  
 
 ## Why ?
 Starting by resolving a simple problem is a good way to start learning a new programming language.
@@ -27,4 +27,4 @@ It's always a good thing to learn new things ;-)
 * [Fizzbuzz rules](https://en.wikipedia.org/wiki/Fizz_buzz)
 * [Fizzbuzz on github](https://github.com/search?utf8=%E2%9C%93&q=fizzbuzz&type=)
 
-![Fizzbuzz](/assets/images/fizz-buzz1.jpg)  
+![Fizzbuzz](assets/images/fizz-buzz1.jpg)  

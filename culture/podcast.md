@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Podcast
-image: /assets/images/culture/podcast.png
+image: assets/images/culture/podcast.png
 category: culture
 ---
 
@@ -29,4 +29,4 @@ Podcast is a good way to learn new stuff during boring activities such as drivin
 * [TED talks](https://www.ted.com/about/programs-initiatives/ted-talks/ted-talks-audio)
 * [Agile uprising](http://podcast.agileuprising.com/)
 
-![Craft podcasts](/assets/images/craft-podcast1.jpg)  
+![Craft podcasts](assets/images/craft-podcast1.jpg)  

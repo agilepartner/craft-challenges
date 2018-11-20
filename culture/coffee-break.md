@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Coffee break
-image: /assets/images/culture/coffee-break.png
+image: assets/images/culture/coffee-break.png
 category: culture
 ---
 
@@ -21,4 +21,4 @@ By connecting to other people you are not interacting with in your daily work, y
 * Offer him to take a coffee together
 * Connect with him
 
-![Coffee break](/assets/images/coffee-break1.jpg)  
+![Coffee break](assets/images/coffee-break1.jpg)  

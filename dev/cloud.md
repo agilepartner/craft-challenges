@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Cloud
-image: /assets/images/dev/cloud.png
+image: assets/images/dev/cloud.png
 category: dev
 ---
 
@@ -31,7 +31,7 @@ PaaS is designed to make it easier for developers to quickly create web or mobil
 Software-as-a-service (SaaS) is a method for **delivering software applications over the Internet**, on demand and typically on a subscription basis.  
 With SaaS, cloud providers host and manage the software application and underlying infrastructure and handle any maintenance, like software upgrades and security patching. Users connect to the application over the Internet, usually with a web browser on their phone, tablet or PC.
 
-![Cloud](/assets/images/cloud2.jpg)
+![Cloud](assets/images/cloud2.jpg)
 
 ## Why ?
 Cloud computing has a major impact in our industry. It has been a big shift from the traditional way businesses think about IT resources.
@@ -61,4 +61,4 @@ It has a lot of benefits :
 * [Azure](https://docs.microsoft.com/en-us/azure/index)
 * [Google cloud](https://cloud.google.com/docs/)
 
-![Cloud](/assets/images/cloud1.png)
+![Cloud](assets/images/cloud1.png)

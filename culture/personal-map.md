@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Personal map
-image: /assets/images/culture/personal.png
+image: assets/images/culture/personal.png
 category: culture
 ---
 
@@ -37,7 +37,7 @@ In your team, explain the exercise as follows:
 
 Keep in mind that these personal maps are **not a one-time exercise**, these evolve as life continues!
 
-![Personal map](/assets/images/personal-map1.jpg)
+![Personal map](assets/images/personal-map1.jpg)
 
 ## Resources
 * [Management 3.0 Practice: Personal Maps Build Closeness in Modern Teams](https://www.youtube.com/watch?v=T9d8w-OG-Fk)

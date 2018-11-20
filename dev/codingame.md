@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Coding game
-image: /assets/images/dev/codingame.png
+image: assets/images/dev/codingame.png
 category: dev
 ---
 
@@ -20,7 +20,7 @@ Practicing is at the heart of the software craftsman mindset that is why resolvi
 * Start a challenge
 * Win it of course ;-)
 
-![Coding game](/assets/images/codingame1.png)
+![Coding game](assets/images/codingame1.png)
 
 ## Resources
 * [codingame.com](https://www.codingame.com)

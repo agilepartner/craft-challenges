@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Retrospective
-image: /assets/images/challenges/retrospective.png
+image: assets/images/challenges/retrospective.png
 category: challenges
 ---
 
@@ -34,7 +34,7 @@ During the retrospective, **the team reflects on what happened in the iteration 
 
 > To prepare a retrospective you can use [plans-for-retrospective](https://plans-for-retrospectives.com/en/).
 
-![Facilitate retrospective](/assets/images/retrospective2.jpg)  
+![Facilitate retrospective](assets/images/retrospective2.jpg)  
 
 ## Resources
 * [Plans for retrospectives](https://plans-for-retrospectives.com/)

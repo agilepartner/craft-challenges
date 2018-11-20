@@ -3,217 +3,217 @@
     {
       "challenges": [
         {
-          "image": "/assets/images/challenges/code-retreat.png",
+          "image": "assets/images/challenges/code-retreat.png",
           "link": "code-retreat"
         },
         {
-          "image": "/assets/images/challenges/create-a-new-card.png",
+          "image": "assets/images/challenges/create-a-new-card.png",
           "link": "create-a-new-card"
         },
         {
-          "image": "/assets/images/challenges/foreign-language.png",
+          "image": "assets/images/challenges/foreign-language.png",
           "link": "foreign-language"
         },
         {
-          "image": "/assets/images/challenges/job-interview.png",
+          "image": "assets/images/challenges/job-interview.png",
           "link": "job-interview"
         },
         {
-          "image": "/assets/images/challenges/meeting.png",
+          "image": "assets/images/challenges/meeting.png",
           "link": "meeting"
         },
         {
-          "image": "/assets/images/challenges/peer-review.png",
+          "image": "assets/images/challenges/peer-review.png",
           "link": "peer-review"
         },
         {
-          "image": "/assets/images/challenges/product-review.png",
+          "image": "assets/images/challenges/product-review.png",
           "link": "product-review"
         },
         {
-          "image": "/assets/images/challenges/retrospective.png",
+          "image": "assets/images/challenges/retrospective.png",
           "link": "retrospective"
         },
         {
-          "image": "/assets/images/challenges/tdd.png",
+          "image": "assets/images/challenges/tdd.png",
           "link": "tdd"
         },
         {
-          "image": "/assets/images/challenges/team-photo.png",
+          "image": "assets/images/challenges/team-photo.png",
           "link": "team-photo"
         },
         {
-          "image": "/assets/images/challenges/tech-radar.png",
+          "image": "assets/images/challenges/tech-radar.png",
           "link": "tech-radar"
         },
         {
-          "image": "/assets/images/challenges/unusual-clothes.png",
+          "image": "assets/images/challenges/unusual-clothes.png",
           "link": "unusual-clothes"
         },
         {
-          "image": "/assets/images/challenges/Write-an-article.png",
+          "image": "assets/images/challenges/Write-an-article.png",
           "link": "write-an-article"
         }
       ],
       "dev": [
         {
-          "image": "/assets/images/dev/agile-swarming.png",
+          "image": "assets/images/dev/agile-swarming.png",
           "link": "agile-swarming"
         },
         {
-          "image": "/assets/images/dev/automate.png",
+          "image": "assets/images/dev/automate.png",
           "link": "automate"
         },
         {
-          "image": "/assets/images/dev/bdd.png",
+          "image": "assets/images/dev/bdd.png",
           "link": "bdd"
         },
         {
-          "image": "/assets/images/dev/clean-code.png",
+          "image": "assets/images/dev/clean-code.png",
           "link": "clean-code"
         },
         {
-          "image": "/assets/images/dev/cloud.png",
+          "image": "assets/images/dev/cloud.png",
           "link": "cloud"
         },
         {
-          "image": "/assets/images/dev/code-kata.png",
+          "image": "assets/images/dev/code-kata.png",
           "link": "code-kata"
         },
         {
-          "image": "/assets/images/dev/codingame.png",
+          "image": "assets/images/dev/codingame.png",
           "link": "codingame"
         },
         {
-          "image": "/assets/images/dev/fizzbuzz.png",
+          "image": "assets/images/dev/fizzbuzz.png",
           "link": "fizzbuzz"
         },
         {
-          "image": "/assets/images/dev/hello-world.png",
+          "image": "assets/images/dev/hello-world.png",
           "link": "hello-world"
         },
         {
-          "image": "/assets/images/dev/konami-code.png",
+          "image": "assets/images/dev/konami-code.png",
           "link": "konami-code"
         },
         {
-          "image": "/assets/images/dev/legacy-code.png",
+          "image": "assets/images/dev/legacy-code.png",
           "link": "legacy-code"
         },
         {
-          "image": "/assets/images/dev/root-me.png",
+          "image": "assets/images/dev/root-me.png",
           "link": "root-me"
         },
         {
-          "image": "/assets/images/dev/unit-tests.png",
+          "image": "assets/images/dev/unit-tests.png",
           "link": "unit-tests"
         }
       ],
       "culture": [
         {
-          "image": "/assets/images/culture/coffee-break.png",
+          "image": "assets/images/culture/coffee-break.png",
           "link": "coffee-break"
         },
         {
-          "image": "/assets/images/culture/read-an-article.png",
+          "image": "assets/images/culture/read-an-article.png",
           "link": "read-an-article"
         },
         {
-          "image": "/assets/images/culture/ice-breaker.png",
+          "image": "assets/images/culture/ice-breaker.png",
           "link": "ice-breaker"
         },
         {
-          "image": "/assets/images/culture/conference.png",
+          "image": "assets/images/culture/conference.png",
           "link": "conference"
         },
         {
-          "image": "/assets/images/culture/video.png",
+          "image": "assets/images/culture/video.png",
           "link": "video"
         },
         {
-          "image": "/assets/images/culture/book-club.png",
+          "image": "assets/images/culture/book-club.png",
           "link": "book-club"
         },
         {
-          "image": "/assets/images/culture/brown-bag.png",
+          "image": "assets/images/culture/brown-bag.png",
           "link": "brown-bag"
         },
         {
-          "image": "/assets/images/culture/podcast.png",
+          "image": "assets/images/culture/podcast.png",
           "link": "podcast"
         },
         {
-          "image": "/assets/images/culture/serious-game.png",
+          "image": "assets/images/culture/serious-game.png",
           "link": "serious-game"
         },
         {
-          "image": "/assets/images/culture/sketchnote.png",
+          "image": "assets/images/culture/sketchnote.png",
           "link": "sketchnote"
         },
         {
-          "image": "/assets/images/culture/positive-feedback.png",
+          "image": "assets/images/culture/positive-feedback.png",
           "link": "positive-feedback"
         },
         {
-          "image": "/assets/images/culture/agile-topics.png",
+          "image": "assets/images/culture/agile-topics.png",
           "link": "agile-topics"
         },
         {
-          "image": "/assets/images/culture/personal.png",
+          "image": "assets/images/culture/personal.png",
           "link": "personal-map"
         }
       ],
       "practices": [
         {
-          "image": "/assets/images/practices/mob.png",
+          "image": "assets/images/practices/mob.png",
           "link": "mob"
         },
         {
-          "image": "/assets/images/practices/architecture.png",
+          "image": "assets/images/practices/architecture.png",
           "link": "architecture"
         },
         {
-          "image": "/assets/images/practices/pair-programming.png",
+          "image": "assets/images/practices/pair-programming.png",
           "link": "pair-programming"
         },
         {
-          "image": "/assets/images/practices/mentoring.png",
+          "image": "assets/images/practices/mentoring.png",
           "link": "mentoring"
         },
         {
-          "image": "/assets/images/practices/kudo-wall.png",
+          "image": "assets/images/practices/kudo-wall.png",
           "link": "kudo-wall"
         },
         {
-          "image": "/assets/images/practices/share.png",
+          "image": "assets/images/practices/share.png",
           "link": "share"
         },
         {
-          "image": "/assets/images/practices/continuous-build.png",
+          "image": "assets/images/practices/continuous-build.png",
           "link": "continuous-build"
         },
         {
-          "image": "/assets/images/practices/tech-retro.png",
+          "image": "assets/images/practices/tech-retro.png",
           "link": "tech-retro"
         },
         {
-          "image": "/assets/images/practices/source-control.png",
+          "image": "assets/images/practices/source-control.png",
           "link": "source-control"
         },
         {
-          "image": "/assets/images/practices/lean-coffee.png",
+          "image": "assets/images/practices/lean-coffee.png",
           "link": "lean-coffee"
         },
         {
-          "image": "/assets/images/practices/skills-matrix.png",
+          "image": "assets/images/practices/skills-matrix.png",
           "link": "skills-matrix"
         },
         {
-          "image": "/assets/images/practices/exploratory-testing.png",
+          "image": "assets/images/practices/exploratory-testing.png",
           "link": "exploratory-testing"
         },
         {
-          "image": "/assets/images/practices/hackathon.png",
+          "image": "assets/images/practices/hackathon.png",
           "link": "hackathon"
         }
       ]

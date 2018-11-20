@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Sketchnote
-image: /assets/images/culture/sketchnote.png
+image: assets/images/culture/sketchnote.png
 category: culture
 ---
 
@@ -9,7 +9,7 @@ category: culture
 ## What ?
 Visual notetaking is a creative way to take notes using pictures, typography, lines, shapes, and doodles, with marker-and-paper or stylus-and-tablet.
 
-![Sketchnote during meeting](/assets/images/sketchnote-meeting1.jpg)
+![Sketchnote during meeting](assets/images/sketchnote-meeting1.jpg)
 
 ## Why ?
 The value of sketchnoting is supported by several theories, such as the dual coding theory and the picture superiority effect.  
@@ -35,4 +35,4 @@ Sketchnoting combines traditional handwritten notes with drawings, symbols, and 
 * [Taking Visual Notes with Sketchnotes (video)](https://www.youtube.com/watch?v=V3FtB9F7rv0)
 
 
-![Sketchnote during meeting](/assets/images/sketchnote-meeting2.jpg)
+![Sketchnote during meeting](assets/images/sketchnote-meeting2.jpg)

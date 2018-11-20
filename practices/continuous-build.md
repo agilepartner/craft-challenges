@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Continuous build
-image: /assets/images/practices/continuous-build.png
+image: assets/images/practices/continuous-build.png
 category: practices
 ---
 
@@ -29,7 +29,7 @@ Continuous Integration brings multiple benefits :
 * Stop waiting to find out if your code’s going to work
 * Reduce integration problems allowing you to deliver software more rapidly
 
-![Continuous build](/assets/images/continuous-build1.png)  
+![Continuous build](assets/images/continuous-build1.png)  
 
 ## How ?
 In order to understand what is built by other teams in your company, **fix the next broken continuous build** of another team.  
@@ -40,7 +40,7 @@ Continuous build could have been broken by :
 If no CI configured :
 * Configure it with Jenkins, VSTS or whatever (you can find plenty of tools)
 
-![Continuous build](/assets/images/continuous-build2.jpg)  
+![Continuous build](assets/images/continuous-build2.jpg)  
 
 ## Resources
 * [Continuous integration by Thoughtworks](https://www.thoughtworks.com/continuous-integration)

@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Write an article
-image: /assets/images/challenges/Write-an-article.png
+image: assets/images/challenges/Write-an-article.png
 category: challenges
 ---
 
@@ -23,4 +23,4 @@ Usually, you have 8 steps to follow in order to write an intense article :
 * Revise your article.
 * Publish it on a blog/twitter/IT website or your internal network.
 
-![Write article](/assets/images/write-article1.jpg)  
+![Write article](assets/images/write-article1.jpg)  

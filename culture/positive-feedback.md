@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Positive feedback
-image: /assets/images/culture/positive-feedback.png
+image: assets/images/culture/positive-feedback.png
 category: culture
 ---
 
@@ -32,11 +32,11 @@ Both giver and receiver benefit by getting specific with feedback.
 * Try to **link** the positive behavior to the **results**.
 * Positive feedback can be **delivered in public**
 
-![Positive feedback](/assets/images/positive-feedback2.png)
+![Positive feedback](assets/images/positive-feedback2.png)
 
 ## Resources
 * [25 Tips to Give Positive & Productive Feedback at Work](https://www.educba.com/how-to-give-positive-feedback-at-work/)
 * [How to Deliver Effective Positive Feedback in the Workplace](https://www.thebalancecareers.com/giving-positive-feedback-2275335)
 * [How To Give Positive Feedback To Your Manager And Co-Workers](https://blog.impraise.com/360-feedback/how-to-give-positive-feedback-to-your-manager-and-co-workers-performance-review)
 
-![Positive feedback](/assets/images/positive-feedback1.png)
+![Positive feedback](assets/images/positive-feedback1.png)

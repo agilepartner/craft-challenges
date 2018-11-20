@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Create a new card
-image: /assets/images/challenges/create-a-new-card.png
+image: assets/images/challenges/create-a-new-card.png
 category: challenges
 ---
 
@@ -21,4 +21,4 @@ Share and communicate about your topics of interest inside your company is reall
 - Share your card (inside your company, on twitter, ...)
 
 ## Resources
-* [Download card templates](/assets/pdf/card-templates.pdf)
+* [Download card templates](assets/pdf/card-templates.pdf)

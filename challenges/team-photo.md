@@ -1,14 +1,14 @@
 ---
 layout: single-card
 title: Team photo
-image: /assets/images/challenges/team-photo.png
+image: assets/images/challenges/team-photo.png
 category: challenges
 ---
 
 ## What ?
 Take a photo with your team mates.
 
-![Team photo](/assets/images/team-photo1.jpg)
+![Team photo](assets/images/team-photo1.jpg)
 
 ## Why ?
 Nothing is more rewarding than sharing the adventure of building something that truly matters with engaged teammates.

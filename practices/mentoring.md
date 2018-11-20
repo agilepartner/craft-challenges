@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Mentoring
-image: /assets/images/practices/mentoring.png
+image: assets/images/practices/mentoring.png
 category: practices
 ---
 
@@ -60,7 +60,7 @@ Mentoring has plenty of benefits :
     * Discuss/let him introspect him/herself
     * Ask feedbacks about how to improve the session
 
-![Mentoring](/assets/images/mentoring1.png)
+![Mentoring](assets/images/mentoring1.png)
 
 ## The M.E.N.T.O.R model
 If you want to succeed in a mentoring relationship we recommend to follow the principles explained in the M.E.N.T.O.R model (explained in the book *"One minute mentoring"* by Ken Blanchard and Claire Diaz-Ortiz)

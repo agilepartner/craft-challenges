@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Skills matrix
-image: /assets/images/practices/skills-matrix.png
+image: assets/images/practices/skills-matrix.png
 category: practices
 ---
 
@@ -21,7 +21,7 @@ Once you have answers to those questions you can :
 * Identify what are the missing skills that are needed to reach the goal of the team
 * Measure the skills improvement of the team
 
-![Skills matrix](/assets/images/skills-matrix1.jpg)
+![Skills matrix](assets/images/skills-matrix1.jpg)
 
 ## How ?
 * Schedule a skills matrix meeting
@@ -37,4 +37,4 @@ Once you have answers to those questions you can :
 * [Facilitator's guide](https://medium.com/practicalscrum/market-of-skills-634a6ebf3363)
 * [Team Lift Off with Market of Skills and Competence Matrix](https://blog.crisp.se/2012/11/06/anderslaestadius/team-liftoff-with-market-of-skills-and-competence-matrix)
 
-![Skills matrix](/assets/images/skills-matrix2.jpg)
+![Skills matrix](assets/images/skills-matrix2.jpg)

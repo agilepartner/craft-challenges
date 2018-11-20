@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Book club
-image: /assets/images/culture/book-club.png
+image: assets/images/culture/book-club.png
 category: culture
 ---
 
@@ -33,7 +33,7 @@ Because you will **learn a lot and it is not the only benefit** :
     * Vote for the more interesting one
 * Share about the book during the next session
 
-![Book club](/assets/images/book-club-2.jpg)
+![Book club](assets/images/book-club-2.jpg)
 
 ## Resources
 * [How to Start a Book Club Checklist](https://www.realsimple.com/work-life/start-book-club-checklist)

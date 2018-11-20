@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Code retrat
-image: /assets/images/challenges/code-retreat.png
+image: assets/images/challenges/code-retreat.png
 category: challenges
 ---
 
@@ -25,7 +25,7 @@ Doing a code retreat is a very good way to stay focused and improve our performa
 
 > Turning off notifications enables focus on what you prioritize.
 
-![Human cognitive resources](/assets/images/code-retreat1.jpg)  
+![Human cognitive resources](assets/images/code-retreat1.jpg)  
 
 ## Resources (to stay focus)
 * [Pomodoro technique](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730){:target="_blank"}

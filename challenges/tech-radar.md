@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Tech radar
-image: /assets/images/challenges/tech-radar.png
+image: assets/images/challenges/tech-radar.png
 category: challenges
 ---
 
@@ -35,7 +35,7 @@ You can use it for many purposes :
 
 The ones they are `using at the moment and the ones they would like to use in the future`.
 
-![List tech](/assets/images/tech-radar1.png)  
+![List tech](assets/images/tech-radar1.png)  
 
 * Sort them :
   * Adopt
@@ -43,7 +43,7 @@ The ones they are `using at the moment and the ones they would like to use in th
   * Assess
   * Hold
 
-![Sort tech](/assets/images/tech-radar2.png)  
+![Sort tech](assets/images/tech-radar2.png)  
 
 * Create your tech radar online by following those instructions
   * [Build your own tech radar](https://www.thoughtworks.com/radar/how-to-byor)

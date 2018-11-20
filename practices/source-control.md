@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Source control
-image: /assets/images/practices/source-control.png
+image: assets/images/practices/source-control.png
 category: practices
 ---
 
@@ -19,7 +19,7 @@ Version control systems allow you to :
 
 It is a must have in order to be able to work on the same code base with several people.
 
-![Source control](/assets/images/source-control1.jpg)  
+![Source control](assets/images/source-control1.jpg)  
 
 ## How ?
 
@@ -35,7 +35,7 @@ Once a pull request is opened, you can **discuss and review the potential change
 Create a pull request to propose and collaborate on changes to a repository.  
 These changes are proposed in a branch, which ensures that the master branch only contains finished and approved work.
 
-![Source control](/assets/images/source-control2.jpg)  
+![Source control](assets/images/source-control2.jpg)  
 
 ### If you can not :
 * Read the documentation of your current SCM

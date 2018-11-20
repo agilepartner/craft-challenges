@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Serious game
-image: /assets/images/culture/serious-game.png
+image: assets/images/culture/serious-game.png
 category: culture
 ---
 
@@ -70,4 +70,4 @@ You can find all the informations about this cube [here](http://www.kilearning.n
 * [Lego craft games](http://www.gargoylesoftware.com/ex)
 
 
-![Serious game](/assets/images/serious-game1.jpg)
+![Serious game](assets/images/serious-game1.jpg)

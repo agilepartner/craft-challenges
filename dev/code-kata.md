@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Code kata
-image: /assets/images/dev/code-kata.png
+image: assets/images/dev/code-kata.png
 category: dev
 ---
 
@@ -25,7 +25,7 @@ A presenter shows how to solve the challenge from scratch (TDD, Baby steps).
 * Each step must make sense to everyone
 * People interrupt if they don’t understand  
 
-![Code kata](/assets/images/code-kata2.jpg)  
+![Code kata](assets/images/code-kata2.jpg)  
 
 ## Why ?
 Practicing is at the heart of the software craftsman mindset that is why doing katas with your peers is so important.  
@@ -48,4 +48,4 @@ In a coding dojo you can organize what is called **coding katas**.
 * [How to start a coding dojo ?](
 http://johannesbrodwall.com/2011/12/18/how-to-start-a-coding-dojo/)
 
-![Code kata](/assets/images/code-kata1.jpg)  
+![Code kata](assets/images/code-kata1.jpg)  

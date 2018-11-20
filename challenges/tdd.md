@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: TDD
-image: /assets/images/challenges/tdd.png
+image: assets/images/challenges/tdd.png
 category: challenges
 ---
 
@@ -25,7 +25,7 @@ By practicing T.D.D it will :
 * Write your tests and your implementation through T.D.D
 * Share with your teammates about your experimentation
 
-![TDD](/assets/images/tdd1.png)  
+![TDD](assets/images/tdd1.png)  
 
 ### TDD cycle  
 1) Add a test  
@@ -35,7 +35,7 @@ By practicing T.D.D it will :
 5) Refactor code  
 6) Repeat
 
-![TDD](/assets/images/tdd2.jpg)  
+![TDD](assets/images/tdd2.jpg)  
 
 ## Resources
 * [TDD definition](https://www.agilealliance.org/glossary/tdd/)

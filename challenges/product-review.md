@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Product review
-image: /assets/images/challenges/product-review.png
+image: assets/images/challenges/product-review.png
 category: challenges
 ---
 
@@ -18,7 +18,7 @@ Those feedback can dramatically influence what will be worked on in subsequent w
 * Demonstrate the new functionalities that have been done
 * Gather people's feedback
 
-![Product review](/assets/images/product-review1.jpg)  
+![Product review](assets/images/product-review1.jpg)  
 
 ## Resources
 * [Sprint review : Much more than just a Demo](https://www.scrum.org/resources/blog/sprint-review-much-more-just-demo)

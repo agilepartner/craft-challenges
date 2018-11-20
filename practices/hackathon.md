@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Hackathon
-image: /assets/images/practices/hackathon.png
+image: assets/images/practices/hackathon.png
 category: practices
 ---
 
@@ -12,7 +12,7 @@ Hackathons provide a venue for **self-expression and creativity through technolo
 
 People with technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution from scratch — these generally take shape in the form of websites, mobile apps, and robots.
 
-![Hackhathon](/assets/images/hackathon1.jpg)
+![Hackhathon](assets/images/hackathon1.jpg)
 
 ## Why ?
 Hackathon is a really good tool to stimulate the creative and problem-solving juices of developers.  
@@ -33,7 +33,7 @@ Initiate the organization of an internal hackathon :
 * Schedule it
 * Make some noise about it (create the buzz)
 
-![Hackhathon](/assets/images/hackathon2.png)
+![Hackhathon](assets/images/hackathon2.png)
 
 ## Resources
 * [The design sprint](http://www.gv.com/sprint/) : How to solve big problems and test new ideas in just five days

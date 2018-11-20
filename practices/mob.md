@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Mob
-image: /assets/images/practices/mob.png
+image: assets/images/practices/mob.png
 category: practices
 ---
 
@@ -21,7 +21,7 @@ The Mob Programming approach relies on concepts such as face-to-face and side-by
 
 > "Resolve complex problems in whole team"
 
-![The mob](/assets/images/mob1.jpg)
+![The mob](assets/images/mob1.jpg)
 
 ## Why ?
 The collaborative nature of Mob Programming causes many problems that software development teams generally face to “fade away.”  
@@ -53,4 +53,4 @@ It solves :
 * [Mob programming role cards](https://github.com/willemlarsen/mobprogrammingrpg)
 * [Mob roles at Cucumber](https://cucumber.io/blog/2017/10/16/five-roles-in-a-healthy-mob)
 
-![The mob](/assets/images/mob2.png)
+![The mob](assets/images/mob2.png)

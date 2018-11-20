@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Automate
-image: /assets/images/dev/automate.png
+image: assets/images/dev/automate.png
 category: dev
 ---
 
@@ -23,7 +23,7 @@ To improve team's efficiency.
 * Automate it
 * **Eliminate the waste**
 
-![Automate a current manual task](/assets/images/automate-task1.jpg)  
+![Automate a current manual task](assets/images/automate-task1.jpg)  
 ## Resources
 * [7 wastes - Lean Software Development](https://dzone.com/articles/seven-wastes-software)
 * [7 principles of Lean Software Development](https://agilevelocity.com/lean/7-principles-of-lean-software-development/)

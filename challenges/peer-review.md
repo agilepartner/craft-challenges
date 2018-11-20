@@ -1,19 +1,19 @@
 ---
 layout: single-card
 title: Peer review
-image: /assets/images/challenges/peer-review.png
+image: assets/images/challenges/peer-review.png
 category: challenges
 ---
 
 
 ## What ?
 Review other team members code  
-![Wrong way to think](/assets/images/peer-review1.png)  
+![Wrong way to think](assets/images/peer-review1.png)  
 because this kind of things can happen...
 
 What we recommend is to add the peer review step into your process of delivery (inside your **Definition of Done** for example)
 
-![Good way to do it](/assets/images/peer-review2.png)
+![Good way to do it](assets/images/peer-review2.png)
 
 ## Why ?
 Practicing `code review` aims :
