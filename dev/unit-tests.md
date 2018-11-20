@@ -5,9 +5,6 @@ image: /craft-challenges/assets/images/dev/root-me.png
 category: dev
 ---
 
-# Unit tests
-![Write 5 unit tests]({{ site.baseurl }}/assets/images/unit-tests.png)  
-
 ## What ?
 UNIT TESTING is a level of software testing where **individual units/ components of a software are tested**.  
 The purpose is to validate that each unit of the software performs as designed.  
