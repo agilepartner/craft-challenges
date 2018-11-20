@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Conference
-image: /assets/images/culture/conference.png
+image: /craft-challenges/assets/culture/conference.png
 category: culture
 ---
 

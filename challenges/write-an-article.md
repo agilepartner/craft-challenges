@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Write an article
-image: /assets/images/challenges/Write-an-article.png
+image: /craft-challenges/assets/challenges/Write-an-article.png
 category: challenges
 ---
 

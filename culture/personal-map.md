@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Personal map
-image: /assets/images/culture/personal.png
+image: /craft-challenges/assets/culture/personal.png
 category: culture
 ---
 

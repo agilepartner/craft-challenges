@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Agile topics
-image: /assets/images/culture/agile-topics.png
+image: /craft-challenges/assets/culture/agile-topics.png
 category: culture
 ---
 

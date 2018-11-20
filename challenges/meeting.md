@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Meeting
-image: /assets/images/challenges/meeting.png
+image: /craft-challenges/assets/challenges/meeting.png
 category: challenges
 ---
 

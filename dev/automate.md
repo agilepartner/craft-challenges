@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Automate
-image: /assets/images/dev/automate.png
+image: /craft-challenges/assets/dev/automate.png
 category: dev
 ---
 

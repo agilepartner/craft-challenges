@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Mentoring
-image: /assets/images/practices/mentoring.png
+image: /craft-challenges/assets/practices/mentoring.png
 category: practices
 ---
 

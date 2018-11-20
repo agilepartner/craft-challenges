@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Coding game
-image: /assets/images/dev/codingame.png
+image: /craft-challenges/assets/dev/codingame.png
 category: dev
 ---
 

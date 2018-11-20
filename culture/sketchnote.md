@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Sketchnote
-image: /assets/images/culture/sketchnote.png
+image: /craft-challenges/assets/culture/sketchnote.png
 category: culture
 ---
 

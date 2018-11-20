@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Lean coffee
-image: /assets/images/practices/lean-coffee.png
+image: /craft-challenges/assets/practices/lean-coffee.png
 category: practices
 ---
 

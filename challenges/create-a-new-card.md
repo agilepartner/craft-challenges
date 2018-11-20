@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Create a new card
-image: /assets/images/challenges/create-a-new-card.png
+image: /craft-challenges/assets/challenges/create-a-new-card.png
 category: challenges
 ---
 

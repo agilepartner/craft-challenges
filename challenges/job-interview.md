@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Job interview
-image: /assets/images/challenges/job-interview.png
+image: /craft-challenges/assets/challenges/job-interview.png
 category: challenges
 ---
 

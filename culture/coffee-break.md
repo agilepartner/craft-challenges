@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Coffee break
-image: /assets/images/culture/coffee-break.png
+image: /craft-challenges/assets/culture/coffee-break.png
 category: culture
 ---
 

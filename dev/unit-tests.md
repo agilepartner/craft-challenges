@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Root-Me
-image: /assets/images/dev/root-me.png
+image: /craft-challenges/assets/dev/root-me.png
 category: dev
 ---
 

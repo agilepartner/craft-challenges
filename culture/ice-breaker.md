@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Ice breaker
-image: /assets/images/culture/ice-breaker.png
+image: /craft-challenges/assets/culture/ice-breaker.png
 category: culture
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Legacy code
-image: /assets/images/dev/legacy-code.png
+image: /craft-challenges/assets/dev/legacy-code.png
 category: dev
 ---
 

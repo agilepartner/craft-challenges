@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Mob
-image: /assets/images/practices/mob.png
+image: /craft-challenges/assets/practices/mob.png
 category: practices
 ---
 

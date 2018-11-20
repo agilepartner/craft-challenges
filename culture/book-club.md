@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Book club
-image: /assets/images/culture/book-club.png
+image: /craft-challenges/assets/culture/book-club.png
 category: culture
 ---
 

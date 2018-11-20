@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Clean code
-image: /assets/images/dev/clean-code.png
+image: /craft-challenges/assets/dev/clean-code.png
 category: dev
 ---
 

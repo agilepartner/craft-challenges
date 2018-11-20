@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Skills matrix
-image: /assets/images/practices/skills-matrix.png
+image: /craft-challenges/assets/practices/skills-matrix.png
 category: practices
 ---
 

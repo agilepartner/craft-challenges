@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Peer review
-image: /assets/images/challenges/peer-review.png
+image: /craft-challenges/assets/challenges/peer-review.png
 category: challenges
 ---
 

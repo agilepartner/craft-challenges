@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Brown bag
-image: /assets/images/culture/brown-bag.png
+image: /craft-challenges/assets/culture/brown-bag.png
 category: culture
 ---
 

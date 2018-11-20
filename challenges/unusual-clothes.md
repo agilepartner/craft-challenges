@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Unusual clothes
-image: /assets/images/challenges/unusual-clothes.png
+image: /craft-challenges/assets/challenges/unusual-clothes.png
 category: challenges
 ---
 

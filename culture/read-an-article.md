@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Read an article
-image: /assets/images/culture/read-an-article.png
+image: /craft-challenges/assets/culture/read-an-article.png
 category: culture
 ---
 

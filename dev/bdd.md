@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: BDD
-image: /assets/images/dev/bdd.png
+image: /craft-challenges/assets/dev/bdd.png
 category: dev
 ---
 
