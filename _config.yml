@@ -1,0 +1,8 @@
+sass:
+    sass_dir: _sass
+
+plugins:
+  - jekyll-target-blank
+
+
+google_analytics: UA-29550143-5
