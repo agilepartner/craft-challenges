@@ -1,0 +1,8 @@
+.konami { 
+    position:fixed; 
+    height: 300px; 
+    bottom:30px; 
+    background-position:0px -178px; 
+    z-index:1000;
+    display: none;
+}

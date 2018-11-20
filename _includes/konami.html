@@ -1,0 +1,27 @@
+<div>
+    <img id="konamiImage" class="konami" src="../assets/images/konami.gif"/>
+    <script>
+    function launchEgg() {
+        return new Promise(function (resolve, reject) {
+                var konamiImage = document.getElementById("konamiImage");
+                konamiImage.style.display = 'inherit';
+                var currentPosition = 0;
+                
+                var id = setInterval(() => {
+                    if (currentPosition == document.body.offsetWidth) {
+                        clearInterval(id);
+                        konamiImage.style.display = 'none';
+                        resolve();                     
+                    } else {
+                        currentPosition++; 
+                        konamiImage.style.left = currentPosition + 'px'; 
+                    }
+            }, 10);
+        }); 
+    }
+
+    var konami = new Konami(launchEgg);
+    konami.load();
+
+    </script>
+</div>
