@@ -37,7 +37,7 @@ This kind of event has at least 3 goals:
 * Make sure everyone takes something away
 * Always leave plenty of time for discussion / sharing
 
-![brown bag](images/brown-bag1.jpg)
+![brown bag]({{ site.baseurl }}/assets/images/brown-bag1.jpg)
 
 ## Resources
 * [Organize a brown bag session](https://proessler.wordpress.com/2014/09/07/how-to-set-off-a-brown-bag-session-in-your-company-in-60-minutes/)
