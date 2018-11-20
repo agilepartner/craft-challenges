@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Serious game
+image: /assets/images/culture/serious-game.png
+category: culture
 ---
 
-# Serious game
-![Serious game](images/serious-game.png)
 
 ## What ?
 Serious games are interesting tools to acquire knowledge, both for their motivational effect and the pedagogical principles they include, such as :
@@ -69,4 +70,4 @@ You can find all the informations about this cube [here](http://www.kilearning.n
 * [Lego craft games](http://www.gargoylesoftware.com/ex)
 
 
-![Serious game](images/serious-game1.jpg)
+![Serious game](/assets/images/serious-game1.jpg)

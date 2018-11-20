@@ -1,6 +1,7 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem 'github-pages'
-gem 'jekyll-paginate'
-gem 'kramdown'
-gem 'pygments.rb'
+source "https://rubygems.org"
+gemspec
+
+gem 'wdm', '>= 0.1.0'
+gem 'jekyll-target-blank'

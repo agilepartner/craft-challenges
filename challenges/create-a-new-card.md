@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Create a new card
+image: /assets/images/challenges/create-a-new-card.png
+category: challenges
 ---
 
-# Create a new card
-![Create a new card](images/create-a-new-card.png)  
 
 ## What ?
 Because each context is different we didn't necessarily get to put everything on our cards.
@@ -20,4 +21,4 @@ Share and communicate about your topics of interest inside your company is reall
 - Share your card (inside your company, on twitter, ...)
 
 ## Resources
-* [Download card templates](../card-templates.pdf)
+* [Download card templates](/assets/pdf/card-templates.pdf)

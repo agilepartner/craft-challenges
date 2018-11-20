@@ -1,13 +1,14 @@
 ---
-layout: card
+layout: single-card
+title: Book club
+image: /assets/images/culture/book-club.png
+category: culture
 ---
 
-# Book club
-![Book club](images/book-club.png)
 
 ## What ?
 A book club is a reading group, usually consisting of a number of people who `read and share about books based on a topic or an agreed-upon reading list`.  
-It's common for book clubs to choose a specific book to read and discuss at the same time. 
+It's common for book clubs to choose a specific book to read and discuss at the same time.
 Formal book clubs meet on a regular basis at a set location.  
 Most book clubs meet monthly in order to give members time to read the next book.
 
@@ -22,7 +23,7 @@ Because you will **learn a lot and it is not the only benefit** :
 * You will have the chance to **share** about books **with other passionate guys**
 * It's a place to debate about something other than politics
 
-## How ? 
+## How ?
 * Create a book club in your company (if needed)
 * Organize a monthly session
 * Choose a book
@@ -32,7 +33,7 @@ Because you will **learn a lot and it is not the only benefit** :
     * Vote for the more interesting one
 * Share about the book during the next session
 
-![Book club](images/book-club-2.jpg)
+![Book club](/assets/images/book-club-2.jpg)
 
 ## Resources
 * [How to Start a Book Club Checklist](https://www.realsimple.com/work-life/start-book-club-checklist)

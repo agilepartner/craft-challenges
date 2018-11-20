@@ -1,5 +1,8 @@
 ---
-layout: card
+layout: single-card
+title: Cloud
+image: /assets/images/dev/cloud.png
+category: dev
 ---
 
 # Cloud
@@ -10,10 +13,10 @@ Cloud computing is the delivery of computing services/servers, storage, database
 Companies offering these computing services are called cloud providers and typically charge for cloud computing services based on usage, similar to how you are billed for water or electricity at home.
 
 ### Different types of cloud services
-Most cloud computing services fall into three broad categories. These are sometimes called the cloud computing stack, because they build on top of one another. 
+Most cloud computing services fall into three broad categories. These are sometimes called the cloud computing stack, because they build on top of one another.
 
 #### Infrastructure-as-a-service (IaaS)
-The most **basic** category of cloud computing services. 
+The most **basic** category of cloud computing services.
 With IaaS, you rent :
 * IT infrastructure—servers and virtual machines (VMs)
 * Storage
@@ -28,10 +31,10 @@ PaaS is designed to make it easier for developers to quickly create web or mobil
 Software-as-a-service (SaaS) is a method for **delivering software applications over the Internet**, on demand and typically on a subscription basis.  
 With SaaS, cloud providers host and manage the software application and underlying infrastructure and handle any maintenance, like software upgrades and security patching. Users connect to the application over the Internet, usually with a web browser on their phone, tablet or PC.
 
-![Cloud](images/cloud2.jpg)
+![Cloud](/assets/images/cloud2.jpg)
 
 ## Why ?
-Cloud computing has a major impact in our industry. It has been a big shift from the traditional way businesses think about IT resources. 
+Cloud computing has a major impact in our industry. It has been a big shift from the traditional way businesses think about IT resources.
 It has a lot of benefits :
 * Cost reduction : eliminates the capital expense of buying hardware and software
 * Speed : provision resources in a few minutes
@@ -58,4 +61,4 @@ It has a lot of benefits :
 * [Azure](https://docs.microsoft.com/en-us/azure/index)
 * [Google cloud](https://cloud.google.com/docs/)
 
-![Cloud](images/cloud1.png)
+![Cloud](/assets/images/cloud1.png)

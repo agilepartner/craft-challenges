@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Podcast
+image: /assets/images/culture/podcast.png
+category: culture
 ---
 
-# Podcast
-![Craft podcasts](images/podcast.png)  
 
 ## What ?
 A podcast or generically netcast, is **an episodic series of digital audio or video files which a user can download and listen to**.  
@@ -12,7 +13,7 @@ It is often available for subscription, so that new episodes are automatically d
 ## Why ?
 > Because we don't know what we don't know.  
 
-Podcast is a good way to learn new stuff during boring activities such as driving or gym. 
+Podcast is a good way to learn new stuff during boring activities such as driving or gym.
 
 ## How ?
 * Subscribe to a podcast (maybe one listed below...).
@@ -28,4 +29,4 @@ Podcast is a good way to learn new stuff during boring activities such as drivin
 * [TED talks](https://www.ted.com/about/programs-initiatives/ted-talks/ted-talks-audio)
 * [Agile uprising](http://podcast.agileuprising.com/)
 
-![Craft podcasts](images/craft-podcast1.jpg)  
+![Craft podcasts](/assets/images/craft-podcast1.jpg)  

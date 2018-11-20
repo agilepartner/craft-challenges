@@ -1,9 +1,12 @@
 ---
-layout: card
+layout: single-card
+title: Root-Me
+image: /assets/images/dev/root-me.png
+category: dev
 ---
 
 # Unit tests
-![Write 5 unit tests](images/unit-tests.png)  
+![Write 5 unit tests](/assets/images/unit-tests.png)  
 
 ## What ?
 UNIT TESTING is a level of software testing where **individual units/ components of a software are tested**.  
@@ -12,7 +15,7 @@ A unit is the smallest testable part of any software. It usually **has one or a 
 In object-oriented programming, the smallest unit is a method, which may belong to a base/ super class, abstract class or derived/ child class.  
 Unit testing frameworks, stubs, and mock/ fake objects are used to assist in unit testing.
 
-![Write 5 unit tests](images/unit-tests1.png)  
+![Write 5 unit tests](/assets/images/unit-tests1.png)  
 
 ## Why ?
 Because we care about what we do we need to be able to guarantee the quality of our development, unit testing is the main practice to do so.  
@@ -29,7 +32,7 @@ These are the main benefits :
     * When a test fails, only the latest changes need to be debugged
 * Codes are more reliable
 
-![Write 5 unit tests](images/unit-tests2.png)  
+![Write 5 unit tests](/assets/images/unit-tests2.png)  
 
 ## How ?
 * Add 5 more unit tests in your code base
@@ -40,7 +43,7 @@ These are the main benefits :
 
 > No matter the languages you are using you can write unit tests.
 
-![Write 5 unit tests](images/unit-tests3.jpg)  
+![Write 5 unit tests](/assets/images/unit-tests3.jpg)  
 
 ## Resources
 * [Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)

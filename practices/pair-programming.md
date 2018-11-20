@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Pair programming
+image: /assets/images/practices/pair-programming.png
+category: practices
 ---
 
-# Pair programming
-![Pair program](images/pair-programming.png)
 
 ## What ?
 Pair programming consists of two programmers sharing a single workstation.  
@@ -19,7 +20,7 @@ This is intended to free the driver to focus all of their attention on the "tact
 
 > “For an idea to go **from your head** to the computer it **must go through someone else’s hands**”
 
-![Pair program](images/pair-programming2.png)
+![Pair program](/assets/images/pair-programming2.png)
 
 ## Why ?
 * **Better code so better quality**  
@@ -41,7 +42,7 @@ There are N/2 pairs to coordinate instead of N individual developers.
 * Do it during at least 30 minutes
 * Debrief with your team mate and your team
 
-![Pair program](images/pair-programming3.jpg)
+![Pair program](/assets/images/pair-programming3.jpg)
 
 ## Resources
 * [Pair programming explained](https://www.agilealliance.org/glossary/pairing/#q=~(filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'pair*20programming))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
@@ -51,4 +52,4 @@ There are N/2 pairs to coordinate instead of N individual developers.
 * [Pair Programming: 7 Habits of Highly Effective Coders](https://www.youtube.com/watch?v=5ySLQ5_cQ34&t=116s)
 * [Agile in practice: Pair programming](https://www.youtube.com/watch?v=ET3Q6zNK3Io)
 
-![Pair program](images/pair-programming1.jpg)
+![Pair program](/assets/images/pair-programming1.jpg)

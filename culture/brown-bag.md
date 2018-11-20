@@ -1,9 +1,9 @@
 ---
-layout: card
+layout: single-card
+title: Brown bag
+image: /assets/images/culture/brown-bag.png
+category: culture
 ---
-
-# Brown bag
-![Brown bag](images/brown-bag.png)
 
 ## What ?
 A brown bag lunch is an open session that is organized during the lunch time.  

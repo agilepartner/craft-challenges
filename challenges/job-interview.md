@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Job interview
+image: /assets/images/challenges/job-interview.png
+category: challenges
 ---
 
-# Job interview
-![Job interview](images/job-interview.png)  
 
 ## What ?
 Involve yourself in the hiring process if it is not already the case.
@@ -28,9 +29,9 @@ You can use a lot of tools to do a job interview :
 
 ### Our tips
 **Try to have equal to equal conversations**  
-![Job interview](images/job-interview2.jpg)  
+![Job interview](/assets/images/job-interview2.jpg)  
 **instead of**  
-![Usual interview](images/job-interview1.jpg) 
+![Usual interview](/assets/images/job-interview1.jpg)
 
 ## Resources
-* [The 10 Questions Every Interviewer MUST Ask](https://www.scienceofpeople.com/10-questions-every-interviewer-must-ask/)
+* [The 10 Questions Every Interviewer MUST Ask](https://www.scienceofpeople.com/10-questions-every-interviewer-must-ask/){:target="_blank"}

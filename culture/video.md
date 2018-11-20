@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Video
+image: /assets/images/culture/video.png
+category: culture
 ---
 
-# Video
-![Watch video](images/video.png)  
 
 ## What
 A video session is a group session where attendees watch videos all together.
@@ -32,4 +33,4 @@ Watching videos in group will help you to create a culture of learning in your c
 * [12-Factor Apps and the HashiStack](https://www.youtube.com/watch?v=NVl9cIiPF80)
 * [Craft-conf videos](https://craft-conf.com/2018)
 
-![Watch video](images/watch-video1.jpg) 
+![Watch video](/assets/images/watch-video1.jpg) 

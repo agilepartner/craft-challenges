@@ -1,9 +1,12 @@
 ---
-layout: card
+layout: single-card
+title: Agile topics
+image: /assets/images/culture/agile-topics.png
+category: culture
 ---
 
-# Agile topics
-![Agile topics](images/agile-topics.png)
+
+
 
 ## What ?
 "Agile topics" is a deck of cards created by [*Jimmy Janlén*](https://www.linkedin.com/in/jimmyjanlen/) from Crisp.  
@@ -22,13 +25,13 @@ This deck can really help us to discover new concepts and practices around agili
 * Take actions
 
 Those cards can be used as :
-* Topics for : 
+* Topics for :
     * Lean coffees
     * Organizational reviews
     * Agile brown bags
 * 1:1 conversation starters
 
-![Agile topics](images/agile-topics1.png)
+![Agile topics](/assets/images/agile-topics1.png)
 
 ## Resources
 * [Agile topic cards](http://blog.crisp.se/2015/10/08/jimmyjanlen/agile-topics-card-deck)

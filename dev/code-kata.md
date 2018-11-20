@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Code kata
+image: /assets/images/dev/code-kata.png
+category: dev
 ---
 
-# Code kata
-![Organize a code kata session](images/code-kata.png)  
 
 ## What ?
 A kata, or code kata, is defined as an exercise in programming which helps hone your skills through practice and repetition.
@@ -13,10 +14,10 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
 #### Randori
 The challenge is solved by coding pairs (driver and copilot)
 * Everyone can help
-* Each pair has a small (5 or 7 minutes) timebox 
+* Each pair has a small (5 or 7 minutes) timebox
 * At the end of the timebox :
     * Driver goes back to the audience
-    * Copilot becomes driver 
+    * Copilot becomes driver
     * One of the audience step up to be copilot
 
 #### Katas
@@ -24,14 +25,14 @@ A presenter shows how to solve the challenge from scratch (TDD, Baby steps).
 * Each step must make sense to everyone
 * People interrupt if they don’t understand  
 
-![Code kata](images/code-kata2.jpg)  
+![Code kata](/assets/images/code-kata2.jpg)  
 
 ## Why ?
 Practicing is at the heart of the software craftsman mindset that is why doing katas with your peers is so important.  
 It can help you to acquire new skills and connect to your peers.
 
 ## How ?
-* Create a coding dojo in your company 
+* Create a coding dojo in your company
     * a place where people can come and practice their skills
 
 > A coding dojo is a place to learn and have fun while programming.
@@ -47,4 +48,4 @@ In a coding dojo you can organize what is called **coding katas**.
 * [How to start a coding dojo ?](
 http://johannesbrodwall.com/2011/12/18/how-to-start-a-coding-dojo/)
 
-![Code kata](images/code-kata1.jpg)  
+![Code kata](/assets/images/code-kata1.jpg)  

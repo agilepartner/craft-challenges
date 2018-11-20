@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Mob
+image: /assets/images/practices/mob.png
+category: practices
 ---
 
-# Mob
-![Mob programming](images/mob.png)
 
 ## What ?
 Mob Programming is a software development approach where the **whole team works on the same thing, at the same time, in the same space, and at the same computer**.  
@@ -20,7 +21,7 @@ The Mob Programming approach relies on concepts such as face-to-face and side-by
 
 > "Resolve complex problems in whole team"
 
-![The mob](images/mob1.jpg)
+![The mob](/assets/images/mob1.jpg)
 
 ## Why ?
 The collaborative nature of Mob Programming causes many problems that software development teams generally face to “fade away.”  
@@ -43,7 +44,7 @@ It solves :
  * Use a private room
  * Select a time keeper to rotate every 15 or 30 minutes
  * Everyone gets time at the keyboard
- *  Take a story from start to finish 
+ *  Take a story from start to finish
  * Take breaks when you want
 
 ## Resources
@@ -52,4 +53,4 @@ It solves :
 * [Mob programming role cards](https://github.com/willemlarsen/mobprogrammingrpg)
 * [Mob roles at Cucumber](https://cucumber.io/blog/2017/10/16/five-roles-in-a-healthy-mob)
 
-![The mob](images/mob2.png)
+![The mob](/assets/images/mob2.png)

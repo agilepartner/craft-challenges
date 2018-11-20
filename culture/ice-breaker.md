@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Ice breaker
+image: /assets/images/culture/ice-breaker.png
+category: culture
 ---
 
-# Ice breaker
-![Ice breaker](images/ice-breaker.png)  
 
 ## What ?
 An icebreaker is a **facilitation exercise** to "warm up" the group by helping the members to get to know better each others.
@@ -23,4 +24,4 @@ Icebreakers are intended to help members of a group begin the process of **formi
 * [40 ice breakers for small groups](https://insight.typepad.co.uk/40_icebreakers_for_small_groups.pdf)
 * [7 Icebreakers for Meetings](https://funattic.com/icebreakers-for-meetings.htm)
 
-![Ice breaker](images/ice-breaker1.jpg)
+![Ice breaker](/assets/images/ice-breaker1.jpg)

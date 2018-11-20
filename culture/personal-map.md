@@ -1,13 +1,14 @@
 ---
-layout: card
+layout: single-card
+title: Personal map
+image: /assets/images/culture/personal.png
+category: culture
 ---
 
-# Personal map
-![Personal map](images/personal.png)
 
 ## What ?
 When you communicate with many people, it can be difficult to remember every little detail. A way to deal with this amount of information is to build mind maps about personal facts to remember details quickly.  
-A mind-map is a visual and structured representation of information. 
+A mind-map is a visual and structured representation of information.
 In Management 3.0, this kind of mind map is called a Personal Map.
 
 ## Why ?
@@ -17,7 +18,7 @@ They can do this by :
 * Moving their desk
 * Moving their microphone
 
-Decreasing the distance of yourself to others helps to increase communication and creativity. 
+Decreasing the distance of yourself to others helps to increase communication and creativity.
 
 > *A great exercise for a better understanding of people is to capture what you know about them in personal maps.*
 
@@ -36,7 +37,7 @@ In your team, explain the exercise as follows:
 
 Keep in mind that these personal maps are **not a one-time exercise**, these evolve as life continues!
 
-![Personal map](images/personal-map1.jpg)
+![Personal map](/assets/images/personal-map1.jpg)
 
 ## Resources
 * [Management 3.0 Practice: Personal Maps Build Closeness in Modern Teams](https://www.youtube.com/watch?v=T9d8w-OG-Fk)

@@ -1,23 +1,24 @@
 ---
-layout: card
+layout: single-card
+title: Hackathon
+image: /assets/images/practices/hackathon.png
+category: practices
 ---
 
-# Hackathon
-![Hackhathon](images/hackathon.png)
 
 ## What ?
 > “A hackathon, is an event when programmers meet to do collaborative computer programming.”
 Hackathons provide a venue for **self-expression and creativity through technology**.  
 
-People with technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution from scratch — these generally take shape in the form of websites, mobile apps, and robots. 
+People with technical backgrounds come together, form teams around a problem or idea, and collaboratively code a unique solution from scratch — these generally take shape in the form of websites, mobile apps, and robots.
 
-![Hackhathon](images/hackathon1.jpg)
+![Hackhathon](/assets/images/hackathon1.jpg)
 
 ## Why ?
 Hackathon is a really good tool to stimulate the creative and problem-solving juices of developers.  
 The time limit in a hackathon forces participants to distil their visionary concepts down to actionable solutions.
 
-Outsiders can bring a fresh perspective to business challenges, as well as give an outside-in view of products and organization. 
+Outsiders can bring a fresh perspective to business challenges, as well as give an outside-in view of products and organization.
 
 The main benefits for you are :
 * Learn new technical skills
@@ -32,7 +33,7 @@ Initiate the organization of an internal hackathon :
 * Schedule it
 * Make some noise about it (create the buzz)
 
-![Hackhathon](images/hackathon2.png)
+![Hackhathon](/assets/images/hackathon2.png)
 
 ## Resources
 * [The design sprint](http://www.gv.com/sprint/) : How to solve big problems and test new ideas in just five days

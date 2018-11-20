@@ -1,9 +1,10 @@
 ---
-layout: card
+layout: single-card
+title: Retrospective
+image: /assets/images/challenges/retrospective.png
+category: challenges
 ---
 
-# Retrospective
-![Facilitate retrospective](images/retrospective.png)  
 
 ## What ?
 An Agile retrospective is a meeting that's held at the end of an iteration.  
@@ -20,7 +21,7 @@ During the retrospective, **the team reflects on what happened in the iteration 
   * What **actions** can we take **to improve** our process going forward?
 
 ### Facilitate the retrospective using those 5 steps
-  *  **Set the stage** 
+  *  **Set the stage**
       * Regardless of what we discover, we understand that everyone did the best job he or she could.
   * **Gather data**
       * What went well and what did not.
@@ -33,7 +34,7 @@ During the retrospective, **the team reflects on what happened in the iteration 
 
 > To prepare a retrospective you can use [plans-for-retrospective](https://plans-for-retrospectives.com/en/).
 
-![Facilitate retrospective](images/retrospective2.jpg)  
+![Facilitate retrospective](/assets/images/retrospective2.jpg)  
 
 ## Resources
 * [Plans for retrospectives](https://plans-for-retrospectives.com/)
