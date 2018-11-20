@@ -5,8 +5,6 @@ image: /craft-challenges/assets/images/dev/cloud.png
 category: dev
 ---
 
-# Cloud
-![Cloud](images/cloud.png)
 
 ## What ?
 Cloud computing is the delivery of computing services/servers, storage, databases, networking, software, analytics and more—over the Internet (“the cloud”).  
