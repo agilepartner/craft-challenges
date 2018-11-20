@@ -1,0 +1,20 @@
+#lab_social_icon_footer {
+  padding: 40px 0;
+  text-align: center;
+}
+
+#lab_social_icon_footer #social-fb:hover {
+  color: #3B5998;
+}
+
+#lab_social_icon_footer #social-tw:hover {
+  color: #4099FF;
+}
+
+#lab_social_icon_footer #social-lk:hover {
+  color: #04669A;
+}
+
+#lab_social_icon_footer #social-em:hover {
+  color: #f39c12;
+}

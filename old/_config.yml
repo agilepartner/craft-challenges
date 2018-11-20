@@ -1,0 +1,16 @@
+name: Craft challenges
+twitter: agilepartner
+facebook: agilepartner
+github: agilepartner
+contact: contact@agilepartner.net
+agilepartnerUrl: https://agilepartner.net/
+linkedin: agile-partner-s-a-
+
+# Build settings
+markdown: kramdown
+
+plugins:
+ - github-pages
+
+# Google Analytics
+google_analytics: UA-29550143-5

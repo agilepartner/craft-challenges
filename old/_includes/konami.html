@@ -1,0 +1,28 @@
+<div>
+    <img id="konamiImage" class="konami" src="../images/konami.gif"/>
+    <script>
+    function launchEgg() {
+        return new Promise(function (resolve, reject) {
+                document.getElementById("shareLink").href = "https://twitter.com/home?status=I%20have%20just%20discovered%20a%20%23konami_code%20%23craft_challenges%20from%20%40agilepartner%20http://tiny.cc/aqf7wy";
+                var konamiImage = document.getElementById("konamiImage");
+                konamiImage.style.display = 'inherit';
+                var currentPosition = 0;
+                
+                var id = setInterval(() => {
+                    if (currentPosition == document.body.offsetWidth) {
+                        clearInterval(id);
+                        konamiImage.style.display = 'none';
+                        resolve();                     
+                    } else {
+                        currentPosition++; 
+                        konamiImage.style.left = currentPosition + 'px'; 
+                    }
+            }, 10);
+        }); 
+    }
+
+    var konami = new Konami(launchEgg);
+    konami.load();
+
+    </script>
+</div>
