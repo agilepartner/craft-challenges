@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: TDD
-image: /craft-challenges/assets/challenges/tdd.png
+image: /craft-challenges/assets/images/challenges/tdd.png
 category: challenges
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Team photo
-image: /craft-challenges/assets/challenges/team-photo.png
+image: /craft-challenges/assets/images/challenges/team-photo.png
 category: challenges
 ---
 

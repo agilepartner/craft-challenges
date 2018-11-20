@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Source control
-image: /craft-challenges/assets/practices/source-control.png
+image: /craft-challenges/assets/images/practices/source-control.png
 category: practices
 ---
 

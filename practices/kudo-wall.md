@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Kudo wall
-image: /craft-challenges/assets/practices/exploratory-testing.png
+image: /craft-challenges/assets/images/practices/exploratory-testing.png
 category: practices
 ---
 

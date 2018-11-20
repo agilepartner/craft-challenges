@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Tech retro
-image: /craft-challenges/assets/practices/tech-retro.png
+image: /craft-challenges/assets/images/practices/tech-retro.png
 category: practices
 ---
 

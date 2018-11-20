@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Podcast
-image: /craft-challenges/assets/culture/podcast.png
+image: /craft-challenges/assets/images/culture/podcast.png
 category: culture
 ---
 

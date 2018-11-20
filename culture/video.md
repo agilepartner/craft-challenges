@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Video
-image: /craft-challenges/assets/culture/video.png
+image: /craft-challenges/assets/images/culture/video.png
 category: culture
 ---
 

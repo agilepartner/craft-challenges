@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Positive feedback
-image: /craft-challenges/assets/culture/positive-feedback.png
+image: /craft-challenges/assets/images/culture/positive-feedback.png
 category: culture
 ---
 

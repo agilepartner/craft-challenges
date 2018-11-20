@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Product review
-image: /craft-challenges/assets/challenges/product-review.png
+image: /craft-challenges/assets/images/challenges/product-review.png
 category: challenges
 ---
 

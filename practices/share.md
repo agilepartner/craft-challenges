@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Share
-image: /craft-challenges/assets/practices/share.png
+image: /craft-challenges/assets/images/practices/share.png
 category: practices
 ---
 

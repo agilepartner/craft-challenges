@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Hello world
-image: /craft-challenges/assets/dev/hello-world.png
+image: /craft-challenges/assets/images/dev/hello-world.png
 category: dev
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Architecture
-image: /craft-challenges/assets/practices/architecture.png
+image: /craft-challenges/assets/images/practices/architecture.png
 category: practices
 ---
 

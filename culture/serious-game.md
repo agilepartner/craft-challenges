@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Serious game
-image: /craft-challenges/assets/culture/serious-game.png
+image: /craft-challenges/assets/images/culture/serious-game.png
 category: culture
 ---
 

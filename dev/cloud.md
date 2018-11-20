@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Cloud
-image: /craft-challenges/assets/dev/cloud.png
+image: /craft-challenges/assets/images/dev/cloud.png
 category: dev
 ---
 

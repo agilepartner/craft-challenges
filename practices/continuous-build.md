@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Continuous build
-image: /craft-challenges/assets/practices/continuous-build.png
+image: /craft-challenges/assets/images/practices/continuous-build.png
 category: practices
 ---
 

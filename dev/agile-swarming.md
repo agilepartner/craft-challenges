@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Agile swarming
-image: /craft-challenges/assets/dev/agile-swarming.png
+image: /craft-challenges/assets/images/dev/agile-swarming.png
 category: dev
 ---
 

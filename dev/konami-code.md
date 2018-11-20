@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Konami
-image: /craft-challenges/assets/dev/konami-code.png
+image: /craft-challenges/assets/images/dev/konami-code.png
 category: dev
 ---
 

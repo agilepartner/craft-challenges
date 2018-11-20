@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Tech radar
-image: /craft-challenges/assets/challenges/tech-radar.png
+image: /craft-challenges/assets/images/challenges/tech-radar.png
 category: challenges
 ---
 

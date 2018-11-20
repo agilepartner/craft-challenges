@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Retrospective
-image: /craft-challenges/assets/challenges/retrospective.png
+image: /craft-challenges/assets/images/challenges/retrospective.png
 category: challenges
 ---
 

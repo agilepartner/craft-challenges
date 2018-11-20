@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Code kata
-image: /craft-challenges/assets/dev/code-kata.png
+image: /craft-challenges/assets/images/dev/code-kata.png
 category: dev
 ---
 

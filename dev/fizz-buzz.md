@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Fizzbuzz
-image: /craft-challenges/assets/dev/fizzbuzz.png
+image: /craft-challenges/assets/images/dev/fizzbuzz.png
 category: dev
 ---
 

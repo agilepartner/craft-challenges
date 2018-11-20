@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Pair programming
-image: /craft-challenges/assets/practices/pair-programming.png
+image: /craft-challenges/assets/images/practices/pair-programming.png
 category: practices
 ---
 

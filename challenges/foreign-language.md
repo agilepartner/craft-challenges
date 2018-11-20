@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Foreign language
-image: /craft-challenges/assets/challenges/foreign-language.png
+image: /craft-challenges/assets/images/challenges/foreign-language.png
 category: challenges
 ---
 

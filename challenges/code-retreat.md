@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Code retrat
-image: /craft-challenges/assets/challenges/code-retreat.png
+image: /craft-challenges/assets/images/challenges/code-retreat.png
 category: challenges
 ---
 

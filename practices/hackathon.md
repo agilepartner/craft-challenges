@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Hackathon
-image: /craft-challenges/assets/practices/hackathon.png
+image: /craft-challenges/assets/images/practices/hackathon.png
 category: practices
 ---
 
