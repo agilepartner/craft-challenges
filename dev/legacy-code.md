@@ -5,9 +5,6 @@ image: /craft-challenges/assets/images/dev/legacy-code.png
 category: dev
 ---
 
-# Legacy code
-![Identify & refactor legacy code](images/legacy-code.png)  
-
 ## What ?
 **Legacy code** could refer to :
 * Dead code : code that is not used anymore
