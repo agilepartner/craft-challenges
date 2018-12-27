@@ -5,7 +5,6 @@ image: /craft-challenges/assets/images/challenges/tech-radar.png
 category: challenges
 ---
 
-
 ## What ?
 The tech radar is an online publication created by Thoughtworks Technology Advisory Board, a diverse group of senior technology leaders from all over the ThoughtWorks’ world.  
 They meet regularly to discuss the technology strategy for ThoughtWorks and the **technology trends that impact our industry**.
@@ -38,17 +37,24 @@ The ones they are `using at the moment and the ones they would like to use in th
 ![List tech]({{ site.baseurl }}/assets/images/tech-radar1.png)  
 
 * Sort them :
-  * Adopt
-  * Trial
-  * Assess
-  * Hold
+  * Adopt : We have capacity to use these solutions, they have already been deployed in production. First choices to start a new project.
+  * Can Use : Pertinence of those solutions have been demonstrated. You can use it on your project but you need to provide a reason to not use the default choice.
+  * Assess : These solutions may bring values. It is necessary to assess and test them in our environment to confirm or not this vision.
+  * Deprecated : For various reasons, these solutions are no longer the first choices or are not recommended (anymore).
 
 ![Sort tech]({{ site.baseurl }}/assets/images/tech-radar2.png)  
 
-* Create your tech radar online by following those instructions
-  * [Build your own tech radar](https://www.thoughtworks.com/radar/how-to-byor)
+* Create the online knowkedge base with the tech radar layout by using our home made open source jekyll website. by following those instructions :
+  * Clone or Fork this [repository](https://github.com/agilepartner/tech-radar)
+  * Install tooling for Jekyll : [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
+  * Run it locally :
+  ```
+    bundle exec jekyll serve
+  ```
+  * Follow the instructions defined here to add content : [instructions](https://github.com/agilepartner/tech-radar)
 
 ## Resources
+* [Build your tech-radar with Jekyll](https://github.com/agilepartner/tech-radar)
 * [Github - Build your own tech radar](https://www.thoughtworks.com/radar/how-to-byor)
 * [Latest Thoughtworks technology radar](https://www.thoughtworks.com/radar)
 * [Atlassian tech radar plugin](https://marketplace.atlassian.com/plugins/de.iteconomics.confluence.techradar/server/overview)
