@@ -21,6 +21,7 @@ Podcast is a good way to learn new stuff during boring activities such as drivin
 * Debrief with your colleagues about what you learned.
 
 ## Resources
+* [artisan developpeur](http://artisandeveloppeur.fr/podcast/)
 * [infoQ](https://www.infoq.com/Software_Craftsmanship/podcasts/)
 * [player.fm](https://player.fm/featured/tech)
 * [This week in tech](https://twit.tv/shows/this-week-in-tech)
