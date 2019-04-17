@@ -26,7 +26,7 @@
 .c-blue {color: $blue;};
 .c-red {color: $red;}
 .c-yellow {color: $yellow;}
-.c-black {color: #000000;}
+.c-black {color: $black;}
 .c-white {color: #ffffff;}
 
 .bg-main-color-darkest {background-color: $main-color-darkest;}
@@ -58,7 +58,7 @@
 .bg-red {background-color: $red;}
 .bg-yellow {background-color: $yellow;}
 .bg-white {background-color: #ffffff;}
-.bg-black {background-color: #000000;}
+.bg-black {background-color: $black;}
 
 .bg-gradient-main-color {
 	background: $main-color;
@@ -74,6 +74,14 @@
 	background: -webkit-linear-gradient(left, $yellow 0%,$yellow-dark 100%);
 	background: linear-gradient(to right, $yellow 0%,$yellow-dark 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$yellow-dark', endColorstr='$yellow',GradientType=1 );
+}
+
+.bg-gradient-black {
+	background: $black;
+	background: -moz-linear-gradient(left, $black 0%, $black 100%);
+	background: -webkit-linear-gradient(left, $black 0%,$black 100%);
+	background: linear-gradient(to right, $black 0%,$black 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$black', endColorstr='$black',GradientType=1 );
 }
 
 .bg-gradient-blue {
