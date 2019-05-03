@@ -42,6 +42,7 @@ In a coding dojo you can organize what is called **coding katas**.
 ## Resources
 * [What is a code kata ?](http://codekata.com/)
 * Katas websites
+    * [https://katalyst.codurance.com/](https://katalyst.codurance.com/)
     * [https://www.codewars.com/](https://www.codewars.com/)
     * [https://github.com/gamontalvo/awesome-katas](https://github.com/gamontalvo/awesome-katas)
     * [https://www.codingame.com/start](https://www.codingame.com/start)
