@@ -29,7 +29,8 @@ Collective intelligence strongly contributes to the shift of knowledge and power
     * Follow the instructions on the infography as described above
 
 ## Resources
-* [Our Xtrem Reading website](https://www.xtrem-reading.com/)
+* Our Xtrem Reading website :
+<a href="https://www.xtrem-reading.com/" rel="Our Xtrem Reading website" target="_blank">![Our Xtrem Reading website]({{ site.baseurl }}/assets/images/xtrem-reading3.png)</a>
 
 ### [Our recommended books](#our-recommended-books)
 
