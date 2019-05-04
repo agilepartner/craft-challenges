@@ -85,6 +85,14 @@
           "link": "codingame"
         },
         {
+          "image": "/craft-challenges/assets/images/dev/ddd.png",
+          "link": "ddd"
+        },
+        {
+          "image": "/craft-challenges/assets/images/dev/docker.png",
+          "link": "docker"
+        },
+        {
           "image": "/craft-challenges/assets/images/dev/fizzbuzz.png",
           "link": "fizz-buzz"
         },
@@ -99,6 +107,10 @@
         {
           "image": "/craft-challenges/assets/images/dev/legacy-code.png",
           "link": "legacy-code"
+        },
+        {
+          "image": "/craft-challenges/assets/images/dev/mutation-testing.png",
+          "link": "mutation-testing"
         },
         {
           "image": "/craft-challenges/assets/images/dev/root-me.png",
@@ -161,6 +173,10 @@
         {
           "image": "/craft-challenges/assets/images/culture/personal.png",
           "link": "personal-map"
+        },
+        {
+          "image": "/craft-challenges/assets/images/culture/xtrem-reading.png",
+          "link": "xtrem-reading"
         }
       ],
       "practices": [
