@@ -5,14 +5,31 @@ image: /craft-challenges/assets/images/culture/xtrem-reading.png
 category: culture
 ---
 
-
 ## What ?
+Xtrem Reading is a technique we have created at AgilePartner.  
+It allows you to **read 2 books in 1 hour** in a collaborative way.
+
+![Xtrem Reading logo]({{ site.baseurl }}/assets/images/xtrem-reading2.png)
 
 ## Why ?
+**Reading is a still a key to learning.**   
+At the time, books are the best tool for continuous education. 
+The problem is that we no longer take the time to read them...
+
+By reading collectively it will increase your motivation to read.
+
+![Xtrem Reading Infography]({{ site.baseurl }}/assets/images/xtrem-reading1.png)
+
+It will allow you to boost your collective intelligence as well.
+Collective intelligence strongly contributes to the shift of knowledge and power from the individual to the collective.  
 
 ## How ?
+* Bring some books
+* Organize an Xtrem Reading session at your company
+    * Follow the instructions on the infography as described above
 
 ## Resources
+* [Our Xtrem Reading website](https://www.xtrem-reading.com/)
 
 ### [Our recommended books](#our-recommended-books)
 
