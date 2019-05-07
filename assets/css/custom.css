@@ -1,3 +1,6 @@
 p {color: #5f5f5f;}
 ul li {color: #5f5f5f;}
 body, input, select, textarea, button {color: #5f5f5f;}
+
+
+.has-background p {color: #ffffff;}
