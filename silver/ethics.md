@@ -33,6 +33,7 @@ We all spend a huge amount of hour on our computers, smartphones, cars each day.
 Some examples of it :
 * 2015, independent tests revealed that Volkswagen engineers programmed cars to cheat emissions standards
 * 2016, U.S. presidential election - Facebook/Twitter Epidemic of fake news, and now is inextricably linked to
+* 2018, [Boeing 737 Max crashes because of software problems](https://www.extremetech.com/extreme/289042-boeing-confirms-additional-problems-with-boeing-737-max-flight-controls)
 * 2018 Cambridge Analytica’s : weaponization of personal user information
 
 Social exclusion, various environmental impacts, ....
@@ -76,6 +77,7 @@ Present your results to other teams.
 
 ## Resources
 * [The Programmer's Oath - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
+* [Uncle Bob Martin - The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 * [Association for Computing Machinery (ACM) code of ethics](https://www.acm.org/code-of-ethics)
 * [5 principles of software ethics – Steven Wilmott](https://thenewstack.io/five-principles-software-ethics/)
 * [A Code of Ethics for (Agile) Software Developers? - Christiaan Verwijs](https://medium.com/the-liberators/a-code-of-ethics-for-agile-software-developers-430b9a879be6)
