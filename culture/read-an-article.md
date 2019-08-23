@@ -3,9 +3,8 @@ layout: single-card
 title: Read an article
 image: /craft-challenges/assets/images/culture/read-an-article.png
 category: culture
+description: An article discusses current or recent news of either general interest or of a specific topic (i.e. political or trade news magazines, club newsletters, or technology news websites).
 ---
-
-
 
 ## What ?
 An article discusses current or recent news of either general interest or of a specific topic (i.e. political or trade news magazines, club newsletters, or technology news websites).  

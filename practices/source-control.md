@@ -3,6 +3,7 @@ layout: single-card
 title: Source control
 image: /craft-challenges/assets/images/practices/source-control.png
 category: practices
+description: Version Control System (VCS), also known as Source Control Management (SCM), is a way to manage and document changes developers make to software code.  A skills matrix is a grid or table that clearly and visibly illustrates the skills and competence held by individuals within a team.
 ---
 
 

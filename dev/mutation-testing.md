@@ -3,6 +3,7 @@ layout: single-card
 title: Mutation testing
 image: /craft-challenges/assets/images/dev/mutation-testing.png
 category: dev
+description: Mutation testing is used to design new software tests and evaluate the quality of existing software tests. 
 ---
 
 ## What ?

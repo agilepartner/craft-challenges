@@ -3,6 +3,7 @@ layout: single-card
 title: Unit tests
 image: /craft-challenges/assets/images/dev/unit-tests.png
 category: dev
+description: UNIT TESTING is a level of software testing where individual units/ components of a software are tested.
 ---
 
 ## What ?

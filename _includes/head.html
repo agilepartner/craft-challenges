@@ -21,7 +21,6 @@
   <meta property="og:url"                content="{{ site.baseurl }}{{ page.url }}" />
   <meta property="og:type"               content="Website" />
   <meta property="og:title"              content="CRAFT CHALLENGES : {{ page.title }}" />
-  <meta property="og:description"        content="This site contains cards and instructions to organize and play craft challenges in your organizations." />
   
   {% if page.image And page.image != "" And page.image != nil %}
   <meta property="og:image"              content="{{ page.image }}" />
@@ -29,6 +28,11 @@
   <meta property="og:image"              content="{{ site.baseurl }}/assets/images/crafts-poster.png" />
   {% endif %}
   
+  {% if page.description And page.description != "" And page.description != nil %}
+  <meta property="og:description"              content="{{ page.description }}" />
+  {% else %}
+  <meta property="og:description"        content="This site contains cards and instructions to organize and play craft challenges in your organizations." />
+  {% endif %}
   
   
   <link href='//fonts.googleapis.com/css?family=Nunito:400,300,600,700,800,900,300italic,600italic' rel='stylesheet' type='text/css'>

@@ -3,6 +3,7 @@ layout: single-card
 title: Sketchnote
 image: /craft-challenges/assets/images/culture/sketchnote.png
 category: culture
+description: Visual notetaking is a creative way to take notes using pictures, typography, lines, shapes, and doodles, with marker-and-paper or stylus-and-tablet.
 ---
 
 

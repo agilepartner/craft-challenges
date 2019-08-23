@@ -3,6 +3,7 @@ layout: silver-card
 title: Programmers ethics
 image: /craft-challenges/assets/images/silver/ethics.png
 category: silver
+description: Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. 
 ---
 
 

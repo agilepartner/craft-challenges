@@ -3,6 +3,7 @@ layout: single-card
 title: Team photo
 image: /craft-challenges/assets/images/challenges/team-photo.png
 category: challenges
+description: Take a photo with your team mates.
 ---
 
 ## What ?

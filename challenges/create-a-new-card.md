@@ -3,6 +3,7 @@ layout: single-card
 title: Create a new card
 image: /craft-challenges/assets/images/challenges/create-a-new-card.png
 category: challenges
+description: Because each context is different we didn't necessarily get to put everything on our cards.
 ---
 
 

@@ -3,6 +3,7 @@ layout: single-card
 title: Fizzbuzz
 image: /craft-challenges/assets/images/dev/fizzbuzz.png
 category: dev
+description: Fizz buzz is a group word game for children to teach them division.  
 ---
 
 

@@ -3,6 +3,7 @@ layout: single-card
 title: Tech retro
 image: /craft-challenges/assets/images/practices/tech-retro.png
 category: practices
+description: If you are familiar with agile retrospectives you know that it is a meeting where the team reflects on what happened in the iteration and identifies actions for improvement going forward.  
 ---
 
 

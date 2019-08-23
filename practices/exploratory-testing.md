@@ -3,6 +3,7 @@ layout: single-card
 title: Exploratory testing
 image: /craft-challenges/assets/images/practices/exploratory-testing.png
 category: practices
+description: Exploratory testing is an approach to software testing that is concisely described as simultaneous learning, test design and test execution.
 ---
 
 

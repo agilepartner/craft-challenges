@@ -3,6 +3,7 @@ layout: single-card
 title: Product review
 image: /craft-challenges/assets/images/challenges/product-review.png
 category: challenges
+description: Product review or sprint review (in a framework like scrum) is a dedicated meeting to gather feedback on the product that a self-organized team is working on.
 ---
 
 

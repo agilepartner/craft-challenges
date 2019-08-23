@@ -3,6 +3,7 @@ layout: single-card
 title: Retrospective
 image: /craft-challenges/assets/images/challenges/retrospective.png
 category: challenges
+description: An Agile retrospective is a meeting that's held at the end of an iteration.
 ---
 
 

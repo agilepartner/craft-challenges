@@ -3,6 +3,7 @@ layout: single-card
 title: Pair programming
 image: /craft-challenges/assets/images/practices/pair-programming.png
 category: practices
+description: Pair programming consists of two programmers sharing a single workstation.   
 ---
 
 

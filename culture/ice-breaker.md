@@ -3,6 +3,7 @@ layout: single-card
 title: Ice breaker
 image: /craft-challenges/assets/images/culture/ice-breaker.png
 category: culture
+description: An icebreaker is a facilitation exercise to warm up the group by helping the members to get to know better each others.
 ---
 
 

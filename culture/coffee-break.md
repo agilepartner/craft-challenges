@@ -3,6 +3,7 @@ layout: single-card
 title: Coffee break
 image: /craft-challenges/assets/images/culture/coffee-break.png
 category: culture
+description: Simply have a coffre break with someone you don't know or don't know very well.
 ---
 
 

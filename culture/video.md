@@ -3,6 +3,7 @@ layout: single-card
 title: Video
 image: /craft-challenges/assets/images/culture/video.png
 category: culture
+description: A video session is a group session where attendees watch videos all together.
 ---
 
 

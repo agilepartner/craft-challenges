@@ -3,6 +3,7 @@ layout: single-card
 title: Legacy code
 image: /craft-challenges/assets/images/dev/legacy-code.png
 category: dev
+description: Legacy code is simply code without tests. - Michael Feathers
 ---
 
 ## What ?

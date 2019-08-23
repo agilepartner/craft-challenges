@@ -3,6 +3,7 @@ layout: single-card
 title: Root-Me
 image: /craft-challenges/assets/images/dev/root-me.png
 category: dev
+description: Root-Me is a non-profit organization which goal is to promote the spread of knowledge related to hacking and information security in a fun and interactive way.
 ---
 
 

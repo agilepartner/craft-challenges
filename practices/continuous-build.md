@@ -3,6 +3,7 @@ layout: single-card
 title: Continuous build
 image: /craft-challenges/assets/images/practices/continuous-build.png
 category: practices
+description: Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control.
 ---
 
 

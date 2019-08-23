@@ -3,6 +3,7 @@ layout: single-card
 title: Hackathon
 image: /craft-challenges/assets/images/practices/hackathon.png
 category: practices
+description: A hackathon, is an event when programmers meet to do collaborative computer programming.
 ---
 
 

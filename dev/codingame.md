@@ -3,6 +3,7 @@ layout: single-card
 title: Coding game
 image: /craft-challenges/assets/images/dev/codingame.png
 category: dev
+description: CodinGame is a challenge-based training platform for programmers where you can improve your coding skills with fun exercises (25+ languages supported).
 ---
 
 

@@ -3,6 +3,7 @@ layout: single-card
 title: Peer review
 image: /craft-challenges/assets/images/challenges/peer-review.png
 category: challenges
+description: Review other team members code.
 ---
 
 

@@ -3,6 +3,7 @@ layout: single-card
 title: Job interview
 image: /craft-challenges/assets/images/challenges/job-interview.png
 category: challenges
+description: Involve yourself in the hiring process if it is not already the case.
 ---
 
 

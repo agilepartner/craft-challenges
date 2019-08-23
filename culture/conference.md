@@ -3,6 +3,7 @@ layout: single-card
 title: Conference
 image: /craft-challenges/assets/images/culture/conference.png
 category: culture
+description: A conference is generally understood as a meeting of several people to discuss a particular topic.
 ---
 
 

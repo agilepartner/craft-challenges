@@ -3,6 +3,7 @@ layout: single-card
 title: Domain Driven Design
 image: /craft-challenges/assets/images/dev/ddd.png
 category: dev
+description: Domain-driven design (DDD) is an approach to software development for complex needs by connecting the implementation to an evolving model.
 ---
 
 ## What ?

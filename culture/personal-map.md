@@ -3,6 +3,7 @@ layout: single-card
 title: Personal map
 image: /craft-challenges/assets/images/culture/personal.png
 category: culture
+description: When you communicate with many people, it can be difficult to remember every little detail.
 ---
 
 

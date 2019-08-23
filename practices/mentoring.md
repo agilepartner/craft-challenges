@@ -3,6 +3,7 @@ layout: single-card
 title: Mentoring
 image: /craft-challenges/assets/images/practices/mentoring.png
 category: practices
+description: Mentoring is a powerful personal and career development tool that can enable the mentee to achieve or exceed their life's goals and aspirations.
 ---
 
 

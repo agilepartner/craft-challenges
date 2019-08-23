@@ -3,6 +3,7 @@ layout: single-card
 title: Meeting
 image: /craft-challenges/assets/images/challenges/meeting.png
 category: challenges
+description: As a developer you are not only someone who can translate business language to code. You are much more than that.
 ---
 
 

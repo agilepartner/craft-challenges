@@ -3,6 +3,7 @@ layout: single-card
 title: Positive feedback
 image: /craft-challenges/assets/images/culture/positive-feedback.png
 category: culture
+description: Feedback can be used to give information or praise, but it is also extremely useful as a tool to help people to improve.
 ---
 
 ## What ?

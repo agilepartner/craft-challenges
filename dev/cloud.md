@@ -3,6 +3,7 @@ layout: single-card
 title: Cloud
 image: /craft-challenges/assets/images/dev/cloud.png
 category: dev
+description: Cloud computing is the delivery of computing services/servers, storage, databases, networking, software, analytics and more—over the Internet (“the cloud”).  
 ---
 
 

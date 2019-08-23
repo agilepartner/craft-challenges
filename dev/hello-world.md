@@ -3,6 +3,7 @@ layout: single-card
 title: Hello world
 image: /craft-challenges/assets/images/dev/hello-world.png
 category: dev
+description: Choose a platform other than the one you are used to work with and write your first Hello World app.
 ---
 
 ## What ?

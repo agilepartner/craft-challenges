@@ -3,6 +3,7 @@ layout: single-card
 title: Agile swarming
 image: /craft-challenges/assets/images/dev/agile-swarming.png
 category: dev
+description: Every team member works on the same user story/product backlog item/feature at the same time.
 ---
 
 

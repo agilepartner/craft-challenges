@@ -3,6 +3,7 @@ layout: single-card
 title: Lean coffee
 image: /craft-challenges/assets/images/practices/lean-coffee.png
 category: practices
+description: Lean Coffee is a structured, but agenda-less meeting. It is a gathering of a small number of people who want to discuss topics in an informal setting. 
 ---
 
 

@@ -3,6 +3,7 @@ layout: single-card
 title: Podcast
 image: /craft-challenges/assets/images/culture/podcast.png
 category: culture
+description: A podcast or generically netcast, is an episodic series of digital audio or video files which a user can download and listen to.
 ---
 
 

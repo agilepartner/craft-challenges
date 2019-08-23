@@ -3,6 +3,7 @@ layout: single-card
 title: Konami
 image: /craft-challenges/assets/images/dev/konami-code.png
 category: dev
+description: A Konami Code is a cheat code that appears in many Konami video games.  The code is also present as an Easter egg on a number of websites.
 ---
 
 

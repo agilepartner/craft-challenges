@@ -3,6 +3,7 @@ layout: single-card
 title: Serious game
 image: /craft-challenges/assets/images/culture/serious-game.png
 category: culture
+description: Serious games are interesting tools to acquire knowledge, both for their motivational effect and the pedagogical principles.
 ---
 
 

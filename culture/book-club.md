@@ -3,6 +3,7 @@ layout: single-card
 title: Book club
 image: /craft-challenges/assets/images/culture/book-club.png
 category: culture
+description: A book club is a reading group, usually consisting of a number of people who read and share about books based on a topic or an agreed-upon reading list.
 ---
 
 

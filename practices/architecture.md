@@ -3,6 +3,7 @@ layout: single-card
 title: Architecture
 image: /craft-challenges/assets/images/practices/architecture.png
 category: practices
+description: The way that software components — subroutines, classes, functions, etc. — are arranged, and the interactions between them, is called architecture.
 ---
 
 

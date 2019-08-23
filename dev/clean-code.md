@@ -3,6 +3,7 @@ layout: single-card
 title: Clean code
 image: /craft-challenges/assets/images/dev/clean-code.png
 category: dev
+description: Clean code is subjective and every developer has a personal take on it. There are some ideas that are considered best practices and what constitutes as clean code within the industry and community, but there is no definitive definition.
 ---
 
 

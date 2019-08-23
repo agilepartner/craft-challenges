@@ -3,6 +3,7 @@ layout: single-card
 title: Tech radar
 image: /craft-challenges/assets/images/challenges/tech-radar.png
 category: challenges
+description: The tech radar is an online publication created by Thoughtworks Technology Advisory Board, a diverse group of senior technology leaders from all over the ThoughtWorks’ world.
 ---
 
 ## What ?

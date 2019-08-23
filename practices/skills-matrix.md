@@ -3,6 +3,7 @@ layout: single-card
 title: Skills matrix
 image: /craft-challenges/assets/images/practices/skills-matrix.png
 category: practices
+description: A skills matrix is a grid or table that clearly and visibly illustrates the skills and competence held by individuals within a team.
 ---
 
 

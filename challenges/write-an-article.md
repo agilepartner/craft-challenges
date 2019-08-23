@@ -3,6 +3,7 @@ layout: single-card
 title: Write an article
 image: /craft-challenges/assets/images/challenges/Write-an-article.png
 category: challenges
+description: Write an article about something your really care about.
 ---
 
 ## What ?

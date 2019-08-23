@@ -3,10 +3,8 @@ layout: single-card
 title: Agile topics
 image: /craft-challenges/assets/images/culture/agile-topics.png
 category: culture
+description: Agile topics is a deck of cards created by Jimmy Janlén to discover agile topics.
 ---
-
-
-
 
 ## What ?
 "Agile topics" is a deck of cards created by [*Jimmy Janlén*](https://www.linkedin.com/in/jimmyjanlen/) from Crisp.  

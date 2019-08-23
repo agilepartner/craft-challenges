@@ -3,6 +3,7 @@ layout: single-card
 title: Brown bag
 image: /craft-challenges/assets/images/culture/brown-bag.png
 category: culture
+description: A brown bag lunch is an open session that is organized during the lunch time. 
 ---
 
 ## What ?

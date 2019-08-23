@@ -3,6 +3,7 @@ layout: single-card
 title: Automate
 image: /craft-challenges/assets/images/dev/automate.png
 category: dev
+description: Basic idea lean is to eliminate anything and everything that does not add value from the perspective of your customer. 
 ---
 
 ## What ?

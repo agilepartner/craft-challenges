@@ -3,6 +3,7 @@ layout: single-card
 title: Docker
 image: /craft-challenges/assets/images/dev/docker.png
 category: dev
+description: Docker is a tool designed to make it easier to create, deploy, and run applications by using containers.
 ---
 
 ## What ?

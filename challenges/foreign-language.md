@@ -3,8 +3,8 @@ layout: single-card
 title: Foreign language
 image: /craft-challenges/assets/images/challenges/foreign-language.png
 category: challenges
+description: To master a foreign language we need to practice it.
 ---
-
 
 ## What ?
 In order to master a foreign language we need to practice it.

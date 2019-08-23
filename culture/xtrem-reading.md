@@ -3,6 +3,7 @@ layout: single-card
 title: Xtrem Reading
 image: /craft-challenges/assets/images/culture/xtrem-reading.png
 category: culture
+description: Xtrem Reading is a technique we have created at AgilePartner. 
 ---
 
 ## What ?

@@ -3,6 +3,7 @@ layout: single-card
 title: Unusual clothes
 image: /craft-challenges/assets/images/challenges/unusual-clothes.png
 category: challenges
+description: Wearing unusual clothes will bring fun at your office especially when nobody is aware about it.
 ---
 
 

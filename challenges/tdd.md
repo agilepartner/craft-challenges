@@ -3,6 +3,7 @@ layout: single-card
 title: TDD
 image: /craft-challenges/assets/images/challenges/tdd.png
 category: challenges
+description: Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle.
 ---
 
 

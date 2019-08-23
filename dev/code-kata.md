@@ -3,6 +3,7 @@ layout: single-card
 title: Code kata
 image: /craft-challenges/assets/images/dev/code-kata.png
 category: dev
+description: A kata, or code kata, is defined as an exercise in programming which helps hone your skills through practice and repetition.
 ---
 
 

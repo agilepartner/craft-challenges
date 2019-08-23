@@ -3,6 +3,7 @@ layout: single-card
 title: BDD
 image: /craft-challenges/assets/images/dev/bdd.png
 category: dev
+description: Behaviour Driven Development (BDD) is a synthesis and refinement of practices stemming from Test Driven Development (TDD) and Acceptance Test Driven Development (ATDD).  
 ---
 
 

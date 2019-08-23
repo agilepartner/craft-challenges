@@ -3,6 +3,7 @@ layout: single-card
 title: Share
 image: /craft-challenges/assets/images/practices/share.png
 category: practices
+description: Organizations increasingly use teams as a basis for structuring work and decision-making. A central reason for utilizing a multi-person format for making decisions is for reaching decisions of higher quality than possible by a single individual.
 ---
 
 
