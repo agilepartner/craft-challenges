@@ -5,5 +5,16 @@ sass:
 plugins:
   - jekyll-target-blank
 
+collections:
+  challenges:
+    output: true    
+  culture:
+    output: true    
+  dev:
+    output: true
+  practices:
+    output: true    
+  silver:
+    output: true  
 
 google_analytics: UA-29550143-5

@@ -1,0 +1,47 @@
+---
+
+---
+{ "craft-challenges" :
+    {
+      "version" : "1.0",
+      "cards" : [
+            {% for card in site.challenges %}
+            {
+                "title": "{{ card.title }}",
+                "description" : "{{ card.description }}",
+                "url" : "{{ card.url }}",
+                "image" : "{{ site.baseurl }}{{ card.url }}",
+                "category" : "challenges"
+            },{% endfor %}{% for card in site.culture %}
+            {
+                "title": "{{ card.title }}",
+                "description" : "{{ card.description }}",
+                "url" : "{{ card.url }}",
+                "image" : "{{ site.baseurl }}{{ card.url }}",
+                "category" : "culture"
+            },{% endfor %}{% for card in site.dev %}
+            {
+                "title": "{{ card.title }}",
+                "description" : "{{ card.description }}",
+                "url" : "{{ card.url }}",
+                "image" : "{{ site.baseurl }}{{ card.url }}",
+                "category" : "dev"
+            },{% endfor %}{% for card in site.practices %}
+            {
+                "title": "{{ card.title }}",
+                "description" : "{{ card.description }}",
+                "url" : "{{ card.url }}",
+                "image" : "{{ site.baseurl }}{{ card.url }}",
+                "category" : "practices"
+            },{% endfor %}{% for card in site.silver %}
+            {
+                "title": "{{ card.title }}",
+                "description" : "{{ card.description }}",
+                "url" : "{{ card.url }}",
+                "image" : "{{ site.baseurl }}{{ card.url }}",
+                "category" : "silver"
+                }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+        ]
+    }
+} 

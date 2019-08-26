@@ -3,7 +3,7 @@ layout: single-card
 title: Kudo wall
 image: /craft-challenges/assets/images/practices/exploratory-testing.png
 category: practices
-description: Some companies call them HERO awards, others Rippas or Hugs, in Management 3.0 it is called Kudos. Kudo means "Thank you" in japanese.  
+description: Some companies call them HERO awards, others Rippas or Hugs, in Management 3.0 it is called Kudos. Kudo means Thank you in japanese.  
 ---
 
 
