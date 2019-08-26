@@ -1,6 +1,6 @@
 async function openARandomCard(){
     await getARandomCard()
-            .then(card => window.open(card.url));
+            .then(card => window.open(card.url,"_blank"));
 }
 
 function getARandomCard(){
