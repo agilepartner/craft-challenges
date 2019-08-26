@@ -1,7 +1,7 @@
 ---
 
 ---
-{ "craft-challenges" :
+{ "challenges" :
     {
       "version" : "1.0",
       "cards" : [

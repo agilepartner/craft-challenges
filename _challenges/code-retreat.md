@@ -1,6 +1,6 @@
 ---
 layout: single-card
-title: Code retrat
+title: Code retreat
 image: /craft-challenges/assets/images/challenges/code-retreat.png
 category: challenges
 description: A CodeRetreat is an intensive practice event, focusing on the fundamentals of software development and design.
