@@ -14,9 +14,9 @@
     </div>
 
     <div class="grid-flex grid-cards">
-      {% for card in site.data.cardsChallenges.cards.first.culture %}
+      {% for card in site.culture %}
       <div class="column w-16">
-        <a href="{{card.link}}"><img src="{{card.image}}"  /></a>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ card.url }}"><img src="{{card.image}}"  /></a>
       </div>
       {% endfor %}
     </div>
