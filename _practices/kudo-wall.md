@@ -1,7 +1,7 @@
 ---
 layout: single-card
 title: Kudo wall
-image: /craft-challenges/assets/images/practices/exploratory-testing.png
+image: /craft-challenges/assets/images/practices/kudo-wall.png
 category: practices
 description: Some companies call them HERO awards, others Rippas or Hugs, in Management 3.0 it is called Kudos. Kudo means Thank you in japanese.  
 ---
