@@ -77,7 +77,7 @@ Present your results to other teams.
 ![With great power comes great responsibility]({{ site.baseurl }}/assets/images/ethics4.jpg)
 
 ## Resources
-* [The Tarot Cards of Tech - Discover the power of predicting impact][https://www.artefactgroup.com/case-studies/the-tarot-cards-of-tech/]
+* [The Tarot Cards of Tech - Discover the power of predicting impact](https://www.artefactgroup.com/case-studies/the-tarot-cards-of-tech/)
 * [EthicalOS - a guide to anticipating the future impact of today's technology](https://ethicalos.org/)
 * [The Programmer's Oath - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 * [Association for Computing Machinery (ACM) code of ethics](https://www.acm.org/code-of-ethics)
