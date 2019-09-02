@@ -77,8 +77,9 @@ Present your results to other teams.
 ![With great power comes great responsibility]({{ site.baseurl }}/assets/images/ethics4.jpg)
 
 ## Resources
+* [The Tarot Cards of Tech - Discover the power of predicting impact][https://www.artefactgroup.com/case-studies/the-tarot-cards-of-tech/]
+* [EthicalOS - a guide to anticipating the future impact of today's technology](https://ethicalos.org/)
 * [The Programmer's Oath - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
-* [Uncle Bob Martin - The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 * [Association for Computing Machinery (ACM) code of ethics](https://www.acm.org/code-of-ethics)
 * [5 principles of software ethics – Steven Wilmott](https://thenewstack.io/five-principles-software-ethics/)
 * [A Code of Ethics for (Agile) Software Developers? - Christiaan Verwijs](https://medium.com/the-liberators/a-code-of-ethics-for-agile-software-developers-430b9a879be6)
